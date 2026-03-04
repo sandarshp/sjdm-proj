@@ -1,0 +1,2109 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <title> Self-Judgments Task!</title>
+    <meta charset="UTF-8">
+
+    <script src="https://lib.pavlovia.org/vendors/jspsych-7.1.2/jspsych.js"></script>
+    <script src="https://lib.pavlovia.org/vendors/jspsych-7.1.2/plugin-canvas-keyboard-response.js"></script>
+    <script src="https://lib.pavlovia.org/vendors/jspsych-7.1.2/plugin-html-keyboard-response.js"></script>
+    <script src="https://lib.pavlovia.org/vendors/jspsych-7.1.2/plugin-html-button-response.js"></script>
+    <script src="https://lib.pavlovia.org/vendors/jspsych-7.1.2/plugin-image-button-response.js"></script>
+    <script src="https://lib.pavlovia.org/vendors/jspsych-7.1.2/plugin-image-keyboard-response.js"></script>
+    <script src="https://lib.pavlovia.org/vendors/jspsych-7.1.2/plugin-html-slider-response.js"></script>
+    <script src="https://lib.pavlovia.org/vendors/jspsych-7.1.2/plugin-external-html.js"></script>
+    <script src="https://lib.pavlovia.org/vendors/jspsych-7.1.2/plugin-instructions.js"></script>
+    <script src="https://lib.pavlovia.org/vendors/jspsych-7.1.2/plugin-survey-text.js"></script>
+    <script src="https://lib.pavlovia.org/vendors/jspsych-7.1.2/plugin-survey-likert.js"></script>
+    <script src="https://lib.pavlovia.org/vendors/jspsych-7.1.2/plugin-call-function.js"></script>
+    <script src="https://lib.pavlovia.org/vendors/jspsych-7.1.2/plugin-survey-multi-choice.js"></script>
+    <script src="https://lib.pavlovia.org/vendors/jspsych-7.1.2/plugin-video-button-response.js"></script>
+    <script src="https://lib.pavlovia.org/vendors/jspsych-7.1.2/plugin-preload.js"></script>
+    <link rel="stylesheet" href="https://lib.pavlovia.org/vendors/jspsych-7.1.2/jspsych.css">
+    </link>
+    <script type="text/javascript" src="https://pavlovia.org/lib/jspsych-7-pavlovia-2022.1.1.js"></script>
+
+</head>
+
+<body>
+    <script type='text/javascript'>
+
+        let currentTrial = 0;
+        let totalTrials = 397;
+
+        /* start the experiment */
+        var jsPsych = initJsPsych(
+            {
+                show_progress_bar: false
+                // on_trial_finish: function (data) {
+                // 	console.log(`Trial ${data.internal_node_id} just finished:`, data);
+                // },
+                // on_finish: function(data) {
+                // 	jsPsych.data.displayData();
+                // }
+            }
+        );
+
+        jsPsych.data.addProperties({
+            phase: "post",
+        });
+
+        /* init connection with pavlovia.org */
+        var pavlovia_init = {
+            type: jsPsychPavlovia,
+            command: "init"
+        };
+
+
+        let posWords = [
+            "helper",
+            "excited",
+            "tolerant",
+            "devoted",
+            "seeker",
+            "spirited",
+            "spectacular",
+            "charming",
+            "graceful",
+            "carefree",
+            "blissful",
+            "brave",
+            "admired",
+            "fun",
+            "pleased",
+            "sophisticated",
+            "friend",
+            "committed",
+            "attractive",
+            "talented",
+            "visionary",
+            "witty",
+            "lovable",
+            "energetic",
+            "asset",
+            "smart",
+            "gentle",
+            "smiley",
+            "safe",
+            "hopeful",
+            "champion",
+            "companion",
+            "proficient",
+            "satisfied",
+            "valued",
+            "achiever",
+            "wise",
+            "easygoing",
+            "humorous",
+            "unique",
+            "healthy",
+            "enthusiastic",
+            "appealing",
+            "learner",
+            "merciful",
+            "spontaneous",
+            "goodwilled",
+            "entertaining",
+            "idealistic",
+            "legendary",
+            "alluring",
+            "clever",
+            "adventurous",
+            "capable",
+            "skilled",
+            "peaceful",
+            "honest",
+            "delight",
+            "esteemed",
+            "expert",
+            "knowledgeable",
+            "successful",
+            "playful",
+            "grateful",
+            "reliable",
+            "thoughtful",
+            "resourceful",
+            "adorable",
+            "eloquent",
+            "flawless",
+            "inspirational",
+            "authentic",
+            "credible",
+            "virtuous",
+            "decisive",
+            "courteous",
+            "sensible",
+            "cooperative",
+            "patient",
+            "respectable"
+        ];
+
+
+        let negWords = [
+            "prick",
+            "vermin",
+            "unwanted",
+            "creep",
+            "hater",
+            "unfaithful",
+            "vengeful",
+            "empty",
+            "sloppy",
+            "distressed",
+            "hesitant",
+            "selfish",
+            "immoral",
+            "incompetent",
+            "unforgivable",
+            "bitter",
+            "disastrous",
+            "awkward",
+            "disgrace",
+            "parasite",
+            "slob",
+            "negligent",
+            "defective",
+            "untrustworthy",
+            "heartbroken",
+            "anxious",
+            "quitter",
+            "dull",
+            "menace",
+            "burden",
+            "alone",
+            "fool",
+            "headache",
+            "regretful",
+            "gloomy",
+            "degenerate",
+            "rude",
+            "coward",
+            "unbearable",
+            "irresponsible",
+            "loser",
+            "outcast",
+            "garbage",
+            "uninvited",
+            "worthless",
+            "repulsive",
+            "fraud",
+            "terrible",
+            "failure",
+            "disgusting",
+            "insecure",
+            "traitor",
+            "liar",
+            "jerk",
+            "phony",
+            "inadequate",
+            "miserable",
+            "shameful",
+            "irritating",
+            "pest",
+            "unlucky",
+            "boring",
+            "deceitful",
+            "hopeless",
+            "lifeless",
+            "violent",
+            "awful",
+            "malicious",
+            "toxic",
+            "arrogant",
+            "unpleasant",
+            "stingy",
+            "problematic",
+            "sadistic",
+            "bully",
+            "helpless",
+            "hateful",
+            "disloyal",
+            "jealous",
+            "cruel"
+        ];
+
+
+
+        let pracPairLeft = [
+            "envious",
+            "calculating",
+            "obnoxious",
+            "earnest",
+            "spunky",
+        ];
+
+        let pracPairRight = [
+            "vain",
+            "timid",
+            "zealous",
+            "sincere",
+            "mature"
+        ];
+
+        let newRecogPracWords = [
+            "classy",
+            "passionate"
+        ];
+
+        let newPosWords = [
+            // 20 words
+            "creative",
+            "useful",
+            "optimistic",
+            "affectionate",
+            "ambitious",
+            "radiant",
+            "lucky",
+            "charitable",
+            "productive",
+            "vibrant",
+            "respectful",
+            "dreamer",
+            "jolly",
+            "special",
+            "confident",
+            "romantic",
+            "enjoyable",
+            "comfortable",
+            "winner",
+            "excellent",
+        ];
+
+        let newNegWords = [
+            // 20 words
+            "disappointment",
+            "grumpy",
+            "turnoff",
+            "reject",
+            "annoying",
+            "undesirable",
+            "idiot",
+            "lazy",
+            "pitiful",
+            "gross",
+            "scoundrel",
+            "hypocrite",
+            "inferior",
+            "cynic",
+            "lunatic",
+            "mess",
+            "unwelcome",
+            "incapable",
+            "dummy",
+            "greedy",
+        ];
+
+        const phq_threshold = 0;
+
+        function checkOverlap(array1, array2, label1 = "Array 1", label2 = "Array 2") {
+            const set2 = new Set(array2);
+            const overlapping = array1.filter(word => set2.has(word));
+            if (overlapping.length > 0) {
+                console.warn(`Overlap found between ${label1} and ${label2}:`, overlapping);
+            } else {
+                console.log(`No overlap between ${label1} and ${label2}.`);
+            }
+        }
+
+        // Run overlap checks
+        checkOverlap(newPosWords, posWords, "newPosWords", "posWords");
+        checkOverlap(newNegWords, negWords, "newNegWords", "negWords");
+        checkOverlap(newPosWords, newNegWords, "newPosWords", "newNegWords");
+        checkOverlap(posWords, negWords, "posWords", "negWords");
+
+
+        // ratings
+        let nRatingTrials = posWords.length + negWords.length;
+        let ratingWordsArray = [];
+        let shuffledRatingsArray;
+        let ranPosWords = jsPsych.randomization.shuffle(posWords);
+        let ranNegWords = jsPsych.randomization.shuffle(negWords);
+        let wordsUsedRatingsPos = [];
+        let wordsUsedRatingsNeg = [];
+
+
+        for (var i = 0; i < nRatingTrials / 2; i++) {
+            let thisPosRatingTrial = {
+                which_experiment_phase: "ratings",
+                valence: "positive",
+                stim: ranPosWords[i],
+            };
+            ratingWordsArray.push(thisPosRatingTrial);
+            wordsUsedRatingsPos.push(ranPosWords[i]);
+
+            let thisNegRatingTrial = {
+                which_experiment_phase: "ratings",
+                valence: "negative",
+                stim: ranNegWords[i],
+            };
+            ratingWordsArray.push(thisNegRatingTrial);
+            wordsUsedRatingsNeg.push(ranNegWords[i]);
+        }
+        shuffledRatingsArray = jsPsych.randomization.shuffle(ratingWordsArray);
+
+        let trialNumber = 1;
+        shuffledRatingsArray.forEach(function (trial) {
+            trial.trialNumber = trialNumber;
+            trialNumber++;
+        });
+
+        let firstHalfRatings = shuffledRatingsArray.slice(0, nRatingTrials / 2);
+        let secondHalfRatings = shuffledRatingsArray.slice(nRatingTrials / 2, nRatingTrials * 3 / 4);
+        let finalQuarterRatings = shuffledRatingsArray.slice(nRatingTrials * 3 / 4);
+
+        let midwayMessage = {
+            type: jsPsychHtmlButtonResponse,
+            stimulus: `
+        <p> This phase of the task is 50% complete </p>    
+        <p> Reminder to please use the <b>full scale</b> as you respond if possible.</p>
+        <p> That is, do not just rate words 0 or 100, but consider if each word is somewhere in between. For instance, 10 would mean the word describes you just a little </p>
+        <p>When you're ready, click the button below to continue with the rest of the task.</p>
+    `,
+            choices: ['Continue'],
+            data: { which_experiment_phase: "midway_message" }
+        };
+
+
+        let finalQuarterMessage = {
+            type: jsPsychHtmlButtonResponse,
+            stimulus: `
+        <p> This phase of the task is 75% complete </p>    
+        <p>When you're ready, click the button below to continue with the rest of the task.</p>
+    `,
+            choices: ['Continue'],
+            data: { which_experiment_phase: "midway_message" }
+        };
+
+
+        // console.log("shuffledRatingsArray", shuffledRatingsArray)
+
+        // practice pairings
+        let nPracPairTrials = 5;
+        let shuffledPracPairLeft = jsPsych.randomization.shuffle(pracPairLeft);
+        let shuffledPracPairRight = jsPsych.randomization.shuffle(pracPairRight);
+        let pracPairingWordsArray = [];
+
+        for (var p = 0; p < nPracPairTrials; p++) {
+
+            let thisPracPairTrial = {
+                "which_experiment_phase": "pairingPractice",
+                "left_stim": shuffledPracPairLeft[p],
+                "right_stim": shuffledPracPairRight[p],
+                "valence": "practice"
+            }
+            pracPairingWordsArray.push(thisPracPairTrial)
+        };
+
+        let trialNumPair = 1;
+        pracPairingWordsArray.forEach(function (trial) {
+            trial.trial_number = trialNumPair;
+            trialNumPair++;
+        });
+
+        // main pairings
+
+
+
+
+        // Full function with updated logic for PosNeg (covering 12 bins) and standard logic for PosPos and NegNeg
+        function binAndSamplePairsRelaxedAndBalanced(allPairs) {
+            const bins = [
+                { min: 0, max: 33 },
+                { min: 34, max: 66 },
+                { min: 67, max: 100 }
+            ];
+
+            const finalSelectedPairs = {
+                PosPos: [],
+                NegNeg: [],
+                PosNeg: []
+            };
+
+            const seenPairKeys = new Set();
+            const globalWordUseCount = {};
+            const wordUsePerCondition = {
+                PosPos: {},
+                NegNeg: {},
+                PosNeg: {}
+            };
+
+            function getPairKey(pair) {
+                const sorted = [pair.word1, pair.word2].sort();
+                return `${sorted[0]}::${sorted[1]}`;
+            }
+
+            function binIndex(value) {
+                for (let i = 0; i < bins.length; i++) {
+                    if (value >= bins[i].min && value <= bins[i].max) return i;
+                }
+                return -1;
+            }
+
+            function canUseWords(pair, cond) {
+                for (let word of [pair.word1, pair.word2]) {
+                    if ((globalWordUseCount[word] || 0) >= 4) return false;
+                    if ((wordUsePerCondition[cond][word] || 0) >= 4) return false; //maybe this is redundant
+                }
+                return true;
+            }
+
+            function incrementWordCounts(pair, cond) {
+                for (let word of [pair.word1, pair.word2]) {
+                    globalWordUseCount[word] = (globalWordUseCount[word] || 0) + 1;
+                    wordUsePerCondition[cond][word] = (wordUsePerCondition[cond][word] || 0) + 1;
+                }
+            }
+
+            const binLogs = {
+                PosPos: { L_R: [0, 0, 0], R_L: [0, 0, 0] },
+                NegNeg: { L_R: [0, 0, 0], R_L: [0, 0, 0] },
+                PosNeg: {
+                    L_R: { Pos_Neg: [0, 0, 0], Neg_Pos: [0, 0, 0] },
+                    R_L: { Pos_Neg: [0, 0, 0], Neg_Pos: [0, 0, 0] }
+                }
+            };
+
+            function addPairToFinal(condition, pair) {
+                pair.condition = condition;
+                finalSelectedPairs[condition].push(pair);
+                seenPairKeys.add(getPairKey(pair));
+                incrementWordCounts(pair, condition);
+            }
+
+            function sampleSymmetric(condition, filteredPairs) {
+                for (let direction of ['L_R', 'R_L']) {
+                    for (let binIdx = 0; binIdx < bins.length; binIdx++) {
+                        let needed = 4;
+                        let added = 0;
+                        for (let pair of jsPsych.randomization.shuffle(filteredPairs)) {
+                            const key = getPairKey(pair);
+                            if (seenPairKeys.has(key)) continue;
+                            if (!canUseWords(pair, condition)) continue;
+
+                            const diff = pair.rating1 - pair.rating2;
+                            const bin = binIndex(Math.abs(diff));
+                            if (bin !== binIdx) continue;
+
+                            const isLR = (direction === 'L_R' && diff > 0);
+                            const isRL = (direction === 'R_L' && diff < 0);
+                            if (!isLR && !isRL) continue;
+
+                            addPairToFinal(condition, pair);
+                            binLogs[condition][direction][binIdx]++;
+                            added++;
+                            if (added === needed) break;
+                        }
+                    }
+                }
+            }
+
+            function samplePosNeg(posNegPairs) {
+                const MAX_PER_SUBTYPE = 2;
+
+                for (let direction of ['L_R', 'R_L']) {
+                    for (let binIdx = 0; binIdx < bins.length; binIdx++) {
+                        let subTypeCounts = { Pos_Neg: 0, Neg_Pos: 0 };
+
+                        for (let pair of jsPsych.randomization.shuffle(posNegPairs)) {
+                            const key = getPairKey(pair);
+                            if (seenPairKeys.has(key)) continue;
+                            if (!canUseWords(pair, 'PosNeg')) continue;
+
+                            const isLR = direction === 'L_R';
+                            const diff = isLR ? pair.rating1 - pair.rating2 : pair.rating2 - pair.rating1;
+                            if (diff <= 0 || binIndex(diff) !== binIdx) continue;
+
+                            // Determine positive and negative word
+                            const posRating = pair.valence1 === 'positive' ? pair.rating1 : pair.rating2;
+                            const negRating = pair.valence1 === 'negative' ? pair.rating1 : pair.rating2;
+                            const isPosNeg = posRating > negRating;
+                            const subDir = isPosNeg ? 'Pos_Neg' : 'Neg_Pos';
+
+                            // Enforce subtype max
+                            if (subTypeCounts[subDir] >= MAX_PER_SUBTYPE) continue;
+
+                            // Add trial
+                            addPairToFinal('PosNeg', pair);
+                            binLogs['PosNeg'][direction][subDir][binIdx]++;
+                            subTypeCounts[subDir]++;
+
+                            // Stop once both subtypes are satisfied
+                            if (
+                                subTypeCounts['Pos_Neg'] === MAX_PER_SUBTYPE &&
+                                subTypeCounts['Neg_Pos'] === MAX_PER_SUBTYPE
+                            ) break;
+                        }
+                    }
+                }
+            }
+
+
+            const posPosPairs = allPairs.filter(p => p.valence1 === 'positive' && p.valence2 === 'positive');
+            const negNegPairs = allPairs.filter(p => p.valence1 === 'negative' && p.valence2 === 'negative');
+            const posNegPairs = allPairs.filter(p => (p.valence1 === 'positive' && p.valence2 === 'negative') || (p.valence1 === 'negative' && p.valence2 === 'positive'));
+
+            sampleSymmetric('PosPos', posPosPairs);
+            sampleSymmetric('NegNeg', negNegPairs);
+            samplePosNeg(posNegPairs);
+
+            function matchesCond(p, cond) {
+                if (cond === 'PosPos') return p.valence1 === 'positive' && p.valence2 === 'positive';
+                if (cond === 'NegNeg') return p.valence1 === 'negative' && p.valence2 === 'negative';
+                return p.valence1 !== p.valence2; // PosNeg
+            }
+
+
+            // Fallback
+            for (let cond of ['PosPos', 'NegNeg', 'PosNeg']) {
+                const needed = 24 - finalSelectedPairs[cond].length;
+                if (needed > 0) {
+                    const fallback = jsPsych.randomization.shuffle(
+                        allPairs.filter(p => {
+                            const key = getPairKey(p);
+                            return !seenPairKeys.has(key) && matchesCond(p, cond) && canUseWords(p, cond);
+                        })
+                    ).slice(0, needed);
+                    fallback.forEach(p => addPairToFinal(cond, p));
+                }
+            }
+
+            // ---------- Logging ----------
+            console.log("===== Pairing Bin Summary =====");
+            for (let cond of ['PosPos', 'NegNeg']) {
+                console.log(`\n${cond}`);
+                ['L_R', 'R_L'].forEach(dir => {
+                    bins.forEach((b, i) => {
+                        console.log(`${dir} Bin ${b.min}-${b.max}: ${binLogs[cond][dir][i]} trials`);
+                    });
+                });
+            }
+            console.log("\nPosNeg");
+            ['L_R', 'R_L'].forEach(dir => {
+                ['Pos_Neg', 'Neg_Pos'].forEach(sub => {
+                    bins.forEach((b, i) => {
+                        console.log(`${dir} ${sub} Bin ${b.min}-${b.max}: ${binLogs.PosNeg[dir][sub][i]} trials`);
+                    });
+                });
+            });
+
+            return finalSelectedPairs;
+        }
+
+
+        let constructPairings = {
+            type: jsPsychCallFunction,
+            func: function () {
+                try {
+                    let cleanedRatings = jsPsych.data.get().filter({ which_experiment_phase: "ratings" }).values().map(trial => ({
+                        word: trial.word_used,
+                        rating: trial.response,
+                        valence: trial.valence
+                    }));
+
+                    if (cleanedRatings.length === 0) {
+                        console.error("No ratings data found.");
+                        jsPsych.resumeExperiment();
+                        return;
+                    }
+
+                    let allPairs = [];
+                    for (let i = 0; i < cleanedRatings.length; i++) {
+                        for (let j = 0; j < cleanedRatings.length; j++) {
+                            if (i === j) continue;
+                            let word1 = cleanedRatings[i];
+                            let word2 = cleanedRatings[j];
+                            allPairs.push({
+                                word1: word1.word,
+                                word2: word2.word,
+                                rating1: word1.rating,
+                                rating2: word2.rating,
+                                valence1: word1.valence,
+                                valence2: word2.valence,
+                                abs_diff: Math.abs(word1.rating - word2.rating)
+                            });
+                        }
+                    }
+
+                    let selectedPairs = binAndSamplePairsRelaxedAndBalanced(allPairs);
+                    console.log('Selected Pairs PosPos', selectedPairs.PosPos.length);
+                    console.log('Selected Pairs NegNeg', selectedPairs.NegNeg.length)
+                    console.log('Selected Pairs PosNeg', selectedPairs.PosNeg.length)
+
+
+                    // ------------------- First 16 Trials (Sum constraint + fallback) -------------------
+                    function filterBySum(pairs, minSum = 80, maxSum = 120) {
+                        return pairs.filter(p => {
+                            const sum = p.rating1 + p.rating2;
+                            return sum >= minSum && sum <= maxSum;
+                        });
+                    }
+
+                    let filteredPosPos = filterBySum(selectedPairs.PosPos);
+                    let filteredNegNeg = filterBySum(selectedPairs.NegNeg);
+
+                    // Log how many trials met the constraint
+                    console.log(`[PosPos] Trials meeting sum constraint (80–120): ${filteredPosPos.length}`);
+                    console.log(`[NegNeg] Trials meeting sum constraint (80–120): ${filteredNegNeg.length}`);
+
+
+                    let posPos8 = jsPsych.randomization.shuffle(filteredPosPos).slice(0, 8);
+                    let negNeg8 = jsPsych.randomization.shuffle(filteredNegNeg).slice(0, 8);
+
+                    // Fallback if not enough sum-constrained trials
+                    if (posPos8.length < 8) {
+                        const fallback = jsPsych.randomization.shuffle(
+                            selectedPairs.PosPos.filter(p => !posPos8.includes(p))
+                        ).slice(0, 8 - posPos8.length);
+                        posPos8 = posPos8.concat(fallback);
+                    }
+
+                    if (negNeg8.length < 8) {
+                        const fallback = jsPsych.randomization.shuffle(
+                            selectedPairs.NegNeg.filter(p => !negNeg8.includes(p))
+                        ).slice(0, 8 - negNeg8.length);
+                        negNeg8 = negNeg8.concat(fallback);
+                    }
+
+                    let first16 = jsPsych.randomization.shuffle(posPos8.concat(negNeg8));
+
+
+                    // Next 8: PosNeg with smallest rating difference
+                    let posNegSorted = selectedPairs.PosNeg
+                        .slice()
+                        .sort((a, b) => a.abs_diff - b.abs_diff);
+
+                    console.log("First 8 PosNeg sorted trials:", posNegSorted.slice(0, 8).map(p => p.condition));
+
+                    let next8 = posNegSorted.slice(0, 8);
+
+                    // Remaining 48: Remove anything used already
+                    let first24 = [...first16, ...next8];
+                    let remainingPool = selectedPairs.PosPos
+                        .concat(selectedPairs.NegNeg)
+                        .concat(selectedPairs.PosNeg)
+                        .filter(p => !first24.includes(p));
+                    let remaining48 = jsPsych.randomization.shuffle(remainingPool).slice(0, 48);
+
+                    // Final sequence of trials
+                    let reorderedFinalPairs = first16.concat(next8).concat(remaining48);
+
+
+                    console.log("Missing condition on final pairs:", reorderedFinalPairs.filter(p => !p.condition));
+
+
+                    let finalTrials = reorderedFinalPairs.map((pair, idx) => {
+
+                        // 🔍 Sanity check for missing/invalid condition
+                        if (!['PosPos', 'NegNeg', 'PosNeg'].includes(pair.condition)) {
+                            console.warn(`Invalid or missing condition for trial ${idx + 1}`, pair);
+                        }
+
+                        // 🔍 Check if PosNeg is incorrectly made of same-valence words
+                        if (
+                            pair.condition === "PosNeg" &&
+                            ((pair.valence1 === 'positive' && pair.valence2 === 'positive') ||
+                                (pair.valence1 === 'negative' && pair.valence2 === 'negative'))
+                        ) {
+                            console.warn(`Misclassified PosNeg trial ${idx + 1}:`, {
+                                left: pair.word1, val1: pair.valence1,
+                                right: pair.word2, val2: pair.valence2
+                            });
+                        }
+
+                        return {
+                            trial_number: idx + 1,
+                            left_stim: pair.word1,
+                            right_stim: pair.word2,
+                            left_rating: pair.rating1,
+                            right_rating: pair.rating2,
+                            left_valence: pair.valence1,
+                            right_valence: pair.valence2,
+                            valence:
+                                pair.valence1 === "positive" && pair.valence2 === "positive"
+                                    ? "PosPos"
+                                    : pair.valence1 === "negative" && pair.valence2 === "negative"
+                                        ? "NegNeg"
+                                        : "PosNeg",
+                            abs_diff: pair.abs_diff,
+                            which_experiment_phase: "pairing"
+                        };
+                    });
+
+                    console.log("First 16 conditions:", finalTrials.slice(0, 16).map(t => t.valence));
+                    console.log("Next 8 conditions:", finalTrials.slice(16, 24).map(t => t.valence));
+
+                    const valenceCounts = finalTrials.reduce((acc, trial) => {
+                        acc[trial.valence] = (acc[trial.valence] || 0) + 1;
+                        return acc;
+                    }, {});
+                    console.log(" Reconstructed valence counts from finalTrials:", valenceCounts);
+
+                    if (finalTrials.length === 0) {
+                        console.error("No final trials generated.");
+                        jsPsych.resumeExperiment();
+                        return;
+                    }
+
+                    console.log("Final pairing trials generated:", finalTrials.length);
+                    console.log("First 16 (PosPos/NegNeg):", first16.length);
+                    console.log("Next 8 (lowest PosNeg diffs):", next8.map(p => p.abs_diff));
+                    console.log("Remaining 48:", remaining48.length);
+
+                    // For the Recog trials
+
+
+                    // Utility: get rating for a word from cleanedRatings
+                    function getRating(word) {
+                        const entry = cleanedRatings.find(r => r.word === word);
+                        return entry ? entry.rating : null;
+                    }
+
+                    // Utility: bin index
+                    function getRatingBin(rating) {
+                        if (rating >= 0 && rating <= 33) return 0;
+                        if (rating >= 34 && rating <= 66) return 1;
+                        if (rating >= 67 && rating <= 100) return 2;
+                        return -1;
+                    }
+
+                    // Function to get 20 words with bin constraints or fallback
+                    function sampleWordsByBinConstraint(uniqueWords, repeatWords, nTarget = 20) {
+                        const bins = { 0: [], 1: [], 2: [] };
+                        uniqueWords.forEach(word => {
+                            const rating = getRating(word);
+                            const bin = getRatingBin(rating);
+                            if (bin !== -1) bins[bin].push(word);
+                        });
+
+                        const binTargets = { 0: 7, 1: 6, 2: 7 };
+                        const canSatisfy = Object.entries(binTargets).every(([bin, count]) => bins[bin].length >= count);
+
+                        if (canSatisfy) {
+                            // Ideal case: sample exact bin counts
+                            const final = []
+                                .concat(jsPsych.randomization.shuffle(bins[0]).slice(0, 7))
+                                .concat(jsPsych.randomization.shuffle(bins[1]).slice(0, 6))
+                                .concat(jsPsych.randomization.shuffle(bins[2]).slice(0, 7));
+                            return final;
+                        }
+
+                        // Log fallback situation
+                        console.log("Could not meet bin constraint — falling back.");
+                        console.log("Available unique words per bin:");
+                        console.log("Low (0–33):", bins[0].length);
+                        console.log("Mid (34–66):", bins[1].length);
+                        console.log("High (67–100):", bins[2].length);
+
+                        // Step 1: Take all unique binned words
+                        let final = bins[0].concat(bins[1]).concat(bins[2]);
+
+                        // Step 2: Fill from remaining unique (not yet used)
+                        const binnedSet = new Set(final);
+                        const remainingUnique = uniqueWords.filter(w => !binnedSet.has(w));
+                        final = final.concat(jsPsych.randomization.shuffle(remainingUnique));
+
+                        // Step 3: Fill with repeats if still short
+                        if (final.length < nTarget) {
+                            final = final.concat(jsPsych.randomization.shuffle(repeatWords));
+                        }
+
+                        // Final safety cap
+                        return final.slice(0, nTarget);
+                    }
+
+                    // ==== STEP 1: Count appearances in pairings ====
+                    let wordCount = {};
+                    reorderedFinalPairs.forEach(pair => {
+                        [pair.word1, pair.word2].forEach(word => {
+                            wordCount[word] = (wordCount[word] || 0) + 1;
+                        });
+                    });
+
+                    // ==== STEP 2: Separate old words by valence ====
+                    let allOldPos = [];
+                    let allOldNeg = [];
+
+                    Object.keys(wordCount).forEach(word => {
+                        if (posWords.includes(word)) allOldPos.push(word);
+                        else if (negWords.includes(word)) allOldNeg.push(word);
+                    });
+
+                    // ==== STEP 3: Separate unique and repeat words ====
+                    let uniqueOldPos = allOldPos.filter(w => wordCount[w] === 1);
+                    let uniqueOldNeg = allOldNeg.filter(w => wordCount[w] === 1);
+                    let repeatOldPos = allOldPos.filter(w => wordCount[w] > 1);
+                    let repeatOldNeg = allOldNeg.filter(w => wordCount[w] > 1);
+
+                    // ==== STEP 4: Sample with bin constraint logic ====
+                    const nOldPerValence = 20;
+
+                    let finalOldPos = sampleWordsByBinConstraint(uniqueOldPos, repeatOldPos, nOldPerValence);
+                    let finalOldNeg = sampleWordsByBinConstraint(uniqueOldNeg, repeatOldNeg, nOldPerValence);
+
+                    // ==== STEP 5: Sanity check ====
+                    if (finalOldPos.length < nOldPerValence || finalOldNeg.length < nOldPerValence) {
+                        throw new Error("Not enough old positive or negative words for recognition phase, even with repeats.");
+                    }
+
+                    // STEP 6: New words
+                    let nNew = 40;
+                    let shuffledNewPos = jsPsych.randomization.shuffle(newPosWords).slice(0, nNew / 2);
+                    let shuffledNewNeg = jsPsych.randomization.shuffle(newNegWords).slice(0, nNew / 2);
+
+                    // STEP 7: Create recognition trials (no trialNumber yet)
+                    let recogTrials = [];
+
+                    finalOldPos.forEach(word => {
+                        recogTrials.push({
+                            stim: word,
+                            answer: "old",
+                            valence: "positive"
+                        });
+                    });
+                    finalOldNeg.forEach(word => {
+                        recogTrials.push({
+                            stim: word,
+                            answer: "old",
+                            valence: "negative"
+                        });
+                    });
+                    shuffledNewPos.forEach(word => {
+                        recogTrials.push({
+                            stim: word,
+                            answer: "new",
+                            valence: "positive"
+                        });
+                    });
+                    shuffledNewNeg.forEach(word => {
+                        recogTrials.push({
+                            stim: word,
+                            answer: "new",
+                            valence: "negative"
+                        });
+                    });
+
+                    // STEP 8: Shuffle and assign trial numbers
+                    let shuffledRecogArray = jsPsych.randomization.shuffle(recogTrials);
+
+                    shuffledRecogArray.forEach((trial, idx) => {
+                        trial.trialNumber = idx + 1;
+                    });
+
+                    console.log("Total recognition trials:", shuffledRecogArray.length);
+
+
+
+                    // Recognition block
+                    let recog_block = {
+                        timeline: [single_recog],
+                        timeline_variables: shuffledRecogArray,
+                        data: { which_experiment_phase: 'main_recog' }
+                    };
+
+
+                    // Insert into timeline
+                    jsPsych.addNodeToEndOfTimeline({
+                        timeline: [
+                            pairing_instructs,
+                            countdown,
+                            prac_pairing_block,
+                            main_pairing_instructs,
+                            countdown,
+                            {
+                                timeline: [single_pairing],
+                                timeline_variables: finalTrials,
+                                data: { which_experiment_phase: 'main_pairings' }
+                            },
+                            recall_instructs,
+                            recall_block,
+                            recog_instructs,
+                            countdown,
+                            prac_recog_block,
+                            main_recog_instructs,
+                            countdown,
+                            recog_block,
+                            new_ratings_instructs,
+                            countdown,
+                            new_rating_block,
+                            pre_final_survey_message,
+                            ptq16_survey,
+                            rrs_survey,
+                            pswq_survey,
+                            rse_survey,
+                            engagement_question, 
+                            accuracy_question, 
+                            strategy_used_prompt,
+                            happy_memory_prompt,
+                            pre_conclusion_message,
+                            conclusion,
+                            pavlovia_finish,
+                            redirect_to_survey
+                        ]
+                    }, jsPsych.resumeExperiment);
+
+                } catch (err) {
+                    console.error("Error in constructPairings:", err);
+                    jsPsych.resumeExperiment();
+                }
+            }
+        };
+
+
+        // ****************** EMBEDDING THE QUESTIONNAIRES ************************************
+
+
+        const consent_page = {
+            type: jsPsychHtmlButtonResponse,
+            stimulus: `
+    <div style="text-align: left; max-width: 800px; margin: auto; font-size: 16px; line-height: 1.6; overflow-y: auto; height: 500px; padding-right: 10px;">
+      <h2>Self-Referential Thinking Study</h2>
+      <p><strong>IRB #: STUDY00007183</strong><br>
+      <strong>Principal Investigator:</strong> Peter Hitchcock, PhD, Emory University Psychology Department</p>
+
+      <h3>Introduction and Study Overview</h3>
+      <p>Thank you for your interest in our decision-making research study. We would like to tell you what you need to think about before you choose whether or not to join the study. It is your choice. If you choose to join, you can change your mind later on and leave the study.</p>
+
+      <p>The purpose of this study is to understand more how people make decisions by examining how they perform a computerized task. A second purpose is to understand how individual differences in the task relate to individual differences in ways of thinking. This study will take up to 60 minutes to complete today. You may be invited to another study session 3 months from today, which will also take up to 60 minutes to complete. </p>
+
+      <p>If you join, you will be asked to complete computerized tasks and fill out a few questionnaires.</p>
+
+      <p>There are minimal risks involved in this study. It is possible you will experience emotional discomfort from completing questionnaires related to thinking and mental health. Sometimes people experience discomfort from extended time performing a task in front of a computer screen. However, please note that—while some parts of the task advance automatically —at other times there are screens where you can click through whenever you are ready. Please feel free to take a moment to stand up, stretch, etc. when you reach one of these screens. Hopefully that way you can complete the task while being as comfortable as possible.</p>
+
+      <p>You may not benefit from joining the study. This study is designed to learn more about learning and decision-making. The study results may be used to help others in the future.</p>
+
+      <p>Study records can be opened by court order. They also may be provided in response to a subpoena or a request for the production of documents. Although we are not collecting identifying information, it is not possible to guarantee there will be no breach of confidentiality.</p>
+
+      <h3>Storing and Sharing your Information</h3>
+      <p>We will store all the data that you provide using a code. We need this code so that we can keep track of your data over time. This code will not include information that can identify you (identifiers). Specifically, it will not include your name, initials, date of birth, or medical record number. Given that this study is being conducted on Prolific, we will not collect your name; nor will we collect other identifiers.</p>
+
+      <p>Your data may be useful for other research being done by investigators at Emory or elsewhere. We may share the data, linked by the study code, with other researchers at Emory, or with researchers at other institutions that maintain at least the same level of data security that we maintain at Emory.</p>
+
+      <p>We may also place data in public databases accessible to researchers who agree to maintain data confidentiality. We will only use the non-identifying code that is used to distinguish participants in this specific study; we will not share your Prolific ID. We will also make sure the data are anonymized to a level that we believe that it is highly unlikely that anyone could identify you. Despite these measures, we cannot guarantee anonymity of your personal data.</p>
+
+      <h3>Confidentiality</h3>
+      <p>Certain offices and people other than the researchers may look at study records. Government agencies and Emory employees overseeing proper study conduct may look at your study records. These offices include the Office for Human Research Protections, the funder(s), the Emory Institutional Review Board, the Emory Office of Compliance. Study funders may also look at your study records. Emory will keep any research records we create private to the extent we are required to do so by law. A study number will be used on study records wherever possible. Your Prolific ID and other facts that might point to you will not appear when we present this study or publish its results.</p>
+
+      <h4>People Who will Use/Disclose Your Information:</h4>
+      <ul>
+        <li>The Principal Investigator and the research staff will use and disclose your information to conduct the study.</li>
+        <li>Emory offices that are part of the Human Research Participant Protection Program and those that are involved in study administration and billing.</li>
+        <li>These include the Emory IRB, the Emory Research and Healthcare Compliance Offices, and the Emory Office for Clinical Research.</li>
+        <li>Government agencies that regulate the research including: Office for Human Research Protections.</li>
+        <li>Public health agencies.</li>
+        <li>Research monitors and reviewer.</li>
+        <li>Accreditation agencies.</li>
+        <li>If a researcher moves to another institution, your data may be securely shared under legal agreement with that institution.</li>
+      </ul>
+
+      <h3>Compensation</h3>
+      <p>You will be compensated via Prolific based on their current hourly rate and proportional to the time that the study requires. The rate adjusts over time to keep up with the pace of inflation; at the time this consent document was created, $9.50-12/hour was within the acceptable range. You will not be paid less than $9.50/hour and rates will be adjusted to stay in the acceptable Prolific range.</p>
+
+      <p>You may be paid a bonus amount (up to 40% of the base pay) based on your performance in the task.</p>
+
+      <h3>Contact Information</h3>
+      <p>If you have questions about the study procedures, research-related injuries or bad reactions, or other questions or concerns about the research or your part in it, contact the lead investigator on the study: Dr. Peter Hitchcock, at 404 727 8245.</p>
+
+      <p>This study has been reviewed by an ethics committee to ensure the protection of research participants. If you have questions about your rights as a research participant, or if you have complaints about the research or an issue you would rather discuss with someone outside the research team, contact the Emory Institutional Review Board at 404-712-0720 or 877-503-9797 or irb@emory.edu.</p>
+
+      <p>To tell the IRB about your experience as a research participant, fill out the Research Participant Survey at <a href="https://tinyurl.com/ycewgkke" target="_blank">https://tinyurl.com/ycewgkke</a>.</p>
+
+      <h3>Consent</h3>
+      <p>If you consent to participate, please proceed to the survey.</p>
+    </div>
+  `,
+            choices: ['I consent and wish to continue']
+        };
+
+
+        // PTQ
+        const ptq16_survey = {
+            type: jsPsychSurveyLikert,
+            preamble: `
+            <p>In this questionnaire, you will be asked to describe how you <em>typically</em> think about negative experiences or problems.</p>
+            <p>Please read the following statements and rate the extent to which they apply to you when you think about negative experiences or problems.</p>
+  `,
+            questions: [
+                { prompt: "1. The same thoughts keep going through my mind again and again.", labels: ["Never", "Rarely", "Sometimes", "Often", "Almost always"], required: false },
+                { prompt: "2. Thoughts intrude into my mind.", labels: ["Never", "Rarely", "Sometimes", "Often", "Almost always"], required: false },
+                { prompt: "3. I can’t stop dwelling on them.", labels: ["Never", "Rarely", "Sometimes", "Often", "Almost always"], required: false },
+                { prompt: "4. I think about many problems without solving any of them.", labels: ["Never", "Rarely", "Sometimes", "Often", "Almost always"], required: false },
+                { prompt: "5. I can’t do anything else when thinking about my problems.", labels: ["Never", "Rarely", "Sometimes", "Often", "Almost always"], required: false },
+                { prompt: "6. My thoughts repeat themselves.", labels: ["Never", "Rarely", "Sometimes", "Often", "Almost always"], required: false },
+                { prompt: "7. Thoughts come to my mind without me wanting them to.", labels: ["Never", "Rarely", "Sometimes", "Often", "Almost always"], required: false },
+                { prompt: "8. I get stuck on certain issues and can’t move on.", labels: ["Never", "Rarely", "Sometimes", "Often", "Almost always"], required: false },
+                { prompt: "9. I keep asking myself questions without finding an answer.", labels: ["Never", "Rarely", "Sometimes", "Often", "Almost always"], required: false },
+                { prompt: "10. My thoughts prevent me from focusing on other things.", labels: ["Never", "Rarely", "Sometimes", "Often", "Almost always"], required: false },
+                { prompt: "11. I keep thinking about the same issues all the time.", labels: ["Never", "Rarely", "Sometimes", "Often", "Almost always"], required: false },
+                { prompt: "12. Thoughts just pop into my mind.", labels: ["Never", "Rarely", "Sometimes", "Often", "Almost always"], required: false },
+                { prompt: "13. I keep thinking about how I have never been mad before.", labels: ["Never", "Rarely", "Sometimes", "Often", "Almost always"], required: false },
+                { prompt: "14. I feel driven to continue dwelling on the same issue.", labels: ["Never", "Rarely", "Sometimes", "Often", "Almost always"], required: false },
+                { prompt: "15. My thoughts are not much help to me.", labels: ["Never", "Rarely", "Sometimes", "Often", "Almost always"], required: false },
+                { prompt: "16. My thoughts take up all my attention.", labels: ["Never", "Rarely", "Sometimes", "Often", "Almost always"], required: false }
+            ],
+            scale_width: 500,
+            data: { which_experiment_phase: "ptq" }
+        };
+
+        // timeline.push(ptq16_survey);
+
+        const rrs_survey = {
+            type: jsPsychSurveyLikert,
+            preamble: `
+    <p>People think and do many different things when they feel depressed.</p>
+    <p>Please read each of the items below and indicate whether you almost never, sometimes, often, or almost always think or do each one when you feel down, sad, or depressed.</p>
+    <p>Please indicate what you generally do, not what you think you should do.</p>
+  `,
+            questions: [
+                { prompt: "1. Think about how alone you feel.", labels: ["Never", "Sometimes", "Often", "Almost always"], required: false },
+                { prompt: "2. Think \"I won't be able to do my job if I don't snap out of this.\"", labels: ["Never", "Sometimes", "Often", "Almost always"], required: false },
+                { prompt: "3. Think about your feelings of fatigue and achiness.", labels: ["Never", "Sometimes", "Often", "Almost always"], required: false },
+                { prompt: "4. Think about how hard it is to concentrate.", labels: ["Never", "Sometimes", "Often", "Almost always"], required: false },
+                { prompt: "5. Think \"What am I doing to deserve this?\"", labels: ["Never", "Sometimes", "Often", "Almost always"], required: false },
+                { prompt: "6. Think about how passive and unmotivated you feel.", labels: ["Never", "Sometimes", "Often", "Almost always"], required: false },
+                { prompt: "7. Analyze recent events to try to understand why you are depressed.", labels: ["Never", "Sometimes", "Often", "Almost always"], required: false },
+                { prompt: "8. Think about how you don't seem to feel anything anymore.", labels: ["Never", "Sometimes", "Often", "Almost always"], required: false },
+                { prompt: "9. Think \"Why can't I get going?\"", labels: ["Never", "Sometimes", "Often", "Almost always"], required: false },
+                { prompt: "10. Think \"Why do I always react this way?\"", labels: ["Never", "Sometimes", "Often", "Almost always"], required: false },
+                { prompt: "11. Go away by yourself and think about why you feel this way.", labels: ["Never", "Sometimes", "Often", "Almost always"], required: false },
+                { prompt: "12. Think about how you competed in the 1977 Olympics.", labels: ["Never", "Sometimes", "Often", "Almost always"], required: false },
+                { prompt: "13. Write down what you are thinking and analyze it.", labels: ["Never", "Sometimes", "Often", "Almost always"], required: false },
+                { prompt: "14. Think about a recent situation, wishing it had gone better.", labels: ["Never", "Sometimes", "Often", "Almost always"], required: false },
+                { prompt: "15. Think \"I won't be able to concentrate if I keep feeling this way.\"", labels: ["Never", "Sometimes", "Often", "Almost always"], required: false },
+                { prompt: "16. Think \"Why do I have problems other people don't have?\"", labels: ["Never", "Sometimes", "Often", "Almost always"], required: false },
+                { prompt: "17. Think \"Why can't I handle things better?\"", labels: ["Never", "Sometimes", "Often", "Almost always"], required: false },
+                { prompt: "18. Think about how sad you feel.", labels: ["Never", "Sometimes", "Often", "Almost always"], required: false },
+                { prompt: "19. Think about all your shortcomings, failing, faults, mistakes.", labels: ["Never", "Sometimes", "Often", "Almost always"], required: false },
+                { prompt: "20. Think about how you don't feel up to doing anything.", labels: ["Never", "Sometimes", "Often", "Almost always"], required: false },
+                { prompt: "21. Analyze your personality to try to understand why you are depressed.", labels: ["Never", "Sometimes", "Often", "Almost always"], required: false },
+                { prompt: "22. Go someplace alone to think about your feelings.", labels: ["Never", "Sometimes", "Often", "Almost always"], required: false },
+                { prompt: "23. Think about how angry you are with yourself.", labels: ["Never", "Sometimes", "Often", "Almost always"], required: false }
+            ],
+            scale_width: 500,
+            data: { which_experiment_phase: "rrs" }
+        };
+
+
+        const pswq_survey = {
+            type: jsPsychSurveyLikert,
+            preamble: `
+    <p>Rate each of the following statements on a scale of 1 ("not at all typical of me") to 5 ("very typical of me").</p>
+    <p>Please do not leave any items blank.</p>
+  `,
+            questions: [
+                { prompt: "1. If I do not have enough time to do everything, I do not worry about it.", labels: ["1", "2", "3", "4", "5"], required: false },
+                { prompt: "2. My worries overwhelm me.", labels: ["1", "2", "3", "4", "5"], required: false },
+                { prompt: "3. I do not tend to worry about things.", labels: ["1", "2", "3", "4", "5"], required: false },
+                { prompt: "4. Many situations make me worry.", labels: ["1", "2", "3", "4", "5"], required: false },
+                { prompt: "5. I know I should not worry about things, but I just cannot help it.", labels: ["1", "2", "3", "4", "5"], required: false },
+                { prompt: "6. When I am under pressure I worry a lot.", labels: ["1", "2", "3", "4", "5"], required: false },
+                { prompt: "7. I am always worrying about something.", labels: ["1", "2", "3", "4", "5"], required: false },
+                { prompt: "8. I find it easy to dismiss worrisome thoughts.", labels: ["1", "2", "3", "4", "5"], required: false },
+                { prompt: "9. I am able to lift a 1 lb (0.5 kg) weight.", labels: ["1", "2", "3", "4", "5"], required: false },
+                { prompt: "10. As soon as I finish one task, I start to worry about everything else I have to do.", labels: ["1", "2", "3", "4", "5"], required: false },
+                { prompt: "11. I never worry about anything.", labels: ["1", "2", "3", "4", "5"], required: false },
+                { prompt: "12. When there is nothing more I can do about a concern, I do not worry about it anymore.", labels: ["1", "2", "3", "4", "5"], required: false },
+                { prompt: "13. I have been a worrier all my life.", labels: ["1", "2", "3", "4", "5"], required: false },
+                { prompt: "14. I notice that I have been worrying about things.", labels: ["1", "2", "3", "4", "5"], required: false },
+                { prompt: "15. Once I start worrying, I cannot stop.", labels: ["1", "2", "3", "4", "5"], required: false },
+                { prompt: "16. I worry all the time.", labels: ["1", "2", "3", "4", "5"], required: false },
+                { prompt: "17. I worry about projects until they are all done.", labels: ["1", "2", "3", "4", "5"], required: false }
+            ],
+            scale_width: 500,
+            data: { which_experiment_phase: "pswq" }
+        };
+
+        const rse_survey = {
+            type: jsPsychSurveyLikert,
+            preamble: `
+    <p>Please record the appropriate answer for each item, depending on whether you strongly agree, agree, disagree, or strongly disagree with it.</p>
+  `,
+            questions: [
+                { prompt: "1. On the whole, I am satisfied with myself.", labels: ["1 (Strongly Agree)", "2 (Agree)", "3 (Disagree)", "4 (Strongly Disagree)"], required: false },
+                { prompt: "2. At times I think I am no good at all.", labels: ["1 (Strongly Agree)", "2 (Agree)", "3 (Disagree)", "4 (Strongly Disagree)"], required: false },
+                { prompt: "3. I feel that I have a number of good qualities.", labels: ["1 (Strongly Agree)", "2 (Agree)", "3 (Disagree)", "4 (Strongly Disagree)"], required: false },
+                { prompt: "4. I am able to do things as well as most other people.", labels: ["1 (Strongly Agree)", "2 (Agree)", "3 (Disagree)", "4 (Strongly Disagree)"], required: false },
+                { prompt: "5. I feel I do not have much to be proud of.", labels: ["1 (Strongly Agree)", "2 (Agree)", "3 (Disagree)", "4 (Strongly Disagree)"], required: false },
+                { prompt: "6. I certainly feel useless at times.", labels: ["1 (Strongly Agree)", "2 (Agree)", "3 (Disagree)", "4 (Strongly Disagree)"], required: false },
+                { prompt: "7. I feel that I'm a person of worth.", labels: ["1 (Strongly Agree)", "2 (Agree)", "3 (Disagree)", "4 (Strongly Disagree)"], required: false },
+                { prompt: "8. I wish I could have more respect for myself.", labels: ["1 (Strongly Agree)", "2 (Agree)", "3 (Disagree)", "4 (Strongly Disagree)"], required: false },
+                { prompt: "9. All in all, I am inclined to think that I am a failure.", labels: ["1 (Strongly Agree)", "2 (Agree)", "3 (Disagree)", "4 (Strongly Disagree)"], required: false },
+                { prompt: "10. I take a positive attitude toward myself.", labels: ["1 (Strongly Agree)", "2 (Agree)", "3 (Disagree)", "4 (Strongly Disagree)"], required: false }
+            ],
+            scale_width: 600,
+            data: { which_experiment_phase: "rse" }
+
+        };
+
+        let phq_score = null;
+        let phq_item10 = null;
+
+        const phq9_survey = {
+            type: jsPsychSurveyLikert,
+            preamble: `
+    <p><strong>Over the last 2 weeks</strong>, how often have you been bothered by any of the following problems?</p>
+  `,
+            questions: [
+                { prompt: "1. Little interest or pleasure in doing things", labels: ["Not at all", "Several days", "More than half the days", "Nearly every day"], required: false },
+                { prompt: "2. Feeling down, depressed, or hopeless", labels: ["Not at all", "Several days", "More than half the days", "Nearly every day"], required: false },
+                { prompt: "3. Trouble falling asleep or staying asleep, or sleeping too much", labels: ["Not at all", "Several days", "More than half the days", "Nearly every day"], required: false },
+                { prompt: "4. Feeling tired or having little energy", labels: ["Not at all", "Several days", "More than half the days", "Nearly every day"], required: false },
+                { prompt: "5. Poor appetite or overeating", labels: ["Not at all", "Several days", "More than half the days", "Nearly every day"], required: false },
+                { prompt: "6. Feeling bad about yourself - or that you are a failure or have let yourself or your family down", labels: ["Not at all", "Several days", "More than half the days", "Nearly every day"], required: false },
+                { prompt: "7. Trouble concentrating on things, such as reading the newspaper or watching television", labels: ["Not at all", "Several days", "More than half the days", "Nearly every day"], required: false },
+                { prompt: "8. Moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual", labels: ["Not at all", "Several days", "More than half the days", "Nearly every day"], required: false },
+                { prompt: "9. Thoughts that you would be better off dead or of hurting yourself in some way", labels: ["Not at all", "Several days", "More than half the days", "Nearly every day"], required: false },
+                { prompt: "10. Competing in the 1977 Summer Olympics", labels: ["Not at all", "Several days", "More than half the days", "Nearly every day"], required: false }
+            ],
+            scale_width: 600,
+            data: { which_experiment_phase: "phq" },
+            on_finish: function (data) {
+                // Look for response (not responses and do not parse)
+                const responses = data.response;
+
+                // Defensive: Ensure responses exists
+                if (!responses) {
+                    console.error("No responses field in data!", data);
+                    return;
+                }
+
+                const keys = Object.keys(responses);
+
+                // Score items 1–9
+                phq_score = 0;
+                for (let i = 0; i < 9; i++) {
+                    phq_score += responses[keys[i]];
+                }
+
+                // Store PHQ score and 10th response
+                data.phq_score = phq_score;
+                data.phq_item10 = responses[keys[9]];
+
+                console.log(" PHQ score:", phq_score, " Item 10:", data.phq_item10);
+            }
+
+        };
+
+
+        const mental_health_resources = {
+            type: jsPsychHtmlButtonResponse,
+            stimulus: `
+    <div style="text-align: left; max-width: 800px; margin: auto; font-size: 16px; line-height: 1.6; overflow-y: auto; height: 500px; padding-right: 10px;">
+
+      <p><strong>Note:</strong> These assessments will not be reviewed immediately.</p>
+
+      <p>Answering these questions sometimes leads people to become concerned that they are struggling with their mental health or with other difficult experiences. We have included a list of mental health resources below. We encourage you to use these or other resources if the questions led to concern about your mental health or well-being.</p>
+
+      <h3>Mental Health Resources</h3>
+
+      <h4>Help lines:</h4>
+      <p>
+        <strong>National Suicide Prevention Lifeline</strong><br>
+        (800) 273-TALK: (800) 273-8255<br>
+        TTY: 1-800-799-4889
+      </p>
+      <p>
+        <strong>SAMHSA's National Helpline</strong><br>
+        1-800-662-HELP (4357)<br>
+        TTY: 1-800-487-4889
+      </p>
+
+      <h4>Finding a therapist:</h4>
+      <p>
+        <a href="https://services.abct.org/i4a/memberDirectory/index.cfm?directory_id=3&pageID=3282" target="_blank">Association for Behavioral and Cognitive Therapies (ABCT) therapist directory</a><br>
+        <a href="https://www.psychologytoday.com/us/therapists" target="_blank">Psychology Today therapist directory</a>
+      </p>
+
+      <h4>Self-guided online treatment:</h4>
+      <p>
+        <a href="https://www.schleiderlab.org/" target="_blank">The Lab for Scalable Mental Health</a> often has open online self-guided single-session intervention studies available to join.
+      </p>
+
+    </div>
+  `,
+            choices: ['Continue']
+        };
+
+
+        const check_phq_eligibility = {
+            timeline: [{
+                type: jsPsychHtmlKeyboardResponse,
+                stimulus: `<p style='color:red;'>Based on your responses, the study will now end.</p>`,
+                choices: "NO_KEYS",
+                trial_duration: 5000,
+                on_start: () => jsPsych.endExperiment("You did not meet the inclusion criteria.")
+            }],
+            conditional_function: function () {
+                const last_data = jsPsych.data.get().filter({ trial_type: 'survey-likert' }).last(1).values()[0];
+
+                console.log("Last trial data keys:", Object.keys(last_data));
+                console.log("Full last_data:", last_data);
+                console.log("phq threshold:", phq_threshold)
+
+                // Get most recent phq survey data
+                const score = last_data.phq_score;
+                const item10 = last_data.phq_item10;
+                // You may want to log these for debugging:
+
+                console.log("score (type):", score, typeof score, " item10 (type):", item10, typeof item10);
+
+                console.log("Checking eligibility: score=", score, " item10=", item10);
+
+                // Return TRUE only if they fail inclusion criteria
+                return score < phq_threshold || item10 !== 0;
+            }
+        };
+
+
+        // *************************** PRACTICE RECOG TRIALS***************************************
+        let nPracRecogTrials = 4;
+        let pracRecogWordsArray = [];
+        let shuffledPracRecogArray;
+
+        for (var r = 0; r < nPracRecogTrials / 2; r++) {
+
+            let thisOldPracRecogTrial = {
+                "phase": "recogPractice",
+                "stim": pracPairLeft[r],
+                "answer": "old"
+            }
+
+            let thisNewPracRecogTrial = {
+                "phase": "recogPractice",
+                "stim": newRecogPracWords[r],
+                "answer": "new"
+            }
+
+            pracRecogWordsArray.push(thisOldPracRecogTrial)
+            pracRecogWordsArray.push(thisNewPracRecogTrial)
+        }
+        shuffledPracRecogArray = jsPsych.randomization.shuffle(pracRecogWordsArray)
+        // console.log("shuffledPracRecogArray", shuffledPracRecogArray)
+
+        // ****************************NEW RATINGS TRIALS***********************************************
+
+        // new ratings 
+        let nNewRatingTrials = newPosWords.length + newNegWords.length;
+        let newRatingsArray = [];
+        let shuffledNewRatingsArray;
+        let newWordsUsedRatingsPos = [];
+        let newWordsUsedRatingsNeg = [];
+
+        for (var v = 0; v < nNewRatingTrials / 2; v++) {
+
+            let thisNewPosRatingTrial = {
+                "phase": "new_words_rating",
+                "valence": "positive",
+                "stim": newPosWords[v]
+            }
+            newRatingsArray.push(thisNewPosRatingTrial)
+            newWordsUsedRatingsPos.push(newPosWords[v])
+
+            let thisNewNegRatingTrial = {
+                "phase": "new_words_rating",
+                "valence": "negative",
+                "stim": newNegWords[v]
+            }
+            newRatingsArray.push(thisNewNegRatingTrial)
+            newWordsUsedRatingsNeg.push(newNegWords[v])
+
+        }
+        shuffledNewRatingsArray = jsPsych.randomization.shuffle(newRatingsArray)
+        // console.log("newRatingsArray", newRatingsArray)
+        // console.log("shuffledNewRatingsArray", shuffledNewRatingsArray)
+
+        let newRatingsTrialNumber = 1;
+        shuffledNewRatingsArray.forEach(function (trial) {
+            trial.trialNumber = newRatingsTrialNumber;
+            newRatingsTrialNumber++;
+        })
+
+
+        var subject_id = jsPsych.data.getURLVariable('PROLIFIC_PID');
+
+        jsPsych.data.addProperties({
+            subject_id: subject_id,
+        });
+
+        var pavlovia_finish = {
+            type: jsPsychPavlovia,
+            command: "finish",
+            participantId: subject_id
+        };
+
+        var redirect_to_survey = {
+            type: jsPsychHtmlButtonResponse,
+            stimulus: `<p>Thanks for completing the task.</p>
+               <p>Click the button below to continue to prolific.</p>`,
+            choices: ['Continue'],
+            on_finish: function () {
+                window.location.href = "https://app.prolific.com/submissions/complete?cc=C10ICJ8M";
+            }
+        };
+
+        var timeout_warning = {
+            type: jsPsychHtmlKeyboardResponse,
+            stimulus: `
+        <p style="font-size:24px;"><b>You have missed several trials by not responding in time.</b></p>
+        <p>If this happens again, the experiment will end.</p>
+        <p>Press any key to continue.</p>
+    `,
+            post_trial_gap: 500
+        };
+
+        var welcome = {
+            type: jsPsychInstructions,
+            pages: [
+                `<p><b>WELCOME TO THE SELF-JUDGMENTS TASK!</b></p>`
+            ],
+            show_clickable_nav: true
+        };
+
+        let countdown = {
+            timeline: [
+                {
+                    type: jsPsychHtmlKeyboardResponse,
+                    stimulus: '<div style="font-size: 60px;">3</div>',
+                    choices: "NO_KEYS",
+                    trial_duration: 1000
+                },
+                {
+                    type: jsPsychHtmlKeyboardResponse,
+                    stimulus: '<div style="font-size: 60px;">2</div>',
+                    choices: "NO_KEYS",
+                    trial_duration: 1000
+                },
+                {
+                    type: jsPsychHtmlKeyboardResponse,
+                    stimulus: '<div style="font-size: 60px;">1</div>',
+                    choices: "NO_KEYS",
+                    trial_duration: 1000
+                },
+                {
+                    type: jsPsychHtmlKeyboardResponse,
+                    stimulus: '<div style="font-size: 60px;">Go!</div>',
+                    choices: "NO_KEYS",
+                    trial_duration: 500
+                }
+            ]
+        };
+
+        const pre_final_survey_message = {
+            type: jsPsychHtmlButtonResponse,
+            stimulus: `
+    <div style="font-size: 22px; text-align: center; max-width: 700px; margin: auto;">
+      <p><strong>Congratulations!</strong></p>
+      <p>You have nearly completed the study.</p>
+      <p>Please answer the following questionnaires.</p>
+    </div>
+  `,
+            choices: ['Continue']
+        };
+
+        const happy_memory_prompt = {
+            type: jsPsychSurveyText,
+            preamble: `
+    <div style="font-size: 18px; max-width: 800px; text-align: left; margin: auto;">
+      <p>In the next part of the experiment, you will be asked to recall a specific type of event and then to describe it as vividly and in as much detail as possible using the space below.</p>
+      <p>Please take a moment to remember a time that you felt <strong>VERY HAPPY</strong>.</p>
+      <p>When choosing this memory, make sure you think of a memory that represents happiness only. Do not pick a memory in which you felt happy and nervous or happy and relieved. Also, try to pick an incident in which you were happy because of something that happened to you directly; don’t describe a time when you were happy because of something that happened to another person.</p>
+      <p>When you have recalled this memory, focus on it for a few minutes so that you have a vivid recollection of the events involved. Take a minute to experience all the feelings that you experienced at that time.</p>
+      <p>Once you have done this, please describe the memory in as much detail as you can (but <strong>do not</strong> put any identifying information, e.g., your name, in the story).</p>
+    </div>
+  `,
+            questions: [
+                {
+                    prompt: "<strong>Describe your very happy memory here:</strong>",
+                    rows: 10,
+                    columns: 80,
+                    required: false  // Makes the textbox optional
+                }
+            ],
+            button_label: "Continue",
+            data: { which_experiment_phase: "happy_memory_prompt" }
+        };
+
+        // 1. Slider question: Engagement
+const engagement_question = {
+  type: jsPsychSurveyLikert,
+  preamble: `
+    <div style="font-size: 18px; max-width: 800px; text-align: left; margin: auto;">
+      <p>We would like to ask you a few final questions about your experience in the experiment.</p>
+    </div>
+  `,
+  questions: [
+    {
+      prompt: "How engaging did you find the task in which you were shown two words on the screen and you had to choose which one described you better?",
+      labels: ["Not at all engaging", "Slightly engaging", "Moderately engaging", "Very engaging", "Highly engaging"],
+      required: true
+    }
+  ],
+  button_label: "Continue",
+  data: { which_experiment_phase: "engagement_question" }
+};
+
+// 2. Slider question: Accuracy of ratings
+const accuracy_question = {
+  type: jsPsychSurveyLikert,
+  questions: [
+    {
+      prompt: "How accurate do you feel your self-descriptive ratings were (the first task that you did)?",
+      labels: ["Not at all accurate", "Slightly accurate", "Moderately accurate", "Very accurate", "Highly accurate"],
+      required: true
+    }
+  ],
+  button_label: "Continue",
+  data: { which_experiment_phase: "accuracy_question" }
+};
+
+// 3. Open-ended strategy prompt
+const strategy_used_prompt = {
+  type: jsPsychSurveyText,
+  preamble: `
+    <div style="font-size: 18px; max-width: 800px; text-align: left; margin: auto;">
+      <p>Please describe any strategies you employed, your feelings after completing the experiment, and anything else that you would want the researchers to know (such as ways we can improve the task).</p>
+    </div>
+  `,
+  questions: [
+    {
+      prompt: "<strong>Enter your response here:</strong>",
+      rows: 10,
+      columns: 80,
+      required: false
+    }
+  ],
+  button_label: "Submit",
+  data: { which_experiment_phase: "strategy_used_prompt" }
+};
+
+          const pre_conclusion_message = {
+            type: jsPsychHtmlButtonResponse,
+            stimulus: `
+    <div style="text-align: left; max-width: 800px; margin: auto; font-size: 16px; line-height: 1.6; overflow-y: auto; height: 500px; padding-right: 10px;">
+
+      <p>Thank you for your participation. The task you just completed was designed to investigate cognitive processes including learning, memory, and decision-making. The results of the study will help us to learn about how these processes work. We hope to use results from this study to improve learning, memory, and decision-making and help to develop better treatments for disorders where these processes are altered (such as Parkinson’s disease and schizophrenia).</p>
+
+      <p>We are very appreciative of your time and effort! Thank you so much. If you have any questions, please feel free to contact us now or later on Prolific.</p>
+
+      <p><strong>Note:</strong> These assessments will not be reviewed immediately.</p>
+
+      <p>Answering these questions sometimes leads people to become concerned that they are struggling with their mental health or with other difficult experiences. We have included a list of mental health resources below. We encourage you to use these or other resources if the questions led to concern about your mental health or well-being.</p>
+
+      <h3>Mental Health Resources</h3>
+
+      <h4>Help lines:</h4>
+      <p>
+        <strong>National Suicide Prevention Lifeline</strong><br>
+        (800) 273-TALK: (800) 273-8255<br>
+        TTY: 1-800-799-4889
+      </p>
+      <p>
+        <strong>SAMHSA's National Helpline</strong><br>
+        1-800-662-HELP (4357)<br>
+        TTY: 1-800-487-4889
+      </p>
+
+      <h4>Finding a therapist:</h4>
+      <p>
+        <a href="https://services.abct.org/i4a/memberDirectory/index.cfm?directory_id=3&pageID=3282" target="_blank">ABCT therapist directory</a><br>
+        <a href="https://www.psychologytoday.com/us/therapists" target="_blank">Psychology Today therapist directory</a>
+      </p>
+
+      <h4>Self-guided online treatment:</h4>
+      <p>
+        <a href="https://www.schleiderlab.org/" target="_blank">The Lab for Scalable Mental Health</a> often has open online self-guided single-session intervention studies available to join.
+      </p>
+
+    </div>
+  `,
+            choices: ['Continue']
+        };
+
+
+
+        var fixation = {
+            type: jsPsychHtmlKeyboardResponse,
+            stimulus: '<div style="font-size:60px;">+</div>',
+            choices: "NO_KEYS",
+            trial_duration: 800,
+            data: { which_experiment_phase: 'fixation' }
+        };
+
+        var timeout = {
+            type: jsPsychHtmlKeyboardResponse,
+            stimulus: "",
+            trial_duration: 1000,
+            response_ends_trial: false,
+            on_start: (feedbackTrial) => {
+                let curr_data = jsPsych.data.getLastTrialData().trials[0];
+
+                if (curr_data.rt === null) {
+                    feedbackTrial.stimulus = `<p style="font-size: 24px; font-weight: bold;">RESPOND FASTER!</p>`
+                }
+            }
+        };
+
+        var ratings_instructs = {
+            type: jsPsychInstructions,
+            pages: function () {
+                let tl;
+                pageOne =
+                    `<p><b>INSTRUCTIONS</b></p>
+                    <p>In the following slides, you will see a word appear on the screen.</p>
+                    <p>Use the sliding scale to rate how descriptive the word is of yourself from 0 (not descriptive) to 100 (very descriptive).</p>
+                    <p>Please use the <b>full scale</b> as you respond if possible.</p>
+                    <p>That is, do not just rate words 0 or 100, but consider if each word is somewhere in between. For instance, 10 would mean the word describes you just a little.</p>`
+
+                pageTwo =
+                    `<p>Make sure to <b>think carefully</b> about how well <b>each</b> word describes you before entering your response!</p>
+                    <p>Click next when you're ready to begin!</p>`
+
+                tl = [
+                    pageOne,
+                    pageTwo
+                ];
+
+                return tl
+            },
+            show_clickable_nav: true
+        };
+
+        var pairing_instructs = {
+            type: jsPsychInstructions,
+            pages: function () {
+                let tl;
+                pageOne =
+                    `<p>You've completed the first task. Click Next to start the next one!</p>`
+
+                pageTwo =
+                    `<p><b>INSTRUCTIONS</b></p>
+                    <p>On each slide, two words will appear next to each other.</p>
+                    <p>Press the left arrow key if the word on the <b>left</b> better describes you or the right arrow key if the word on the <b>right</b> better describes you.</p>`
+
+                pageThree =
+                    `<p>For some pairs, neither word may describe you well.</p>
+                    <p>For other pairs, both words may describe you well.</p>
+                    <p>Nevertheless, it is very important that you still <b>think carefully</b> and select which word describes you <b>BEST</b>!</p>`
+
+                pageFour =
+                    `<p>You will have 8 seconds to make each choice. Please respond as <b>quickly</b> as possible — while also being as <b>accurate</b> as possible about which word describes you <b>best</b>.</p>
+                    <p>We'll do some practice trials before we start with the main task.</p>
+                    <p>Click Next when you are ready to start!</p>`
+
+                tl = [pageOne, pageTwo, pageThree, pageFour];
+
+                return tl
+            },
+            show_clickable_nav: true
+        };
+
+        var main_pairing_instructs = {
+            type: jsPsychInstructions,
+            pages: function () {
+                let tl;
+                pageOne =
+                    `<p>Now you're ready to start the main task.</p>
+                    <p>Remember, it is very important that you still <b>think carefully</b> and select which word describes you <b>BEST</b>!</p>
+                    <p>Click Next when you are ready to start!</p>`
+
+                tl = [pageOne];
+
+                return tl
+            },
+            show_clickable_nav: true
+        };
+
+        var recall_instructs = {
+            type: jsPsychInstructions,
+            pages: function () {
+                let tl;
+                pageOne =
+                    `<p>Great job! You have completed the second task.</p>
+                    <p>Click Next to move onto the next one!</p>`
+
+                tl = [pageOne];
+
+                return tl
+            },
+            show_clickable_nav: true
+        };
+
+        var recog_instructs = {
+            type: jsPsychInstructions,
+            pages: function () {
+                let tl;
+                pageOne =
+                    `<p>Great job!</p>
+                    <p>We will now move onto the next task.</p>`
+
+                pageTwo =
+                    `<p><b>INSTRUCTIONS</b></p>
+                    <p>In the following slides, you will see a word you may or may not have seen before.</p>
+                    <p>Press <b>Y</b> to indicate "Yes, I have seen this word before".</p>
+                    <p>Press <b>N</b> to indicate "No, I have not seen this word before".</p>
+                    <p>You will have 8 seconds to make your selection. Respond <b>as quickly</b> and <b>as accurately</b> as possible.</p>`
+
+                pageThree =
+                    `<p>We'll start off with some practice trials first.</p>
+                    <p>Click Next when you're ready to start!</p>`
+
+                tl = [pageOne, pageTwo, pageThree];
+
+                return tl
+            },
+            show_clickable_nav: true
+        };
+
+        var main_recog_instructs = {
+            type: jsPsychInstructions,
+            pages: function () {
+                let tl;
+                pageOne =
+                    `<p>Now you're ready to start the main task! There will be no feedback in these trials.</p>
+                    <p>Click Next when you're ready to start!</p>`
+
+                tl = [pageOne];
+
+                return tl
+            },
+            show_clickable_nav: true
+        };
+
+        var new_ratings_instructs = {
+            type: jsPsychInstructions,
+            pages: function () {
+                let tl;
+                pageOne =
+                    `<p>You've almost reached the end of the task!</p>
+                    <p>You will do the same thing as you did in the first part of the task, but this time, you will rate different words.</p>
+                    <p>As a reminder, use the sliding scale to rate how descriptive the word is of yourself from 0 (not descriptive) to 100 (very descriptive).</p>
+                    <p>Please make sure to <b>think carefully</b> about how well <b>each</b> word describes you before entering your response!</p>
+                    <p>Click Next when you're ready to start!</p>`
+
+                tl = [pageOne];
+
+                return tl
+            },
+            show_clickable_nav: true
+        };
+
+        var conclusion = {
+            type: jsPsychInstructions,
+            pages: function () {
+
+                pageOne = `
+						<b>Congratulations! You have reached the end of the study!</b>
+						<p>The task you just completed was designed to investigate cognitive processes including learning, memory, and decision-making. The results of the study will help us to learn about how these processes work. We hope to use results from this study to improve learning, memory, and decision-making and help to develop better treatments for disorders where these processes are altered (such as, Parkinson's disease and schizophrenia).</p>
+						<p>We are very appreciative of your time and effort! If you have any questions, please feel free to contact us now or later on Prolific.</p>
+					`
+                pageTwo =
+                    `<div>On the next screen, you will see a <b>"Please wait a moment while the data are uploaded to the pavlovia.org server..."</b> message on the next screen.<p>
+						<p><b>IMPORTANT: Do not exit the tab.</b></p>
+						<p> A box will pop up shortly redirecting to a different page. Click yes. If the box doesn't show up after a few minutes, please message the researchers </p>`
+
+                tl = [pageOne, pageTwo];
+
+                return tl
+
+            },
+            show_clickable_nav: true,
+        };
+
+
+        var sliderVals = [];
+
+        for (var i = 0; i <= 100; i++) {
+            sliderVals.push(i);
+        }
+
+        var rating_trial = {
+            type: jsPsychHtmlSliderResponse,
+            stimulus: function () {
+                let stim = jsPsych.timelineVariable('stim')
+                return `<p style="font-size:100px">${stim}</p>
+					<p style="font-size:40px">Describes you?</p>`
+            },
+            labels: [
+                '<div style="font-size: 24px;">0 (Not at all)</div>',
+                '<div style="font-size: 24px;">100 (Perfectly)</div>'
+            ],
+            slider_width: 800,
+            slider_start: function () {
+                let val = jsPsych.randomization.repeat(sliderVals, 1).pop();
+
+                return val
+            },
+            require_movement: true,
+            data: {
+                which_experiment_phase: "ratings",
+                word_used: jsPsych.timelineVariable('stim'),
+                valence: jsPsych.timelineVariable('valence'),
+                trial_number: jsPsych.timelineVariable('trialNumber')
+            },
+
+        };
+
+        var pairing_trial = {
+            type: jsPsychHtmlKeyboardResponse,
+            stimulus: function () {
+                let left_word = jsPsych.timelineVariable('left_stim')
+                let right_word = jsPsych.timelineVariable('right_stim')
+
+                return (
+                    `<div style="display: inline-block;">
+                        <p style="font-size:90px; display:inline;">${left_word}</p>
+                        <span style="margin-right: 200px;"></span>
+                        <p style="font-size:90px; display:inline;">${right_word}</p>
+                    </div>`
+                )
+            },
+            choices: ['arrowleft', 'arrowright'],
+            trial_duration: 8000,
+            on_finish: (data) => {
+                data.left_word = jsPsych.timelineVariable('left_stim');
+                data.right_word = jsPsych.timelineVariable('right_stim');
+                data.valence = jsPsych.timelineVariable('valence');
+                data.trial_number = jsPsych.timelineVariable('trial_number');
+                if (data.response === "arrowright") {
+                    data.participant_response = jsPsych.timelineVariable('right_stim')
+                } else if (data.response === "arrowleft") {
+                    data.participant_response = jsPsych.timelineVariable('left_stim')
+                } else {
+                    data.participant_response = null
+                };
+
+                data.valid_response = false;
+                console.log(`Trial ${data.trial_number} — Valence: ${data.valence} — Left: ${data.left_word} — Right: ${data.right_word}`);
+                if (data.response === "arrowright" || data.response === "arrowleft") {
+                    data.valid_response = true
+                };
+            }
+        };
+
+
+
+        let consecutiveTimeouts = 0;
+        let showedWarning = false;
+        let tooFastFlag = false;
+        let totalTimeouts = 0;
+
+        function checkTimeoutLogic() {
+            const last = jsPsych.data.get().last(2).values()[0];
+            console.log(`RT for trial ${last.trial_number}: ${last.rt} ms`);
+
+            // Timeout logic
+            if (last.valid_response === false) {
+                consecutiveTimeouts++;
+                totalTimeouts++;       // <-- Track total timeouts
+            } else {
+                consecutiveTimeouts = 0;
+            }
+
+            // Too fast logic
+            if (last.rt !== null && last.rt < 200) {
+                tooFastFlag = true;
+            } else {
+                tooFastFlag = false;
+            }
+
+            if (consecutiveTimeouts === 4 && !showedWarning) {
+                showedWarning = true;
+                return "timeout_warning";
+            }
+
+            if (consecutiveTimeouts >= 8 || totalTimeouts >= 15) {
+                return "terminate";
+            }
+
+            if (tooFastFlag) {
+                return "too_fast";
+            }
+
+            return "continue";
+        }
+
+        let lastTimeoutStatus = "continue";  // Add this at top level
+
+        const handle_pairing_timeout = {
+            timeline: [],
+            conditional_function: () => {
+                return lastTimeoutStatus === "timeout_warning";
+            },
+            timeline: [timeout_warning]
+        };
+
+        const handle_pairing_termination = {
+            timeline: [],
+            conditional_function: () => {
+                if (lastTimeoutStatus === "terminate") {
+                    jsPsych.endExperiment('You had too many missed responses. The experiment has ended.');
+                }
+                return false;
+            },
+            timeline: []
+        };
+
+        const handle_pairing_too_fast = {
+            timeline: [],
+            conditional_function: () => {
+                return lastTimeoutStatus === "too_fast";
+            },
+            timeline: [{
+                type: jsPsychHtmlKeyboardResponse,
+                stimulus: "<p style='color: red;'>Too fast. Please carefully evaluate both words before responding.</p>",
+                choices: "NO_KEYS",
+                trial_duration: 2000
+            }]
+        };
+
+        var single_pairing = {
+            timeline: [
+                fixation,
+                pairing_trial,
+                timeout,
+                {
+                    timeline: [],
+                    on_timeline_start: () => {
+                        lastTimeoutStatus = checkTimeoutLogic();
+                    }
+                },
+                handle_pairing_too_fast,       // now handles fast RT warning
+                handle_pairing_timeout,
+                handle_pairing_termination
+            ]
+        };
+
+
+        let rating_block_first_half = {
+            timeline: [fixation, rating_trial],
+            timeline_variables: firstHalfRatings
+        };
+
+        let rating_block_second_half = {
+            timeline: [fixation, rating_trial],
+            timeline_variables: secondHalfRatings
+        };
+
+        let rating_block_final_quarter = {
+            timeline: [fixation, rating_trial],
+            timeline_variables: finalQuarterRatings
+        };
+
+
+        var prac_pairing_block = {
+            timeline: [single_pairing],
+            timeline_variables: pracPairingWordsArray,
+            data: { which_experiment_phase: 'prac_pairings' }
+        };
+
+        var recall_block = {
+            type: jsPsychSurveyText,
+            questions: [
+                { prompt: 'Please list all the words you recall from the previous task. Seperate each word with a comma.', rows: 5 }
+            ],
+            data: { which_experiment_phase: 'recall' }
+        };
+
+        var recog_trial = {
+            type: jsPsychHtmlKeyboardResponse,
+            stimulus: function () {
+                let stim = jsPsych.timelineVariable('stim')
+
+                return (
+                    `<div style="font-size:50px;">Seen before?</div>
+                    <p style="font-size:100px">${stim}</p>
+                    <div style="font-size:25px;">Press <b>Y</b> for Yes or <b>N</b> for No</div>`
+                )
+            },
+            choices: ['y', 'n'],
+            trial_duration: 8000,
+            on_finish: (data) => {
+                data.words_used = jsPsych.timelineVariable('stim');
+                data.true_answer = jsPsych.timelineVariable('answer');
+                data.valence = jsPsych.timelineVariable('valence');
+                data.trial_number = jsPsych.timelineVariable('trialNumber');
+
+                if (data.response === "y") {
+                    data.participant_response = "old"
+                } else if (data.response === "n") {
+                    data.participant_response = "new"
+                }
+
+                if (data.true_answer === data.participant_response) {
+                    data.correct = true
+                } else {
+                    data.correct = false
+                }
+
+                let validResp = false;
+                if (data.response === "y" || data.response === "n") {
+                    validResp = true
+                }
+                data.valid_response = validResp;
+            }
+        };
+
+        var recog_feedback = {
+            type: jsPsychHtmlKeyboardResponse,
+            stimulus: '',
+            trial_duration: 1000,
+            response_ends_trial: false,
+            on_start: (feedbackTrial) => {
+                let curr_data = jsPsych.data.getLastTrialData().trials[0];
+
+                if (curr_data.rt === null) {
+                    feedbackTrial.stimulus = `<p style="font-size: 24px; font-weight: bold;">RESPOND FASTER!</p>`
+                } else if (curr_data.correct) {
+                    feedbackTrial.stimulus = `<p style="font-size: 24px; font-weight: bold; color: green;">Correct!</p>`
+                } else {
+                    feedbackTrial.stimulus = `<p style="font-size: 24px; font-weight: bold; color: red;">Wrong!</p>`
+                }
+            }
+        }
+
+        var single_prac_recog = {
+            timeline: [fixation, recog_trial, recog_feedback],
+        };
+
+        var prac_recog_block = {
+            timeline: [single_prac_recog],
+            timeline_variables: shuffledPracRecogArray,
+            data: { which_experiment_phase: 'prac_recog' }
+        };
+
+        let consecutiveRecogTimeouts = 0;
+        let showedRecogWarning = false;
+        let lastRecogTimeoutStatus = "continue";
+        let totalRecogTimeouts = 0;
+
+
+        function checkRecogTimeoutLogic() {
+            const last = jsPsych.data.get().last(2).values()[0]; // get recog_trial data
+            if (last.valid_response === false) {
+                consecutiveRecogTimeouts++;
+                totalRecogTimeouts++;
+            } else {
+                consecutiveRecogTimeouts = 0;
+            }
+
+            if (consecutiveRecogTimeouts === 4 && !showedRecogWarning) {
+                showedRecogWarning = true;
+                return "warning";
+            }
+
+            if (consecutiveRecogTimeouts >= 8 || totalRecogTimeouts >= 15) {
+                return "terminate";
+            }
+
+            return "continue";
+        }
+
+        var handle_recog_timeout = {
+            conditional_function: () => {
+                return lastRecogTimeoutStatus === "warning";
+            },
+            timeline: [timeout_warning]
+        };
+
+        var handle_recog_termination = {
+            conditional_function: () => {
+                if (lastRecogTimeoutStatus === "terminate") {
+                    jsPsych.endExperiment('You had too many missed responses. The experiment has ended.');
+                }
+                return false;
+            },
+            timeline: []
+        };
+        var single_recog = {
+            timeline: [
+                fixation,
+                recog_trial,
+                timeout,
+                {
+                    timeline: [],
+                    on_timeline_start: () => {
+                        lastRecogTimeoutStatus = checkRecogTimeoutLogic();
+                    }
+                },
+                handle_recog_timeout,
+                handle_recog_termination
+            ]
+        };
+        // ################ NEW RATINGS ##########
+
+        var sliderVals2 = [];
+
+        for (var i = 0; i <= 100; i++) {
+            sliderVals2.push(i);
+        };
+
+        var new_rating_trial = {
+            type: jsPsychHtmlSliderResponse,
+            stimulus: function () {
+                let stim = jsPsych.timelineVariable('stim')
+                return `<p style="font-size:100px">${stim}</p>
+					<p style="font-size:40px">Describes you?</p>`
+            },
+            labels: [
+                '<div style="font-size: 24px;">0 (Not at all)</div>',
+                '<div style="font-size: 24px;">100 (Perfectly)</div>'
+            ],
+            slider_width: 800,
+            slider_start: function () {
+                let val = jsPsych.randomization.repeat(sliderVals2, 1).pop();
+
+                return val
+            },
+            require_movement: true,
+            data: {
+                which_experiment_phase: "new_ratings",
+                word_used: jsPsych.timelineVariable('stim'),
+                valence: jsPsych.timelineVariable('valence'),
+                trial_number: jsPsych.timelineVariable('trialNumber')
+            },
+        };
+
+        var new_rating_block = {
+            timeline: [fixation, new_rating_trial],
+            timeline_variables: shuffledNewRatingsArray,
+            data: { which_experiment_phase: 'new_ratings' }
+        };
+
+        /* create timelines */
+
+        var main_timeline = [
+            pavlovia_init,
+            consent_page,
+            //phq9_survey,
+            //mental_health_resources,       // Always shown 
+            //check_phq_eligibility,         // Ends the experiment if needed
+            welcome,
+            ratings_instructs,
+            countdown,
+            rating_block_first_half,
+            midwayMessage,
+            rating_block_second_half,
+            finalQuarterMessage,
+            rating_block_final_quarter,
+            constructPairings // dynamically adds everything after ratings
+        ];
+
+        var mini_timeline = [
+            pavlovia_init,
+            engagement_question, 
+            accuracy_question, 
+            strategy_used_prompt,
+            pavlovia_finish
+        ]
+
+        console.log("Is pairing_block ready?", window.pairing_block);
+
+        jsPsych.run(main_timeline);
+        //jsPsych.run(mini_timeline);
+
+
+    </script>
+</body>
+
+
+</html>

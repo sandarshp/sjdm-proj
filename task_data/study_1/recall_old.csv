@@ -1,0 +1,1321 @@
+Unnamed: 0.1,Unnamed: 0,X,participant_id,response,resp,resp2,resp3,num_pos,num_neg,total_recall,prop_pos,prop_neg,neg_mem_bias,group
+0,1,1,5607080ed7def20012b733c3,appealing attractive gross overwhelmed excited delinquent humorous disgrace unwanted loser detestable charming witty sincere confident insecure ,appealing attractive gross overwhelmed excited delinquent humorous disgrace unwanted loser detestable charming witty sincere confident insecure ,appealing attractive gross overwhelmed excited delinquent humorous disgrace unwanted loser detestable charming witty sincere confident insecure ,appealing attractive gross overwhelmed excited delinquent humorous disgrace unwanted loser detestable charming witty sincere confident insecure ,4,4,8,0.5,0.5,0.0,HC
+1,2,2,5632410fca59f6000b795a70,"seeker, unlucky, disgusting, gross, loser, 
+
+When you ask me to list them all my mind goes completely blank.","seeker, unlucky, disgusting, gross, loser, , , When you ask me to list them all my mind goes completely blank.",seeker  unlucky  disgusting  gross  loser      When you ask me to list them all my mind goes completely blank.,seeker  unlucky  disgusting  gross  loser      when you ask me to list them all my mind goes completely blank.,0,2,2,0.0,1.0,1.0,Depressed
+2,3,3,5654171504212700054a12ad,"talented, special, stressed, hypocrite, distressed, romantic, garbage","talented, special, stressed, hypocrite, distressed, romantic, garbage",talented  special  stressed  hypocrite  distressed  romantic  garbage,talented  special  stressed  hypocrite  distressed  romantic  garbage,1,1,2,0.5,0.5,0.0,HC
+3,4,4,56a68b2d9ce1c0000cf89299,"romantic
+scoundrel
+unique
+unwanted
+special
+
+","romantic, scoundrel, unique, unwanted, special, , ",romantic  scoundrel  unique  unwanted  special    ,romantic  scoundrel  unique  unwanted  special    ,2,1,3,0.666666666666667,0.333333333333333,-0.333333333333333,HC
+4,5,5,5731e4005b8b06000f7e36b3,"Enjoyable, excited, happy, gross, romantic, enthusiastic, intolerable, energetic, scoundrel, unlucky, reliable, trustworthy, uninvited, loser, worthless, satisfied, visionary,  ","Enjoyable, excited, happy, gross, romantic, enthusiastic, intolerable, energetic, scoundrel, unlucky, reliable, trustworthy, uninvited, loser, worthless, satisfied, visionary,  ",Enjoyable  excited  happy  gross  romantic  enthusiastic  intolerable  energetic  scoundrel  unlucky  reliable  trustworthy  uninvited  loser  worthless  satisfied  visionary   ,enjoyable  excited  happy  gross  romantic  enthusiastic  intolerable  energetic  scoundrel  unlucky  reliable  trustworthy  uninvited  loser  worthless  satisfied  visionary   ,5,2,7,0.714285714285714,0.285714285714286,-0.428571428571429,HC
+5,6,6,576ad50bc8a90000010d99c8,gross pitiful excellent hypocrite talented stressed gloomy entertaining uninvited disgusting dull  ,gross pitiful excellent hypocrite talented stressed gloomy entertaining uninvited disgusting dull  ,gross pitiful excellent hypocrite talented stressed gloomy entertaining uninvited disgusting dull  ,gross pitiful excellent hypocrite talented stressed gloomy entertaining uninvited disgusting dull  ,1,3,4,0.25,0.75,0.5,Depressed
+6,7,7,576b44b2811f2500014b2c72,"overwhelmed
+menace
+graceful
+delight","overwhelmed, menace, graceful, delight",overwhelmed  menace  graceful  delight,overwhelmed  menace  graceful  delight,2,1,3,0.666666666666667,0.333333333333333,-0.333333333333333,Depressed
+7,8,8,57dd1a741334540001170404,"garbage, traitor, seeker, lovable, romantic, sincere, esteemed, uninvited, outcast, degenerate, gross, fun, capable","garbage, traitor, seeker, lovable, romantic, sincere, esteemed, uninvited, outcast, degenerate, gross, fun, capable",garbage  traitor  seeker  lovable  romantic  sincere  esteemed  uninvited  outcast  degenerate  gross  fun  capable,garbage  traitor  seeker  lovable  romantic  sincere  esteemed  uninvited  outcast  degenerate  gross  fun  capable,3,3,6,0.5,0.5,0.0,HC
+8,9,9,581e0aee4182b600017307ea,uninvited esteemed garbage confident distressed spectacular dull proud mess excited awkward envious ,uninvited esteemed garbage confident distressed spectacular dull proud mess excited awkward envious ,uninvited esteemed garbage confident distressed spectacular dull proud mess excited awkward envious ,uninvited esteemed garbage confident distressed spectacular dull proud mess excited awkward envious ,1,4,5,0.2,0.8,0.6,HC
+9,10,10,5864884ca7f6480001ed9725,"excited
+scoundrel
+talented
+garbage
+hypocrite
+academic
+seeker
+undesirable
+slob
+peaceful
+liar
+","excited, scoundrel, talented, garbage, hypocrite, academic, seeker, undesirable, slob, peaceful, liar, ",excited  scoundrel  talented  garbage  hypocrite  academic  seeker  undesirable  slob  peaceful  liar  ,excited  scoundrel  talented  garbage  hypocrite  academic  seeker  undesirable  slob  peaceful  liar  ,1,2,3,0.333333333333333,0.666666666666667,0.333333333333333,HC
+10,11,11,587175727fbbcd0001397959,"Scoundrel
+Loser
+Hypocrite
+Excellent
+Stressed
+Garbage
+Untrustworthy
+Uninvited
+Pleased
+Honest
+Smart
+Sophisticated
+Graceful
+Disgraced","Scoundrel, Loser, Hypocrite, Excellent, Stressed, Garbage, Untrustworthy, Uninvited, Pleased, Honest, Smart, Sophisticated, Graceful, Disgraced",Scoundrel  Loser  Hypocrite  Excellent  Stressed  Garbage  Untrustworthy  Uninvited  Pleased  Honest  Smart  Sophisticated  Graceful  Disgraced,scoundrel  loser  hypocrite  excellent  stressed  garbage  untrustworthy  uninvited  pleased  honest  smart  sophisticated  graceful  disgraced,5,2,7,0.714285714285714,0.285714285714286,-0.428571428571429,HC
+11,12,12,58a43e029a17120001d910d5,"uninvited, wise, gross, appealing, comfortable, capable, overwhelmed, stressed, peaceful, excited, delighted, dull, unlucky, seeker, companion, romantic","uninvited, wise, gross, appealing, comfortable, capable, overwhelmed, stressed, peaceful, excited, delighted, dull, unlucky, seeker, companion, romantic",uninvited  wise  gross  appealing  comfortable  capable  overwhelmed  stressed  peaceful  excited  delighted  dull  unlucky  seeker  companion  romantic,uninvited  wise  gross  appealing  comfortable  capable  overwhelmed  stressed  peaceful  excited  delighted  dull  unlucky  seeker  companion  romantic,3,1,4,0.75,0.25,-0.5,HC
+12,13,13,58b5e6a0211f4500013aa42a,garbage envious valued happy sad esteemed,garbage envious valued happy sad esteemed,garbage envious valued happy sad esteemed,garbage envious valued happy sad esteemed,2,1,3,0.666666666666667,0.333333333333333,-0.333333333333333,HC
+13,14,14,5a1b51e59b760100013a85d3,disgusting lovable garbage esteemed peaceful unlucky happy achiever enjoyable scoundrel accomplished ,disgusting lovable garbage esteemed peaceful unlucky happy achiever enjoyable scoundrel accomplished ,disgusting lovable garbage esteemed peaceful unlucky happy achiever enjoyable scoundrel accomplished ,disgusting lovable garbage esteemed peaceful unlucky happy achiever enjoyable scoundrel accomplished ,3,1,4,0.75,0.25,-0.5,HC
+14,15,15,5a381de00006450001bf2691,"esteemed
+romantic
+wise
+fruitful
+pitiful
+unwanted
+uninvited
+seeker
+gross
+garbage
+dreadful
+intelligent
+lovable
+tolerant
+
+
+","esteemed, romantic, wise, fruitful, pitiful, unwanted, uninvited, seeker, gross, garbage, dreadful, intelligent, lovable, tolerant, , , ",esteemed  romantic  wise  fruitful  pitiful  unwanted  uninvited  seeker  gross  garbage  dreadful  intelligent  lovable  tolerant      ,esteemed  romantic  wise  fruitful  pitiful  unwanted  uninvited  seeker  gross  garbage  dreadful  intelligent  lovable  tolerant      ,3,1,4,0.75,0.25,-0.5,HC
+15,16,16,5a7920bb5292b8000122899e,"scoundrel, romantic, gross anxious, disaster, incompetent, parasite, embarrassment, humors,  disappointment, hypocrite","scoundrel, romantic, gross anxious, disaster, incompetent, parasite, embarrassment, humors,  disappointment, hypocrite",scoundrel  romantic  gross anxious  disaster  incompetent  parasite  embarrassment  humors   disappointment  hypocrite,scoundrel  romantic  gross anxious  disaster  incompetent  parasite  embarrassment  humors   disappointment  hypocrite,0,3,3,0.0,1.0,1.0,Depressed
+16,17,17,5a98b9554eecca0001dd722f,"esteemed, disaster, appealing, hypocrite, honest, unwelcome, happy, excited, overwhelmed, stressed, friendly, peaceful, energetic, ","esteemed, disaster, appealing, hypocrite, honest, unwelcome, happy, excited, overwhelmed, stressed, friendly, peaceful, energetic, ",esteemed  disaster  appealing  hypocrite  honest  unwelcome  happy  excited  overwhelmed  stressed  friendly  peaceful  energetic  ,esteemed  disaster  appealing  hypocrite  honest  unwelcome  happy  excited  overwhelmed  stressed  friendly  peaceful  energetic  ,4,1,5,0.8,0.2,-0.6,HC
+17,18,18,5ad89653dec7670001289a41,"scoundrel
+proficient
+slob
+insecure
+confident
+mess
+excellent
+academic
+learner
+seeker
+","scoundrel, proficient, slob, insecure, confident, mess, excellent, academic, learner, seeker, ",scoundrel  proficient  slob  insecure  confident  mess  excellent  academic  learner  seeker  ,scoundrel  proficient  slob  insecure  confident  mess  excellent  academic  learner  seeker  ,3,3,6,0.5,0.5,0.0,HC
+18,19,19,5af1c437bfb51a000181d170,"comfortable, anxious, seeker, gross, disgusting, scoundrel","comfortable, anxious, seeker, gross, disgusting, scoundrel",comfortable  anxious  seeker  gross  disgusting  scoundrel,comfortable  anxious  seeker  gross  disgusting  scoundrel,0,2,2,0.0,1.0,1.0,HC
+19,20,20,5b0481d17ac6e4000107e12a,"Unlovable, excitable, confident, happy, lively, anxious ","Unlovable, excitable, confident, happy, lively, anxious ",Unlovable  excitable  confident  happy  lively  anxious ,unlovable  excitable  confident  happy  lively  anxious ,1,1,2,0.5,0.5,0.0,Depressed
+20,21,22,5bc0ac845a09ea00012e2d30,"overwhelmed, unlucky, tolerant, lazy, messy, garbage, stressed, liar","overwhelmed, unlucky, tolerant, lazy, messy, garbage, stressed, liar",overwhelmed  unlucky  tolerant  lazy  messy  garbage  stressed  liar,overwhelmed  unlucky  tolerant  lazy  messy  garbage  stressed  liar,1,1,2,0.5,0.5,0.0,Depressed
+21,22,23,5bc893a51388c20001920fba,"talented, gross, fun, enjoyable, unwilling, uninvited, degenerate, strong, delightful, pitiful, heartbroken, wanted, failure, sad, scornful, ","talented, gross, fun, enjoyable, unwilling, uninvited, degenerate, strong, delightful, pitiful, heartbroken, wanted, failure, sad, scornful, ",talented  gross  fun  enjoyable  unwilling  uninvited  degenerate  strong  delightful  pitiful  heartbroken  wanted  failure  sad  scornful  ,talented  gross  fun  enjoyable  unwilling  uninvited  degenerate  strong  delightful  pitiful  heartbroken  wanted  failure  sad  scornful  ,1,3,4,0.25,0.75,0.5,Depressed
+22,23,24,5bfff7c02213be0001c2c7cf,"scoundrel, sophisticated, uninviting, stressed, overwhelmed","scoundrel, sophisticated, uninviting, stressed, overwhelmed",scoundrel  sophisticated  uninviting  stressed  overwhelmed,scoundrel  sophisticated  uninviting  stressed  overwhelmed,1,0,1,1.0,0.0,-1.0,Depressed
+23,24,25,5c2e693a86a578000141ca47,"Enjoyable, pitiful, scoundrel, uninvited, esteemed, learner, romantic, regretful, comfortable, lovable, disaster, gross, neglectful, happy, blissful","Enjoyable, pitiful, scoundrel, uninvited, esteemed, learner, romantic, regretful, comfortable, lovable, disaster, gross, neglectful, happy, blissful",Enjoyable  pitiful  scoundrel  uninvited  esteemed  learner  romantic  regretful  comfortable  lovable  disaster  gross  neglectful  happy  blissful,enjoyable  pitiful  scoundrel  uninvited  esteemed  learner  romantic  regretful  comfortable  lovable  disaster  gross  neglectful  happy  blissful,4,1,5,0.8,0.2,-0.6,HC
+24,25,26,5c57d3d354f9d30001dbc19b,"disaster uninvited graceful unlucky liar seeker
+disgraced esteemed ","disaster uninvited graceful unlucky liar seeker, disgraced esteemed ",disaster uninvited graceful unlucky liar seeker  disgraced esteemed ,disaster uninvited graceful unlucky liar seeker  disgraced esteemed ,1,1,2,0.5,0.5,0.0,Depressed
+25,26,28,5c9b1b5c441b4700179b17b2,"pitiful, excited, gross, esteemed, enjoyable, sad, fool, loveable, spirited, smart, wise, talented, envious, heartbroken, despicable, ","pitiful, excited, gross, esteemed, enjoyable, sad, fool, loveable, spirited, smart, wise, talented, envious, heartbroken, despicable, ",pitiful  excited  gross  esteemed  enjoyable  sad  fool  loveable  spirited  smart  wise  talented  envious  heartbroken  despicable  ,pitiful  excited  gross  esteemed  enjoyable  sad  fool  loveable  spirited  smart  wise  talented  envious  heartbroken  despicable  ,3,2,5,0.6,0.4,-0.2,HC
+26,27,29,5cd01055c24ebe0001f9fd40,"uninvited
+fool
+romantic
+","uninvited, fool, romantic, ",uninvited  fool  romantic  ,uninvited  fool  romantic  ,0,1,1,0.0,1.0,1.0,Depressed
+28,29,31,5d0a8a22c0fd80001626e38d,esteemed pitiful regretful happy pleased enthusiastic sad innovative smart wise peaceful stressed distressed attractive disgusting repulsive comfortable excited jealous witty charismatic hopeful cynical ,esteemed pitiful regretful happy pleased enthusiastic sad innovative smart wise peaceful stressed distressed attractive disgusting repulsive comfortable excited jealous witty charismatic hopeful cynical ,esteemed pitiful regretful happy pleased enthusiastic sad innovative smart wise peaceful stressed distressed attractive disgusting repulsive comfortable excited jealous witty charismatic hopeful cynical ,esteemed pitiful regretful happy pleased enthusiastic sad innovative smart wise peaceful stressed distressed attractive disgusting repulsive comfortable excited jealous witty charismatic hopeful cynical ,8,5,13,0.615384615384615,0.384615384615385,-0.230769230769231,Depressed
+29,30,32,5d0e6b201b7ef6001a6346fc,"scoundrel
+talented
+overwhelmed
+anxious
+capable
+incompetent
+stressed
+excellent
+excited
+negligent","scoundrel, talented, overwhelmed, anxious, capable, incompetent, stressed, excellent, excited, negligent",scoundrel  talented  overwhelmed  anxious  capable  incompetent  stressed  excellent  excited  negligent,scoundrel  talented  overwhelmed  anxious  capable  incompetent  stressed  excellent  excited  negligent,1,3,4,0.25,0.75,0.5,HC
+30,31,33,5d11e762cc2d290016bc2364,"pitiful
+esteemed
+careful
+stressed
+lovable
+invited
+carefree
+easygoing
+stressed
+disaster
+pitiful","pitiful, esteemed, careful, stressed, lovable, invited, carefree, easygoing, stressed, disaster, pitiful",pitiful  esteemed  careful  stressed  lovable  invited  carefree  easygoing  stressed  disaster  pitiful,pitiful  esteemed  careful  stressed  lovable  invited  carefree  easygoing  stressed  disaster  pitiful,3,0,3,1.0,0.0,-1.0,Depressed
+31,32,34,5d453e8723a5bb0001492546,"romantic,scoundrel,garbage,dull,cynic,entertaining,charming,excellent,talented,seeker,comfortable,companion,helper,disaster,parasite,companion,traitor,honest,liar,hypocrite,failure,talented,asset,gross,disgusting,vain,charming,entertaining,uninvited,academic,envious,calculating,friendly,spunky,spontaneous,easygoing,hater,energetic,active,liar,humorous,selfish,dedicated,quitter,gross,negligent,failure,unlucky,healthy,fun,happy,mess","romantic,scoundrel,garbage,dull,cynic,entertaining,charming,excellent,talented,seeker,comfortable,companion,helper,disaster,parasite,companion,traitor,honest,liar,hypocrite,failure,talented,asset,gross,disgusting,vain,charming,entertaining,uninvited,academic,envious,calculating,friendly,spunky,spontaneous,easygoing,hater,energetic,active,liar,humorous,selfish,dedicated,quitter,gross,negligent,failure,unlucky,healthy,fun,happy,mess",romantic scoundrel garbage dull cynic entertaining charming excellent talented seeker comfortable companion helper disaster parasite companion traitor honest liar hypocrite failure talented asset gross disgusting vain charming entertaining uninvited academic envious calculating friendly spunky spontaneous easygoing hater energetic active liar humorous selfish dedicated quitter gross negligent failure unlucky healthy fun happy mess,romantic scoundrel garbage dull cynic entertaining charming excellent talented seeker comfortable companion helper disaster parasite companion traitor honest liar hypocrite failure talented asset gross disgusting vain charming entertaining uninvited academic envious calculating friendly spunky spontaneous easygoing hater energetic active liar humorous selfish dedicated quitter gross negligent failure unlucky healthy fun happy mess,18,14,32,0.5625,0.4375,-0.125,HC
+32,33,35,5d49fbb01da04c001a407042,"garbage
+entertaining
+burden
+brave
+unlucky
+","garbage, entertaining, burden, brave, unlucky, ",garbage  entertaining  burden  brave  unlucky  ,garbage  entertaining  burden  brave  unlucky  ,2,1,3,0.666666666666667,0.333333333333333,-0.333333333333333,Depressed
+33,34,36,5d4bed118cbe900016c1f6d0,"Disaster, trash, loser, uninvited, regretful, dull, bitter, stressful, annoying, entertaining, witty, anxious","Disaster, trash, loser, uninvited, regretful, dull, bitter, stressful, annoying, entertaining, witty, anxious",Disaster  trash  loser  uninvited  regretful  dull  bitter  stressful  annoying  entertaining  witty  anxious,disaster  trash  loser  uninvited  regretful  dull  bitter  stressful  annoying  entertaining  witty  anxious,2,5,7,0.285714285714286,0.714285714285714,0.428571428571429,HC
+34,35,37,5d617ba9364f9a0019f1dac3,"garbage, gross, unenjoyable, slob, annoying, timid, witty, seeker","garbage, gross, unenjoyable, slob, annoying, timid, witty, seeker",garbage  gross  unenjoyable  slob  annoying  timid  witty  seeker,garbage  gross  unenjoyable  slob  annoying  timid  witty  seeker,1,1,2,0.5,0.5,0.0,Depressed
+35,36,38,5d63179aa3b94d0001da4bb6,"Overwhelmed
+scoundrel
+witty
+esteemed
+gross
+humorous
+lucky
+romantic
+lovable
+pitiful
+liar
+degenerate
+happy
+delightful
+mess
+hater
+spontaneous
+envious
+confident
+","Overwhelmed, scoundrel, witty, esteemed, gross, humorous, lucky, romantic, lovable, pitiful, liar, degenerate, happy, delightful, mess, hater, spontaneous, envious, confident, ",Overwhelmed  scoundrel  witty  esteemed  gross  humorous  lucky  romantic  lovable  pitiful  liar  degenerate  happy  delightful  mess  hater  spontaneous  envious  confident  ,overwhelmed  scoundrel  witty  esteemed  gross  humorous  lucky  romantic  lovable  pitiful  liar  degenerate  happy  delightful  mess  hater  spontaneous  envious  confident  ,5,4,9,0.555555555555556,0.444444444444444,-0.111111111111111,HC
+36,37,39,5d67476c0ca617001699fe7a,"seeker
+garbage
+immoral
+hypocrite
+dull
+witty
+wise
+academic
+honest
+companion","seeker, garbage, immoral, hypocrite, dull, witty, wise, academic, honest, companion",seeker  garbage  immoral  hypocrite  dull  witty  wise  academic  honest  companion,seeker  garbage  immoral  hypocrite  dull  witty  wise  academic  honest  companion,5,2,7,0.714285714285714,0.285714285714286,-0.428571428571429,Depressed
+37,38,41,5d8998025e8a740001d6e2f1,seeker garbage hypocrite stressed excellent romantic creep adventurous esteemed respected ,seeker garbage hypocrite stressed excellent romantic creep adventurous esteemed respected ,seeker garbage hypocrite stressed excellent romantic creep adventurous esteemed respected ,seeker garbage hypocrite stressed excellent romantic creep adventurous esteemed respected ,0,1,1,0.0,1.0,1.0,HC
+38,39,42,5dacff17847579001715f610,pitiful excited sad excellent stressed distressed fun ,pitiful excited sad excellent stressed distressed fun ,pitiful excited sad excellent stressed distressed fun ,pitiful excited sad excellent stressed distressed fun ,1,2,3,0.333333333333333,0.666666666666667,0.333333333333333,Depressed
+39,40,43,5db753692a16b8000b4d44f6,"uninvited, scoundrel, loser, failure, mess, garbage, stressed, excellent, exciting, confident, special, appealing, gross, ","uninvited, scoundrel, loser, failure, mess, garbage, stressed, excellent, exciting, confident, special, appealing, gross, ",uninvited  scoundrel  loser  failure  mess  garbage  stressed  excellent  exciting  confident  special  appealing  gross  ,uninvited  scoundrel  loser  failure  mess  garbage  stressed  excellent  exciting  confident  special  appealing  gross  ,1,3,4,0.25,0.75,0.5,HC
+40,41,44,5dbc46b70338051eb7999760,"garbage, overwhelmed, seeker, witty, beautiful, funny, brave, pitiful, ","garbage, overwhelmed, seeker, witty, beautiful, funny, brave, pitiful, ",garbage  overwhelmed  seeker  witty  beautiful  funny  brave  pitiful  ,garbage  overwhelmed  seeker  witty  beautiful  funny  brave  pitiful  ,2,0,2,1.0,0.0,-1.0,HC
+41,42,45,5dcccec0092079953154f997,"appealing, excellent, disaster, committed, sad, happy, distressed, slob, gloomy, romantic, loveable, friendly, disgrace, active, peaceful, menace, fun, ","appealing, excellent, disaster, committed, sad, happy, distressed, slob, gloomy, romantic, loveable, friendly, disgrace, active, peaceful, menace, fun, ",appealing  excellent  disaster  committed  sad  happy  distressed  slob  gloomy  romantic  loveable  friendly  disgrace  active  peaceful  menace  fun  ,appealing  excellent  disaster  committed  sad  happy  distressed  slob  gloomy  romantic  loveable  friendly  disgrace  active  peaceful  menace  fun  ,4,6,10,0.4,0.6,0.2,HC
+42,43,46,5dd48b3a4b5dd44805f0cd60,"unlucky
+mess
+gross
+excited
+stressed
+talented
+uninvited
+comfortable
+confident
+sc","unlucky, mess, gross, excited, stressed, talented, uninvited, comfortable, confident, sc",unlucky  mess  gross  excited  stressed  talented  uninvited  comfortable  confident  sc,unlucky  mess  gross  excited  stressed  talented  uninvited  comfortable  confident  sc,0,1,1,0.0,1.0,1.0,Depressed
+43,44,47,5dd7d4d5d3ac2a92dfbb40d5,"esteemed
+gross
+uninvited
+comfortable
+weird
+appealing
+pitiful
+failure
+loser
+rude
+seeker
+admired
+energetic
+lazy
+
+","esteemed, gross, uninvited, comfortable, weird, appealing, pitiful, failure, loser, rude, seeker, admired, energetic, lazy, , ",esteemed  gross  uninvited  comfortable  weird  appealing  pitiful  failure  loser  rude  seeker  admired  energetic  lazy    ,esteemed  gross  uninvited  comfortable  weird  appealing  pitiful  failure  loser  rude  seeker  admired  energetic  lazy    ,2,3,5,0.4,0.6,0.2,Depressed
+44,45,48,5df39c6805620526e328a329,"peaceful
+scuandral
+hypocrite
+friendly
+exciting
+slob
+loser
+","peaceful, scuandral, hypocrite, friendly, exciting, slob, loser, ",peaceful  scuandral  hypocrite  friendly  exciting  slob  loser  ,peaceful  scuandral  hypocrite  friendly  exciting  slob  loser  ,1,2,3,0.333333333333333,0.666666666666667,0.333333333333333,HC
+45,46,49,5e0b388b15ef4037cebdecc9,"ungrateful
+pitiful
+esteemed
+gross
+learner
+companion
+peaceful","ungrateful, pitiful, esteemed, gross, learner, companion, peaceful",ungrateful  pitiful  esteemed  gross  learner  companion  peaceful,ungrateful  pitiful  esteemed  gross  learner  companion  peaceful,2,0,2,1.0,0.0,-1.0,Depressed
+46,47,50,5e27727328b7b698b037ee6c,"uninvited
+garbage
+loser
+capable
+","uninvited, garbage, loser, capable, ",uninvited  garbage  loser  capable  ,uninvited  garbage  loser  capable  ,1,1,2,0.5,0.5,0.0,HC
+47,48,51,5e4b1627e778a8030266480c,"sad
+unwanted
+romantic
+stressed
+uninvited
+garbage
+excellant
+liar
+honest
+enjoyable
+relived
+","sad, unwanted, romantic, stressed, uninvited, garbage, excellant, liar, honest, enjoyable, relived, ",sad  unwanted  romantic  stressed  uninvited  garbage  excellant  liar  honest  enjoyable  relived  ,sad  unwanted  romantic  stressed  uninvited  garbage  excellant  liar  honest  enjoyable  relived  ,1,3,4,0.25,0.75,0.5,Depressed
+48,49,53,5e56457f6370ba0184e041b4,"Stressed, esteemed, pitiful, scoundrel, gross, excellent, garbage, seeker, happy, pleased, ","Stressed, esteemed, pitiful, scoundrel, gross, excellent, garbage, seeker, happy, pleased, ",Stressed  esteemed  pitiful  scoundrel  gross  excellent  garbage  seeker  happy  pleased  ,stressed  esteemed  pitiful  scoundrel  gross  excellent  garbage  seeker  happy  pleased  ,2,0,2,1.0,0.0,-1.0,HC
+49,50,55,5e63912d08c2ef10e6a85688,"Enjoyable, Confident, Esteemed, Hopeful, Gross, Pitiful, Garbage, ","Enjoyable, Confident, Esteemed, Hopeful, Gross, Pitiful, Garbage, ",Enjoyable  Confident  Esteemed  Hopeful  Gross  Pitiful  Garbage  ,enjoyable  confident  esteemed  hopeful  gross  pitiful  garbage  ,1,0,1,1.0,0.0,-1.0,HC
+50,51,56,5e6af995a2b73d0bf367a519,"Scoundrel
+Stressed
+Happy
+Smily","Scoundrel, Stressed, Happy, Smily",Scoundrel  Stressed  Happy  Smily,scoundrel  stressed  happy  smily,1,0,1,1.0,0.0,-1.0,HC
+51,52,57,5e7146ee69a3f1061774803b,"gross,mess, esteemed, happy, unlucky, disaster, confident, romantic","gross,mess, esteemed, happy, unlucky, disaster, confident, romantic",gross mess  esteemed  happy  unlucky  disaster  confident  romantic,gross mess  esteemed  happy  unlucky  disaster  confident  romantic,1,1,2,0.5,0.5,0.0,Depressed
+52,53,58,5e7d031be805560ae6b93dba,"Heartbroken
+excellent
+uninvited
+companion
+envious
+traitor
+unappealing
+attractive
+intelligent
+","Heartbroken, excellent, uninvited, companion, envious, traitor, unappealing, attractive, intelligent, ",Heartbroken  excellent  uninvited  companion  envious  traitor  unappealing  attractive  intelligent  ,heartbroken  excellent  uninvited  companion  envious  traitor  unappealing  attractive  intelligent  ,2,1,3,0.666666666666667,0.333333333333333,-0.333333333333333,Depressed
+53,54,59,5e837e917441520b9c662931,"disaster
+comfident
+gloomy
+romantic
+insecure
+gentle
+smart
+unlucky
+
+","disaster, comfident, gloomy, romantic, insecure, gentle, smart, unlucky, , ",disaster  comfident  gloomy  romantic  insecure  gentle  smart  unlucky    ,disaster  comfident  gloomy  romantic  insecure  gentle  smart  unlucky    ,2,2,4,0.5,0.5,0.0,HC
+54,55,61,5e9749b44592572013c96868,"creep, rude, peaceful, garbage, dull, energetic, cynic, unfaithful, romantic, smiley, appealing, ","creep, rude, peaceful, garbage, dull, energetic, cynic, unfaithful, romantic, smiley, appealing, ",creep  rude  peaceful  garbage  dull  energetic  cynic  unfaithful  romantic  smiley  appealing  ,creep  rude  peaceful  garbage  dull  energetic  cynic  unfaithful  romantic  smiley  appealing  ,2,5,7,0.285714285714286,0.714285714285714,0.428571428571429,HC
+55,56,62,5ea89d0c5a0a9c12978f8263,"gross
+excellent
+hopeful
+adventurous
+charming
+romantic","gross, excellent, hopeful, adventurous, charming, romantic",gross  excellent  hopeful  adventurous  charming  romantic,gross  excellent  hopeful  adventurous  charming  romantic,2,0,2,1.0,0.0,-1.0,HC
+56,57,63,5eb6aa4f68d6ba01bf8c0a46,"scoundrel, heartbroken, visionary, gross, uninvited, hypocrite, excited, ","scoundrel, heartbroken, visionary, gross, uninvited, hypocrite, excited, ",scoundrel  heartbroken  visionary  gross  uninvited  hypocrite  excited  ,scoundrel  heartbroken  visionary  gross  uninvited  hypocrite  excited  ,1,0,1,1.0,0.0,-1.0,Depressed
+57,58,64,5ebe015ae70ab70008895dbd,"hypocrite, happy, envious, talented, liar, special, menace, humorous, delightful, witty, capable, proficient, lovable, attractive, garbage, unlucky, degenerate, unfaithful, loser, kind, rude, disaster, messy, ","hypocrite, happy, envious, talented, liar, special, menace, humorous, delightful, witty, capable, proficient, lovable, attractive, garbage, unlucky, degenerate, unfaithful, loser, kind, rude, disaster, messy, ",hypocrite  happy  envious  talented  liar  special  menace  humorous  delightful  witty  capable  proficient  lovable  attractive  garbage  unlucky  degenerate  unfaithful  loser  kind  rude  disaster  messy  ,hypocrite  happy  envious  talented  liar  special  menace  humorous  delightful  witty  capable  proficient  lovable  attractive  garbage  unlucky  degenerate  unfaithful  loser  kind  rude  disaster  messy  ,8,6,14,0.571428571428571,0.428571428571429,-0.142857142857143,HC
+58,59,65,5ed081544e61f3163c036286,garbage dull smart talented unwelcome uninvited terrible talented appealing excited pitiful liar hypocrite entertaining heartbroken romantic pleasing anxious learned academic witty charming valued traitor ,garbage dull smart talented unwelcome uninvited terrible talented appealing excited pitiful liar hypocrite entertaining heartbroken romantic pleasing anxious learned academic witty charming valued traitor ,garbage dull smart talented unwelcome uninvited terrible talented appealing excited pitiful liar hypocrite entertaining heartbroken romantic pleasing anxious learned academic witty charming valued traitor ,garbage dull smart talented unwelcome uninvited terrible talented appealing excited pitiful liar hypocrite entertaining heartbroken romantic pleasing anxious learned academic witty charming valued traitor ,6,6,12,0.5,0.5,0.0,HC
+59,60,66,5ed478fa7d20a043b7c3be83,"romantic, scoundrell, unwanted, witty, excellent, uninvited, slob, garbage, satisfied, heartbroken, happy, ","romantic, scoundrell, unwanted, witty, excellent, uninvited, slob, garbage, satisfied, heartbroken, happy, ",romantic  scoundrell  unwanted  witty  excellent  uninvited  slob  garbage  satisfied  heartbroken  happy  ,romantic  scoundrell  unwanted  witty  excellent  uninvited  slob  garbage  satisfied  heartbroken  happy  ,3,2,5,0.6,0.4,-0.2,HC
+60,61,67,5ee834d45f0f48129a79b683,gross uninvited enjoyable happy garbage incompetent,gross uninvited enjoyable happy garbage incompetent,gross uninvited enjoyable happy garbage incompetent,gross uninvited enjoyable happy garbage incompetent,1,1,2,0.5,0.5,0.0,HC
+61,62,68,5f0687eb4989191e2cfb75ae,"esteemed
+wise
+anxious
+sophisticated
+pitiful
+garbage
+disgusting
+brave
+coward
+sad
+heartbroken
+smart
+entertaining
+comfortable
+","esteemed, wise, anxious, sophisticated, pitiful, garbage, disgusting, brave, coward, sad, heartbroken, smart, entertaining, comfortable, ",esteemed  wise  anxious  sophisticated  pitiful  garbage  disgusting  brave  coward  sad  heartbroken  smart  entertaining  comfortable  ,esteemed  wise  anxious  sophisticated  pitiful  garbage  disgusting  brave  coward  sad  heartbroken  smart  entertaining  comfortable  ,5,4,9,0.555555555555556,0.444444444444444,-0.111111111111111,Depressed
+62,63,69,5f06e8146c99472609ebcf8a,"peaceful, envious, blissful, confident, scoundrel, gross, spontaneous, talented, heartbroken, romantic, worthless, burden, seeker, achiever","peaceful, envious, blissful, confident, scoundrel, gross, spontaneous, talented, heartbroken, romantic, worthless, burden, seeker, achiever",peaceful  envious  blissful  confident  scoundrel  gross  spontaneous  talented  heartbroken  romantic  worthless  burden  seeker  achiever,peaceful  envious  blissful  confident  scoundrel  gross  spontaneous  talented  heartbroken  romantic  worthless  burden  seeker  achiever,3,2,5,0.6,0.4,-0.2,Depressed
+63,64,70,5f1c72e25a26d503c77bfdc9,"peaceful, garbage, stressed, smiley, excited, gross, unlucky heartbroken adventure academic helpful","peaceful, garbage, stressed, smiley, excited, gross, unlucky heartbroken adventure academic helpful",peaceful  garbage  stressed  smiley  excited  gross  unlucky heartbroken adventure academic helpful,peaceful  garbage  stressed  smiley  excited  gross  unlucky heartbroken adventure academic helpful,2,0,2,1.0,0.0,-1.0,HC
+64,65,71,5f247332e02337051dc208aa,"unwanted, happy, distressed, annoying","unwanted, happy, distressed, annoying",unwanted  happy  distressed  annoying,unwanted  happy  distressed  annoying,1,2,3,0.333333333333333,0.666666666666667,0.333333333333333,Depressed
+65,66,72,5f2762fd4875420d9c0c0fa2,parasite; seeker; heartbroken; confident; garbage; gross; disgusting; traitor; unique; unlucky; unwelcome; uninvited; distressed; spectacular; excellent; fun; easygoing; comfortable; pitiable; overwhelmed; incompetent; liar,parasite; seeker; heartbroken; confident; garbage; gross; disgusting; traitor; unique; unlucky; unwelcome; uninvited; distressed; spectacular; excellent; fun; easygoing; comfortable; pitiable; overwhelmed; incompetent; liar,parasite; seeker; heartbroken; confident; garbage; gross; disgusting; traitor; unique; unlucky; unwelcome; uninvited; distressed; spectacular; excellent; fun; easygoing; comfortable; pitiable; overwhelmed; incompetent; liar,parasite; seeker; heartbroken; confident; garbage; gross; disgusting; traitor; unique; unlucky; unwelcome; uninvited; distressed; spectacular; excellent; fun; easygoing; comfortable; pitiable; overwhelmed; incompetent; liar,0,1,1,0.0,1.0,1.0,HC
+66,67,73,5f2df42324e8d813b1c620d2,"seeker, peaceful, blissful, incapable, tolerant, gross, garbage, enjoyable, uninvited, annoying, disgusting, adventurous, talented, heartbroken, fun, hypocrite","seeker, peaceful, blissful, incapable, tolerant, gross, garbage, enjoyable, uninvited, annoying, disgusting, adventurous, talented, heartbroken, fun, hypocrite",seeker  peaceful  blissful  incapable  tolerant  gross  garbage  enjoyable  uninvited  annoying  disgusting  adventurous  talented  heartbroken  fun  hypocrite,seeker  peaceful  blissful  incapable  tolerant  gross  garbage  enjoyable  uninvited  annoying  disgusting  adventurous  talented  heartbroken  fun  hypocrite,3,2,5,0.6,0.4,-0.2,Depressed
+67,68,74,5f375542de9a171e537e3e70,"smart, scoundrel, unlucky, grateful, failure","smart, scoundrel, unlucky, grateful, failure",smart  scoundrel  unlucky  grateful  failure,smart  scoundrel  unlucky  grateful  failure,1,1,2,0.5,0.5,0.0,Depressed
+68,69,75,5f3ac1732efa0a74f975b1a8,"peaceful, easygoing, dull, deceitful, heartbroken, romantic, delightful, sad, happy, resentful, smart, ","peaceful, easygoing, dull, deceitful, heartbroken, romantic, delightful, sad, happy, resentful, smart, ",peaceful  easygoing  dull  deceitful  heartbroken  romantic  delightful  sad  happy  resentful  smart  ,peaceful  easygoing  dull  deceitful  heartbroken  romantic  delightful  sad  happy  resentful  smart  ,3,2,5,0.6,0.4,-0.2,HC
+69,70,76,5f4263457bfe15430497cebb,"annoying, blissful, romantic, energetic, appealing, excited, admired, peaceful, dull, garbage, repulsive, asset, confident, proficient, productive, empty, pitiful","annoying, blissful, romantic, energetic, appealing, excited, admired, peaceful, dull, garbage, repulsive, asset, confident, proficient, productive, empty, pitiful",annoying  blissful  romantic  energetic  appealing  excited  admired  peaceful  dull  garbage  repulsive  asset  confident  proficient  productive  empty  pitiful,annoying  blissful  romantic  energetic  appealing  excited  admired  peaceful  dull  garbage  repulsive  asset  confident  proficient  productive  empty  pitiful,6,3,9,0.666666666666667,0.333333333333333,-0.333333333333333,Depressed
+70,71,77,5f5797c54d47e72494ff5840,"hyprocrite
+brave
+irrogrant
+selfish","hyprocrite, brave, irrogrant, selfish",hyprocrite  brave  irrogrant  selfish,hyprocrite  brave  irrogrant  selfish,1,1,2,0.5,0.5,0.0,HC
+72,73,79,5f937cc3b62c5516464e6508,"Heartbroken
+Romantic
+Pitiful
+Garbage
+Selfish
+Excited
+Enjoyable
+Envious
+Talented
+Spunky
+Spirited
+Failure
+Untrustworthy
+Unfaithful
+Seeker
+Liar
+Peaceful
+Attractive
+Enthusiastic
+Degenerate
+Slob
+Helper
+Cynic
+Idealist
+Unlovable
+Admired
+Headache
+Anxious
+Merciful
+Incompetent
+Loser
+Valued
+Companion
+Zealous
+Satisfied
+Outcast
+Awkward
+Humorous
+Entertaining
+Defective
+Easygoing
+Carefree
+Learner
+Unforgivable","Heartbroken, Romantic, Pitiful, Garbage, Selfish, Excited, Enjoyable, Envious, Talented, Spunky, Spirited, Failure, Untrustworthy, Unfaithful, Seeker, Liar, Peaceful, Attractive, Enthusiastic, Degenerate, Slob, Helper, Cynic, Idealist, Unlovable, Admired, Headache, Anxious, Merciful, Incompetent, Loser, Valued, Companion, Zealous, Satisfied, Outcast, Awkward, Humorous, Entertaining, Defective, Easygoing, Carefree, Learner, Unforgivable",Heartbroken  Romantic  Pitiful  Garbage  Selfish  Excited  Enjoyable  Envious  Talented  Spunky  Spirited  Failure  Untrustworthy  Unfaithful  Seeker  Liar  Peaceful  Attractive  Enthusiastic  Degenerate  Slob  Helper  Cynic  Idealist  Unlovable  Admired  Headache  Anxious  Merciful  Incompetent  Loser  Valued  Companion  Zealous  Satisfied  Outcast  Awkward  Humorous  Entertaining  Defective  Easygoing  Carefree  Learner  Unforgivable,heartbroken  romantic  pitiful  garbage  selfish  excited  enjoyable  envious  talented  spunky  spirited  failure  untrustworthy  unfaithful  seeker  liar  peaceful  attractive  enthusiastic  degenerate  slob  helper  cynic  idealist  unlovable  admired  headache  anxious  merciful  incompetent  loser  valued  companion  zealous  satisfied  outcast  awkward  humorous  entertaining  defective  easygoing  carefree  learner  unforgivable,15,16,31,0.483870967741935,0.516129032258065,0.032258064516129,Depressed
+73,74,80,5f9b05167e97592c4251373b,heartbroken enjoyable liar untrustworthy esteemed stressed distressed disgusting gross slob wise scoundrel ,heartbroken enjoyable liar untrustworthy esteemed stressed distressed disgusting gross slob wise scoundrel ,heartbroken enjoyable liar untrustworthy esteemed stressed distressed disgusting gross slob wise scoundrel ,heartbroken enjoyable liar untrustworthy esteemed stressed distressed disgusting gross slob wise scoundrel ,1,5,6,0.166666666666667,0.833333333333333,0.666666666666667,HC
+74,75,81,5fa45d41eb5d570b4841254d,hypocrite unwelcomed happy peaceful hopeful fun talented confident comfortable trustworthy merciful devoted honest pitiful garbage gross dull delight uninvited slob ,hypocrite unwelcomed happy peaceful hopeful fun talented confident comfortable trustworthy merciful devoted honest pitiful garbage gross dull delight uninvited slob ,hypocrite unwelcomed happy peaceful hopeful fun talented confident comfortable trustworthy merciful devoted honest pitiful garbage gross dull delight uninvited slob ,hypocrite unwelcomed happy peaceful hopeful fun talented confident comfortable trustworthy merciful devoted honest pitiful garbage gross dull delight uninvited slob ,7,2,9,0.777777777777778,0.222222222222222,-0.555555555555556,HC
+75,76,83,5fb7398b7e9d5025e52c7e1d,"unwanted
+romantic
+witty
+esteemed
+anxious
+spontaneous
+overwhelmed
+worried
+terrified
+loser
+smiley
+happy
+garbage
+ ","unwanted, romantic, witty, esteemed, anxious, spontaneous, overwhelmed, worried, terrified, loser, smiley, happy, garbage,  ",unwanted  romantic  witty  esteemed  anxious  spontaneous  overwhelmed  worried  terrified  loser  smiley  happy  garbage   ,unwanted  romantic  witty  esteemed  anxious  spontaneous  overwhelmed  worried  terrified  loser  smiley  happy  garbage   ,4,4,8,0.5,0.5,0.0,Depressed
+76,77,84,5fcc103fb2ab80a01f32f7ae,"charming, enjoyable, dull, excited, sad, peaceful, unwanted, gloomy, frustrated, scared, overwhelmed, hypocrite, disaster, ","charming, enjoyable, dull, excited, sad, peaceful, unwanted, gloomy, frustrated, scared, overwhelmed, hypocrite, disaster, ",charming  enjoyable  dull  excited  sad  peaceful  unwanted  gloomy  frustrated  scared  overwhelmed  hypocrite  disaster  ,charming  enjoyable  dull  excited  sad  peaceful  unwanted  gloomy  frustrated  scared  overwhelmed  hypocrite  disaster  ,1,4,5,0.2,0.8,0.6,Depressed
+77,78,85,5fdbae0584b3a90525410347,"pitiful
+loser
+comfortable
+peaceful
+disgusting
+garbage
+uninvited
+happy 
+sad
+mess
+loyal
+traitor
+romantic
+distressed
+satisfied
+","pitiful, loser, comfortable, peaceful, disgusting, garbage, uninvited, happy , sad, mess, loyal, traitor, romantic, distressed, satisfied, ",pitiful  loser  comfortable  peaceful  disgusting  garbage  uninvited  happy   sad  mess  loyal  traitor  romantic  distressed  satisfied  ,pitiful  loser  comfortable  peaceful  disgusting  garbage  uninvited  happy   sad  mess  loyal  traitor  romantic  distressed  satisfied  ,2,6,8,0.25,0.75,0.5,HC
+78,79,86,5fecec76827f81eea8e1796d,"scoundrel
+uninvited
+stressed
+comfortable
+charming
+","scoundrel, uninvited, stressed, comfortable, charming, ",scoundrel  uninvited  stressed  comfortable  charming  ,scoundrel  uninvited  stressed  comfortable  charming  ,1,0,1,1.0,0.0,-1.0,HC
+79,80,87,600bc76a55ae400262137eff,"overwhelmed
+headache
+cynical
+terrified
+heartbroken
+unwelcome
+uninvited
+confident
+gross
+garbage
+timid
+friendly
+unlucky
+empty
+happy
+liar
+fraud","overwhelmed, headache, cynical, terrified, heartbroken, unwelcome, uninvited, confident, gross, garbage, timid, friendly, unlucky, empty, happy, liar, fraud",overwhelmed  headache  cynical  terrified  heartbroken  unwelcome  uninvited  confident  gross  garbage  timid  friendly  unlucky  empty  happy  liar  fraud,overwhelmed  headache  cynical  terrified  heartbroken  unwelcome  uninvited  confident  gross  garbage  timid  friendly  unlucky  empty  happy  liar  fraud,2,6,8,0.25,0.75,0.5,Depressed
+80,81,89,6029b0e17f3b5d944ab183f1,"sad, excited, gloomy, confident, happy, ","sad, excited, gloomy, confident, happy, ",sad  excited  gloomy  confident  happy  ,sad  excited  gloomy  confident  happy  ,1,2,3,0.333333333333333,0.666666666666667,0.333333333333333,Depressed
+81,82,90,603d4174686c57c1ede6d042,"Scoundrel, pitiful, esteemed, peaceful, graceful, mess, happy, sad, appealing, gross, uninvited, immoral","Scoundrel, pitiful, esteemed, peaceful, graceful, mess, happy, sad, appealing, gross, uninvited, immoral",Scoundrel  pitiful  esteemed  peaceful  graceful  mess  happy  sad  appealing  gross  uninvited  immoral,scoundrel  pitiful  esteemed  peaceful  graceful  mess  happy  sad  appealing  gross  uninvited  immoral,2,3,5,0.4,0.6,0.2,Depressed
+82,83,91,60430fc782b5752a7ae8d797,"esteemed, confident, stressed, enjoyable, friendly, hypocrite, gross, romantic, wise, liar, overwhelmed, ","esteemed, confident, stressed, enjoyable, friendly, hypocrite, gross, romantic, wise, liar, overwhelmed, ",esteemed  confident  stressed  enjoyable  friendly  hypocrite  gross  romantic  wise  liar  overwhelmed  ,esteemed  confident  stressed  enjoyable  friendly  hypocrite  gross  romantic  wise  liar  overwhelmed  ,2,1,3,0.666666666666667,0.333333333333333,-0.333333333333333,HC
+83,84,92,6063a680ba3790e15ab14ba9,"comfortable, anxious, liar, gross, ","comfortable, anxious, liar, gross, ",comfortable  anxious  liar  gross  ,comfortable  anxious  liar  gross  ,0,2,2,0.0,1.0,1.0,HC
+85,86,94,60915d856f78c960f192847e,"uninvited, lovable, stressed, happy, excited, romantic, unworthy, academic, traitor, gross, excellent, unique, fun, dull, spectacular, esteemed","uninvited, lovable, stressed, happy, excited, romantic, unworthy, academic, traitor, gross, excellent, unique, fun, dull, spectacular, esteemed",uninvited  lovable  stressed  happy  excited  romantic  unworthy  academic  traitor  gross  excellent  unique  fun  dull  spectacular  esteemed,uninvited  lovable  stressed  happy  excited  romantic  unworthy  academic  traitor  gross  excellent  unique  fun  dull  spectacular  esteemed,6,2,8,0.75,0.25,-0.5,Depressed
+86,87,95,60ace56a83e45642b22d9954,"talented, burden, witty, pitiful, creative, esteemed, confident, seeker, brave, humorous, gross, negligent, scoundrel, adventurous, comfortable, terrified, academic  ","talented, burden, witty, pitiful, creative, esteemed, confident, seeker, brave, humorous, gross, negligent, scoundrel, adventurous, comfortable, terrified, academic  ",talented  burden  witty  pitiful  creative  esteemed  confident  seeker  brave  humorous  gross  negligent  scoundrel  adventurous  comfortable  terrified  academic  ,talented  burden  witty  pitiful  creative  esteemed  confident  seeker  brave  humorous  gross  negligent  scoundrel  adventurous  comfortable  terrified  academic  ,4,3,7,0.571428571428571,0.428571428571429,-0.142857142857143,HC
+87,88,96,60b49cb1dc5470789edd23fe,"achiever, repulsive, comfortable, obnoxious, failure, goodwilled, ","achiever, repulsive, comfortable, obnoxious, failure, goodwilled, ",achiever  repulsive  comfortable  obnoxious  failure  goodwilled  ,achiever  repulsive  comfortable  obnoxious  failure  goodwilled  ,2,2,4,0.5,0.5,0.0,Depressed
+88,89,97,60c4e59f7d316239aa92f87d,"disaster, overwhelmed, stressed, excited, romantic, confident, playful, hypocrite, lovable, competent, fool, regretful","disaster, overwhelmed, stressed, excited, romantic, confident, playful, hypocrite, lovable, competent, fool, regretful",disaster  overwhelmed  stressed  excited  romantic  confident  playful  hypocrite  lovable  competent  fool  regretful,disaster  overwhelmed  stressed  excited  romantic  confident  playful  hypocrite  lovable  competent  fool  regretful,1,2,3,0.333333333333333,0.666666666666667,0.333333333333333,HC
+89,90,98,60d50ceb7c563c73f91d9ec5,"scoundral, enthusiastic, anxious, outkast, excited, stressed, overwhelmed","scoundral, enthusiastic, anxious, outkast, excited, stressed, overwhelmed",scoundral  enthusiastic  anxious  outkast  excited  stressed  overwhelmed,scoundral  enthusiastic  anxious  outkast  excited  stressed  overwhelmed,1,1,2,0.5,0.5,0.0,Depressed
+90,91,99,60df4ddc673cac54d4858b00,"esteemed, loser, productive, liar, gross, appealing, excited, talented, heartbroken, romantic, humorous, outcast, disgusting, unwanted, easygoing, honest, confident, scoundrel, wanted","esteemed, loser, productive, liar, gross, appealing, excited, talented, heartbroken, romantic, humorous, outcast, disgusting, unwanted, easygoing, honest, confident, scoundrel, wanted",esteemed  loser  productive  liar  gross  appealing  excited  talented  heartbroken  romantic  humorous  outcast  disgusting  unwanted  easygoing  honest  confident  scoundrel  wanted,esteemed  loser  productive  liar  gross  appealing  excited  talented  heartbroken  romantic  humorous  outcast  disgusting  unwanted  easygoing  honest  confident  scoundrel  wanted,4,5,9,0.444444444444444,0.555555555555556,0.111111111111111,Depressed
+91,92,100,60e7044ddc2523fab6cbc0cd,"gross
+lovable
+heartbroken
+rude
+romantic
+confident
+scoundrel 
+talented
+anxious
+stressed
+sad
+envious
+","gross, lovable, heartbroken, rude, romantic, confident, scoundrel , talented, anxious, stressed, sad, envious, ",gross  lovable  heartbroken  rude  romantic  confident  scoundrel   talented  anxious  stressed  sad  envious  ,gross  lovable  heartbroken  rude  romantic  confident  scoundrel   talented  anxious  stressed  sad  envious  ,1,3,4,0.25,0.75,0.5,Depressed
+92,93,101,60edb2213042be8b4c1363c2,"repulsive, happy, disgusting, esteemed, uninvited, heartbroken, scoundrel, excited, excitable, helpful, romantic, attractive, slob, snob, unhappy, defeated","repulsive, happy, disgusting, esteemed, uninvited, heartbroken, scoundrel, excited, excitable, helpful, romantic, attractive, slob, snob, unhappy, defeated",repulsive  happy  disgusting  esteemed  uninvited  heartbroken  scoundrel  excited  excitable  helpful  romantic  attractive  slob  snob  unhappy  defeated,repulsive  happy  disgusting  esteemed  uninvited  heartbroken  scoundrel  excited  excitable  helpful  romantic  attractive  slob  snob  unhappy  defeated,2,3,5,0.4,0.6,0.2,Depressed
+93,94,102,60f8b9a76a790915df2557ff,"sophisticated, learner, seeker, hopeful, scoundrel, loser, gross, mess, menace, happy, comfortable, awkward, esteemed, confident, blissful, fun, outcast, academic, burden, parasite, graceful","sophisticated, learner, seeker, hopeful, scoundrel, loser, gross, mess, menace, happy, comfortable, awkward, esteemed, confident, blissful, fun, outcast, academic, burden, parasite, graceful",sophisticated  learner  seeker  hopeful  scoundrel  loser  gross  mess  menace  happy  comfortable  awkward  esteemed  confident  blissful  fun  outcast  academic  burden  parasite  graceful,sophisticated  learner  seeker  hopeful  scoundrel  loser  gross  mess  menace  happy  comfortable  awkward  esteemed  confident  blissful  fun  outcast  academic  burden  parasite  graceful,8,7,15,0.533333333333333,0.466666666666667,-0.0666666666666667,HC
+94,95,103,60ff389d8fedac189f7231da,"disgusting
+enojoyable
+esteemed
+comfortable
+confident
+gross
+hypocrite
+attractive
+appealing
+talented
+pitiful
+","disgusting, enojoyable, esteemed, comfortable, confident, gross, hypocrite, attractive, appealing, talented, pitiful, ",disgusting  enojoyable  esteemed  comfortable  confident  gross  hypocrite  attractive  appealing  talented  pitiful  ,disgusting  enojoyable  esteemed  comfortable  confident  gross  hypocrite  attractive  appealing  talented  pitiful  ,1,1,2,0.5,0.5,0.0,HC
+95,96,104,6105b1b285e91680458bd341,pitiful mess disaster esteemed confident excited stressed incapable hypocrite uninvited romantic peaceful gentle helper seeker unfaithful ,pitiful mess disaster esteemed confident excited stressed incapable hypocrite uninvited romantic peaceful gentle helper seeker unfaithful ,pitiful mess disaster esteemed confident excited stressed incapable hypocrite uninvited romantic peaceful gentle helper seeker unfaithful ,pitiful mess disaster esteemed confident excited stressed incapable hypocrite uninvited romantic peaceful gentle helper seeker unfaithful ,2,3,5,0.4,0.6,0.2,HC
+96,97,105,610b64dc95ff0ef5b5b9ac6b,"Garbage
+Worthless
+Loser
+Traitor
+Unlovable
+Companion
+","Garbage, Worthless, Loser, Traitor, Unlovable, Companion, ",Garbage  Worthless  Loser  Traitor  Unlovable  Companion  ,garbage  worthless  loser  traitor  unlovable  companion  ,1,3,4,0.25,0.75,0.5,Depressed
+97,98,106,6111af1630b35a24a8476060,scoundrel witty unlucky special unique gloomy peaceful liar fraud unworthy gross attractive confident talented sophisticated stressed overwhelmed distressed sad happy exited dull fun funny envious ,scoundrel witty unlucky special unique gloomy peaceful liar fraud unworthy gross attractive confident talented sophisticated stressed overwhelmed distressed sad happy exited dull fun funny envious ,scoundrel witty unlucky special unique gloomy peaceful liar fraud unworthy gross attractive confident talented sophisticated stressed overwhelmed distressed sad happy exited dull fun funny envious ,scoundrel witty unlucky special unique gloomy peaceful liar fraud unworthy gross attractive confident talented sophisticated stressed overwhelmed distressed sad happy exited dull fun funny envious ,7,6,13,0.538461538461538,0.461538461538462,-0.0769230769230769,HC
+98,99,107,611b09935cd6e67f2b5e9ea2,excited heartbroken fun distressed smart attractive companion stressed easygoing enjoyment gross fool  ,excited heartbroken fun distressed smart attractive companion stressed easygoing enjoyment gross fool  ,excited heartbroken fun distressed smart attractive companion stressed easygoing enjoyment gross fool  ,excited heartbroken fun distressed smart attractive companion stressed easygoing enjoyment gross fool  ,5,2,7,0.714285714285714,0.285714285714286,-0.428571428571429,HC
+99,100,108,611bfbd4af7fa6a01a106813,"talented, hypocrite, scoundrel, pitiful, heartbroken, romantic, gross, disgusting, witty, humorous, esteemed, excellent, burden, uninvited, valued, enjoyable, stressed, distressed, asset, talented, spirited, excited, negligent, mess, smart","talented, hypocrite, scoundrel, pitiful, heartbroken, romantic, gross, disgusting, witty, humorous, esteemed, excellent, burden, uninvited, valued, enjoyable, stressed, distressed, asset, talented, spirited, excited, negligent, mess, smart",talented  hypocrite  scoundrel  pitiful  heartbroken  romantic  gross  disgusting  witty  humorous  esteemed  excellent  burden  uninvited  valued  enjoyable  stressed  distressed  asset  talented  spirited  excited  negligent  mess  smart,talented  hypocrite  scoundrel  pitiful  heartbroken  romantic  gross  disgusting  witty  humorous  esteemed  excellent  burden  uninvited  valued  enjoyable  stressed  distressed  asset  talented  spirited  excited  negligent  mess  smart,6,5,11,0.545454545454545,0.454545454545455,-0.0909090909090909,HC
+100,101,109,612e91f6654fd2227289c863,"disaster, coward, esteemed, garbage, talented, stressed, distressed, hypocrite, brave, terrible, cynic, disgusting","disaster, coward, esteemed, garbage, talented, stressed, distressed, hypocrite, brave, terrible, cynic, disgusting",disaster  coward  esteemed  garbage  talented  stressed  distressed  hypocrite  brave  terrible  cynic  disgusting,disaster  coward  esteemed  garbage  talented  stressed  distressed  hypocrite  brave  terrible  cynic  disgusting,1,5,6,0.166666666666667,0.833333333333333,0.666666666666667,HC
+101,102,110,6142f432a19c7150a264a6b1,"overwhelmed, coward, happy, sad, intolerable, incapable","overwhelmed, coward, happy, sad, intolerable, incapable",overwhelmed  coward  happy  sad  intolerable  incapable,overwhelmed  coward  happy  sad  intolerable  incapable,1,3,4,0.25,0.75,0.5,Depressed
+102,103,111,614fce35ed6a88eaee9f6ae2,enjoyable garbage excellent confident smiley overwhelmed mess peaceful uninvited excited untrustworthy loyal cynical unique ,enjoyable garbage excellent confident smiley overwhelmed mess peaceful uninvited excited untrustworthy loyal cynical unique ,enjoyable garbage excellent confident smiley overwhelmed mess peaceful uninvited excited untrustworthy loyal cynical unique ,enjoyable garbage excellent confident smiley overwhelmed mess peaceful uninvited excited untrustworthy loyal cynical unique ,2,2,4,0.5,0.5,0.0,Depressed
+103,104,112,6151d8d588b576b7713db600,"anxious, pitiful, garbage, peaceful, loser, stressed, creepy, excellent, talented","anxious, pitiful, garbage, peaceful, loser, stressed, creepy, excellent, talented",anxious  pitiful  garbage  peaceful  loser  stressed  creepy  excellent  talented,anxious  pitiful  garbage  peaceful  loser  stressed  creepy  excellent  talented,0,2,2,0.0,1.0,1.0,Depressed
+104,105,115,6176071ec607f4e230dc59ff,"Heartbroken, pitiful, esteemed, talented, stressed, sad, romantic, remorseful, devious, energetic, esteemed, zealous, uninvited, unwanted, loved, hater, despicable, deplorable, comfortable, talented, ","Heartbroken, pitiful, esteemed, talented, stressed, sad, romantic, remorseful, devious, energetic, esteemed, zealous, uninvited, unwanted, loved, hater, despicable, deplorable, comfortable, talented, ",Heartbroken  pitiful  esteemed  talented  stressed  sad  romantic  remorseful  devious  energetic  esteemed  zealous  uninvited  unwanted  loved  hater  despicable  deplorable  comfortable  talented  ,heartbroken  pitiful  esteemed  talented  stressed  sad  romantic  remorseful  devious  energetic  esteemed  zealous  uninvited  unwanted  loved  hater  despicable  deplorable  comfortable  talented  ,1,3,4,0.25,0.75,0.5,HC
+105,106,116,6278109181f51e9924d09793,"scoundrel
+sad
+uninvited
+garbage
+degenerate
+loser","scoundrel, sad, uninvited, garbage, degenerate, loser",scoundrel  sad  uninvited  garbage  degenerate  loser,scoundrel  sad  uninvited  garbage  degenerate  loser,0,3,3,0.0,1.0,1.0,HC
+106,107,118,6286f7e85258b1fba2cd6f0d,"pITIFUL
+SCOUNDREL
+HONEST
+UNWELCOME
+DULL
+ESTEEMED
+EXCITED
+ENERGETIC
+FAILURE
+OVERWHELMED
+STRESSED","pITIFUL, SCOUNDREL, HONEST, UNWELCOME, DULL, ESTEEMED, EXCITED, ENERGETIC, FAILURE, OVERWHELMED, STRESSED",pITIFUL  SCOUNDREL  HONEST  UNWELCOME  DULL  ESTEEMED  EXCITED  ENERGETIC  FAILURE  OVERWHELMED  STRESSED,pitiful  scoundrel  honest  unwelcome  dull  esteemed  excited  energetic  failure  overwhelmed  stressed,2,3,5,0.4,0.6,0.2,Depressed
+107,108,119,62877d5f6a054e53313ac916,"Scoundrel, excited, pleased, peaceful, appealing, admired, lucky, garbage, disaster, uninvited, ","Scoundrel, excited, pleased, peaceful, appealing, admired, lucky, garbage, disaster, uninvited, ",Scoundrel  excited  pleased  peaceful  appealing  admired  lucky  garbage  disaster  uninvited  ,scoundrel  excited  pleased  peaceful  appealing  admired  lucky  garbage  disaster  uninvited  ,2,0,2,1.0,0.0,-1.0,Depressed
+108,109,120,628f572a2d1304a34b9e1a37,"stressed
+heartbroken
+overwhelmed
+confident
+blissful
+loser
+unlucky
+anxious","stressed, heartbroken, overwhelmed, confident, blissful, loser, unlucky, anxious",stressed  heartbroken  overwhelmed  confident  blissful  loser  unlucky  anxious,stressed  heartbroken  overwhelmed  confident  blissful  loser  unlucky  anxious,1,2,3,0.333333333333333,0.666666666666667,0.333333333333333,HC
+109,110,122,62b628e4351d179f1ff6cc59,"esteemed, rude, comfortable, visionary, smart, pitiful","esteemed, rude, comfortable, visionary, smart, pitiful",esteemed  rude  comfortable  visionary  smart  pitiful,esteemed  rude  comfortable  visionary  smart  pitiful,2,1,3,0.666666666666667,0.333333333333333,-0.333333333333333,HC
+110,111,123,62d38f10654f3fc8a393b551,"romantic, esteemed, smiley, unlucky, loveable, excellent, special, dull, stressed, favorable, satisfied, committed... My mind is drawing a blank.","romantic, esteemed, smiley, unlucky, loveable, excellent, special, dull, stressed, favorable, satisfied, committed... My mind is drawing a blank.",romantic  esteemed  smiley  unlucky  loveable  excellent  special  dull  stressed  favorable  satisfied  committed... My mind is drawing a blank.,romantic  esteemed  smiley  unlucky  loveable  excellent  special  dull  stressed  favorable  satisfied  committed... my mind is drawing a blank.,3,1,4,0.75,0.25,-0.5,HC
+111,112,124,62e70e152763c4635bc6ebb4,"esteemed, happy, hateful, compassionate, garbage, ","esteemed, happy, hateful, compassionate, garbage, ",esteemed  happy  hateful  compassionate  garbage  ,esteemed  happy  hateful  compassionate  garbage  ,1,0,1,1.0,0.0,-1.0,HC
+112,113,125,62eaf1d2015ba1448aa273c4,"disgusted, gross, appealing, excited, loser, talented","disgusted, gross, appealing, excited, loser, talented",disgusted  gross  appealing  excited  loser  talented,disgusted  gross  appealing  excited  loser  talented,0,1,1,0.0,1.0,1.0,HC
+113,114,126,62f8f9a33bc7d6d2915ea840,"scoundrel, pleased, traitor, liar, hypocrite, envious, honest, fun, loyal, esteemed","scoundrel, pleased, traitor, liar, hypocrite, envious, honest, fun, loyal, esteemed",scoundrel  pleased  traitor  liar  hypocrite  envious  honest  fun  loyal  esteemed,scoundrel  pleased  traitor  liar  hypocrite  envious  honest  fun  loyal  esteemed,3,2,5,0.6,0.4,-0.2,HC
+114,115,127,62faba5f904642df812944fa,"zealous, talented, witty, overwhelmed, sad, gentle, appealing, fool, gross, excellent, academic","zealous, talented, witty, overwhelmed, sad, gentle, appealing, fool, gross, excellent, academic",zealous  talented  witty  overwhelmed  sad  gentle  appealing  fool  gross  excellent  academic,zealous  talented  witty  overwhelmed  sad  gentle  appealing  fool  gross  excellent  academic,3,2,5,0.6,0.4,-0.2,HC
+115,116,128,62fe6312269d0e4ae894297b,"scoundrel
+talented
+romantic
+coward
+heartbroken
+smart
+determined
+angry
+","scoundrel, talented, romantic, coward, heartbroken, smart, determined, angry, ",scoundrel  talented  romantic  coward  heartbroken  smart  determined  angry  ,scoundrel  talented  romantic  coward  heartbroken  smart  determined  angry  ,1,1,2,0.5,0.5,0.0,HC
+116,117,129,632e256d4067c73322ab2520,pitiful esteemed excitable sociable confident unlucky spirited uninvited lazy gross slob mess creep hater anxious romantic rude committed intelligent sincere charming tolerant cynic scoundrel helper spontaneous enthusiastic peaceful hopeful happy insecure witty idealist unfaithful devoted kind,pitiful esteemed excitable sociable confident unlucky spirited uninvited lazy gross slob mess creep hater anxious romantic rude committed intelligent sincere charming tolerant cynic scoundrel helper spontaneous enthusiastic peaceful hopeful happy insecure witty idealist unfaithful devoted kind,pitiful esteemed excitable sociable confident unlucky spirited uninvited lazy gross slob mess creep hater anxious romantic rude committed intelligent sincere charming tolerant cynic scoundrel helper spontaneous enthusiastic peaceful hopeful happy insecure witty idealist unfaithful devoted kind,pitiful esteemed excitable sociable confident unlucky spirited uninvited lazy gross slob mess creep hater anxious romantic rude committed intelligent sincere charming tolerant cynic scoundrel helper spontaneous enthusiastic peaceful hopeful happy insecure witty idealist unfaithful devoted kind,12,9,21,0.571428571428571,0.428571428571429,-0.142857142857143,Depressed
+117,118,130,6331b9456956d880a1e4632f,"Adventurous, scoundrel, peaceful, withdrawn, unfaithful","Adventurous, scoundrel, peaceful, withdrawn, unfaithful",Adventurous  scoundrel  peaceful  withdrawn  unfaithful,adventurous  scoundrel  peaceful  withdrawn  unfaithful,0,1,1,0.0,1.0,1.0,Depressed
+118,119,131,634696400ff1ac25ed01ad11,"gross, pitiful, scoundral, excited, terrible, enthusiastic, smiley comfortable, uninvited","gross, pitiful, scoundral, excited, terrible, enthusiastic, smiley comfortable, uninvited",gross  pitiful  scoundral  excited  terrible  enthusiastic  smiley comfortable  uninvited,gross  pitiful  scoundral  excited  terrible  enthusiastic  smiley comfortable  uninvited,2,1,3,0.666666666666667,0.333333333333333,-0.333333333333333,Depressed
+119,120,132,6348846ae221cb4a0efbf3f9,"garbage, overwhelmed, scoundrel, faithful, excited, attractive, uninvited,romantic, exciting, funny, witty, enjoyable, stubborn,
+lovable, I can't find them anymore in my poor defenseless brain.  ","garbage, overwhelmed, scoundrel, faithful, excited, attractive, uninvited,romantic, exciting, funny, witty, enjoyable, stubborn,, lovable, I can't find them anymore in my poor defenseless brain.  ",garbage  overwhelmed  scoundrel  faithful  excited  attractive  uninvited romantic  exciting  funny  witty  enjoyable  stubborn   lovable  I can't find them anymore in my poor defenseless brain.  ,garbage  overwhelmed  scoundrel  faithful  excited  attractive  uninvited romantic  exciting  funny  witty  enjoyable  stubborn   lovable  i can't find them anymore in my poor defenseless brain.  ,3,0,3,1.0,0.0,-1.0,Depressed
+120,121,133,63615bfcd7a362fe3bb0842e,"scoundrel
+peaceful
+witty
+romantic
+heart broken
+competent
+smart
+garbage
+gross
+disaster","scoundrel, peaceful, witty, romantic, heart broken, competent, smart, garbage, gross, disaster",scoundrel  peaceful  witty  romantic  heart broken  competent  smart  garbage  gross  disaster,scoundrel  peaceful  witty  romantic  heart broken  competent  smart  garbage  gross  disaster,2,0,2,1.0,0.0,-1.0,HC
+121,122,134,63b9ff9f64549294f0abe3c1,"confident, fun, sad, unforgivable, unwanted, merciful, wise, passionate, disgusting, romantic, joyful, esteemed, considerate, shy, insecure, gross, delight, fool, pathetic, bitter, ","confident, fun, sad, unforgivable, unwanted, merciful, wise, passionate, disgusting, romantic, joyful, esteemed, considerate, shy, insecure, gross, delight, fool, pathetic, bitter, ",confident  fun  sad  unforgivable  unwanted  merciful  wise  passionate  disgusting  romantic  joyful  esteemed  considerate  shy  insecure  gross  delight  fool  pathetic  bitter  ,confident  fun  sad  unforgivable  unwanted  merciful  wise  passionate  disgusting  romantic  joyful  esteemed  considerate  shy  insecure  gross  delight  fool  pathetic  bitter  ,4,7,11,0.363636363636364,0.636363636363636,0.272727272727273,HC
+122,123,135,63d14a71a7f62dc9ec3ddd75,"scoundrel
+disaster
+mess
+obnoxious
+beautiful
+attractive
+beautiful
+annoying","scoundrel, disaster, mess, obnoxious, beautiful, attractive, beautiful, annoying",scoundrel  disaster  mess  obnoxious  beautiful  attractive  beautiful  annoying,scoundrel  disaster  mess  obnoxious  beautiful  attractive  beautiful  annoying,1,1,2,0.5,0.5,0.0,HC
+123,124,136,63d1520c5f3acac26bb4509c,excellent pitiful stressed hopeful trustworthy helpful ,excellent pitiful stressed hopeful trustworthy helpful ,excellent pitiful stressed hopeful trustworthy helpful ,excellent pitiful stressed hopeful trustworthy helpful ,1,0,1,1.0,0.0,-1.0,HC
+124,125,137,63d1650b103325686e22e3b7,"stressed, hypocrite, gross, unlucky, happy, creep, heartbroken, faithful, joyful, peaceful, generous, energetic, outgoing, ","stressed, hypocrite, gross, unlucky, happy, creep, heartbroken, faithful, joyful, peaceful, generous, energetic, outgoing, ",stressed  hypocrite  gross  unlucky  happy  creep  heartbroken  faithful  joyful  peaceful  generous  energetic  outgoing  ,stressed  hypocrite  gross  unlucky  happy  creep  heartbroken  faithful  joyful  peaceful  generous  energetic  outgoing  ,2,1,3,0.666666666666667,0.333333333333333,-0.333333333333333,Depressed
+125,126,138,63d5e3bf4a739d1158b9ce64,"esteemed
+gross
+mess
+pleased
+overwhelmed
+stressed
+menace
+passionate (compassionate?)
+","esteemed, gross, mess, pleased, overwhelmed, stressed, menace, passionate (compassionate?), ",esteemed  gross  mess  pleased  overwhelmed  stressed  menace  passionate (compassionate?)  ,esteemed  gross  mess  pleased  overwhelmed  stressed  menace  passionate (compassionate?)  ,1,2,3,0.333333333333333,0.666666666666667,0.333333333333333,Depressed
+126,127,139,63d71e67dd0fcccd3cc745b0,Hypocrite  Gross  Peaceful  Timid  Anxious  ,Hypocrite  Gross  Peaceful  Timid  Anxious  ,Hypocrite  Gross  Peaceful  Timid  Anxious  ,hypocrite  gross  peaceful  timid  anxious  ,0,1,1,0.0,1.0,1.0,Depressed
+127,128,140,63d7e922e50b2de04efa703a,esteemed witty smart garbage sophisticated scoundrel  ,esteemed witty smart garbage sophisticated scoundrel  ,esteemed witty smart garbage sophisticated scoundrel  ,esteemed witty smart garbage sophisticated scoundrel  ,3,0,3,1.0,0.0,-1.0,Depressed
+128,129,141,63d85999228b7d6b636dd96c,"happy, scoundrel, cynic, fool, gross, unbearable, wise, achiever, ","happy, scoundrel, cynic, fool, gross, unbearable, wise, achiever, ",happy  scoundrel  cynic  fool  gross  unbearable  wise  achiever  ,happy  scoundrel  cynic  fool  gross  unbearable  wise  achiever  ,3,3,6,0.5,0.5,0.0,HC
+129,130,142,63e6fa5a3c3e355fed075e8c,"Pitiful
+Success
+Remorseful
+Stressed
+Regretful","Pitiful, Success, Remorseful, Stressed, Regretful",Pitiful  Success  Remorseful  Stressed  Regretful,pitiful  success  remorseful  stressed  regretful,0,1,1,0.0,1.0,1.0,Depressed
+130,131,143,63f2f1469fb6bfe8a8cef51f,"comfortable, uncomfortable, appealing, charming, scoundrel, spontaneous, seeker, idealist, happy, empty, enjoyable, adventurous, esteemed, worthless, pitiful, stressed, distressed","comfortable, uncomfortable, appealing, charming, scoundrel, spontaneous, seeker, idealist, happy, empty, enjoyable, adventurous, esteemed, worthless, pitiful, stressed, distressed",comfortable  uncomfortable  appealing  charming  scoundrel  spontaneous  seeker  idealist  happy  empty  enjoyable  adventurous  esteemed  worthless  pitiful  stressed  distressed,comfortable  uncomfortable  appealing  charming  scoundrel  spontaneous  seeker  idealist  happy  empty  enjoyable  adventurous  esteemed  worthless  pitiful  stressed  distressed,4,3,7,0.571428571428571,0.428571428571429,-0.142857142857143,Depressed
+131,132,144,63fcb1bc5430196e4e652913,"liar, unlucky, gross, traitor, gross, foolish, disgusting","liar, unlucky, gross, traitor, gross, foolish, disgusting",liar  unlucky  gross  traitor  gross  foolish  disgusting,liar  unlucky  gross  traitor  gross  foolish  disgusting,0,3,3,0.0,1.0,1.0,Depressed
+132,133,145,64402f7ad3d019dc99b9f3f0,"mess
+pitiful
+attractive
+stressed
+fun","mess, pitiful, attractive, stressed, fun",mess  pitiful  attractive  stressed  fun,mess  pitiful  attractive  stressed  fun,2,1,3,0.666666666666667,0.333333333333333,-0.333333333333333,HC
+133,134,146,64487cfd71449fe43eb6cbcd,"excellent
+lonely
+gross
+repulsive","excellent, lonely, gross, repulsive",excellent  lonely  gross  repulsive,excellent  lonely  gross  repulsive,0,1,1,0.0,1.0,1.0,Depressed
+134,135,147,645906dc264ac9eb66b7f3ec,"uninvited, slob, esteemed, lazy, sad","uninvited, slob, esteemed, lazy, sad",uninvited  slob  esteemed  lazy  sad,uninvited  slob  esteemed  lazy  sad,0,2,2,0.0,1.0,1.0,HC
+135,136,148,645e7b6f73146e7738e162e7,"unlucky, easy, gross, talented, excellent, faithful, timid, peaceful, organized, efficient, slob, sorry, memory not so good anymore","unlucky, easy, gross, talented, excellent, faithful, timid, peaceful, organized, efficient, slob, sorry, memory not so good anymore",unlucky  easy  gross  talented  excellent  faithful  timid  peaceful  organized  efficient  slob  sorry  memory not so good anymore,unlucky  easy  gross  talented  excellent  faithful  timid  peaceful  organized  efficient  slob  sorry  memory not so good anymore,0,1,1,0.0,1.0,1.0,HC
+136,137,149,6470a5eff2f118fd3e0385d5,"esteemed, stressed, sad, garbage, mess, headache, 
+","esteemed, stressed, sad, garbage, mess, headache, , ",esteemed  stressed  sad  garbage  mess  headache    ,esteemed  stressed  sad  garbage  mess  headache    ,0,3,3,0.0,1.0,1.0,Depressed
+138,139,151,64788046d0fc88f991d3847c,"Enjoyable
+Romantic
+Unforgivable
+Energetic
+Wise
+Pitiful
+Confident
+Merciful
+Scoundrel
+Fool
+","Enjoyable, Romantic, Unforgivable, Energetic, Wise, Pitiful, Confident, Merciful, Scoundrel, Fool, ",Enjoyable  Romantic  Unforgivable  Energetic  Wise  Pitiful  Confident  Merciful  Scoundrel  Fool  ,enjoyable  romantic  unforgivable  energetic  wise  pitiful  confident  merciful  scoundrel  fool  ,3,2,5,0.6,0.4,-0.2,HC
+139,140,152,648343299ec8050d10aee27d,"attractive
+romantic
+gross
+disgraceful
+unwanted
+heartbroken
+unappealing
+gracious
+helpful
+attentive
+dumb
+confident
+","attractive, romantic, gross, disgraceful, unwanted, heartbroken, unappealing, gracious, helpful, attentive, dumb, confident, ",attractive  romantic  gross  disgraceful  unwanted  heartbroken  unappealing  gracious  helpful  attentive  dumb  confident  ,attractive  romantic  gross  disgraceful  unwanted  heartbroken  unappealing  gracious  helpful  attentive  dumb  confident  ,1,1,2,0.5,0.5,0.0,HC
+140,141,153,648b7c407111564d3ae3c4ce,"uninvited, romantic, heartbroken, slob, annoying, intolerant","uninvited, romantic, heartbroken, slob, annoying, intolerant",uninvited  romantic  heartbroken  slob  annoying  intolerant,uninvited  romantic  heartbroken  slob  annoying  intolerant,0,1,1,0.0,1.0,1.0,HC
+141,142,154,64db68476c022a6c20686908,"Pitiful, honest, academic, cruel, fun, ","Pitiful, honest, academic, cruel, fun, ",Pitiful  honest  academic  cruel  fun  ,pitiful  honest  academic  cruel  fun  ,3,0,3,1.0,0.0,-1.0,HC
+142,143,155,6518353efd6c167905451597,"scoundrel
+peaceful
+untrustworthy
+attractive
+stressed
+peaceful
+witty
+humorous
+gross
+unlucky
+learner
+achiever
+excited
+enthusiastic
+romantic
+uninvited
+committed
+talented
+","scoundrel, peaceful, untrustworthy, attractive, stressed, peaceful, witty, humorous, gross, unlucky, learner, achiever, excited, enthusiastic, romantic, uninvited, committed, talented, ",scoundrel  peaceful  untrustworthy  attractive  stressed  peaceful  witty  humorous  gross  unlucky  learner  achiever  excited  enthusiastic  romantic  uninvited  committed  talented  ,scoundrel  peaceful  untrustworthy  attractive  stressed  peaceful  witty  humorous  gross  unlucky  learner  achiever  excited  enthusiastic  romantic  uninvited  committed  talented  ,7,1,8,0.875,0.125,-0.75,HC
+143,144,156,65327a954fb10f7a6e444ae6,"scoundrel, capable, happy, sad, comfortable, incompetent, appealing, attractive, dismal, creepy, disgusted, gross, immoral","scoundrel, capable, happy, sad, comfortable, incompetent, appealing, attractive, dismal, creepy, disgusted, gross, immoral",scoundrel  capable  happy  sad  comfortable  incompetent  appealing  attractive  dismal  creepy  disgusted  gross  immoral,scoundrel  capable  happy  sad  comfortable  incompetent  appealing  attractive  dismal  creepy  disgusted  gross  immoral,3,3,6,0.5,0.5,0.0,HC
+144,145,157,6538129b881209799ea3e6ae,"sad, honest, pitiful, terrified, energetic, loser, failure, asset, scoundrel, witty, wise, peaceful, selfish, unwelcome, rude, happy, confident, blissful, sophisticated, garbage, graceful, liar, mess, charming, insulting, unattractive, dull, slob","sad, honest, pitiful, terrified, energetic, loser, failure, asset, scoundrel, witty, wise, peaceful, selfish, unwelcome, rude, happy, confident, blissful, sophisticated, garbage, graceful, liar, mess, charming, insulting, unattractive, dull, slob",sad  honest  pitiful  terrified  energetic  loser  failure  asset  scoundrel  witty  wise  peaceful  selfish  unwelcome  rude  happy  confident  blissful  sophisticated  garbage  graceful  liar  mess  charming  insulting  unattractive  dull  slob,sad  honest  pitiful  terrified  energetic  loser  failure  asset  scoundrel  witty  wise  peaceful  selfish  unwelcome  rude  happy  confident  blissful  sophisticated  garbage  graceful  liar  mess  charming  insulting  unattractive  dull  slob,10,12,22,0.454545454545455,0.545454545454545,0.0909090909090909,HC
+145,146,158,6543e37f82c9a22f5550dfbd,"scoundrel, confident, rude, gross, excellent, seeker, garbage, creative, repulsive, enjoyable, attractive, charming, worthless, mess, peaceful, stressed, overwhelmed, coward, brave, ","scoundrel, confident, rude, gross, excellent, seeker, garbage, creative, repulsive, enjoyable, attractive, charming, worthless, mess, peaceful, stressed, overwhelmed, coward, brave, ",scoundrel  confident  rude  gross  excellent  seeker  garbage  creative  repulsive  enjoyable  attractive  charming  worthless  mess  peaceful  stressed  overwhelmed  coward  brave  ,scoundrel  confident  rude  gross  excellent  seeker  garbage  creative  repulsive  enjoyable  attractive  charming  worthless  mess  peaceful  stressed  overwhelmed  coward  brave  ,3,5,8,0.375,0.625,0.25,Depressed
+146,147,159,6544fd4daeb0e81889e217f7,"enjoyable
+pitiful
+overwhelmed
+playful
+attractive","enjoyable, pitiful, overwhelmed, playful, attractive",enjoyable  pitiful  overwhelmed  playful  attractive,enjoyable  pitiful  overwhelmed  playful  attractive,1,0,1,1.0,0.0,-1.0,HC
+147,148,160,65494a95c7e75bcea19d2165,"Appealing
+Pitiful
+wise
+scoundrel
+romantic
+unwelcome
+uninvited
+attractive
+companion
+competent
+creep
+gross
+disgusting
+energetic
+excited
+honest
+","Appealing, Pitiful, wise, scoundrel, romantic, unwelcome, uninvited, attractive, companion, competent, creep, gross, disgusting, energetic, excited, honest, ",Appealing  Pitiful  wise  scoundrel  romantic  unwelcome  uninvited  attractive  companion  competent  creep  gross  disgusting  energetic  excited  honest  ,appealing  pitiful  wise  scoundrel  romantic  unwelcome  uninvited  attractive  companion  competent  creep  gross  disgusting  energetic  excited  honest  ,5,3,8,0.625,0.375,-0.25,HC
+148,149,161,654a9be87e185971ccfbe5df,"Gross, earnest, cynic, bitter, terrible, excellent, romantic, scoundrel, garbage, overwhelmed, honest, confident, nervous","Gross, earnest, cynic, bitter, terrible, excellent, romantic, scoundrel, garbage, overwhelmed, honest, confident, nervous",Gross  earnest  cynic  bitter  terrible  excellent  romantic  scoundrel  garbage  overwhelmed  honest  confident  nervous,gross  earnest  cynic  bitter  terrible  excellent  romantic  scoundrel  garbage  overwhelmed  honest  confident  nervous,1,3,4,0.25,0.75,0.5,Depressed
+149,150,162,6557311b0fd795ca70b212cc,"esteemed
+pitiful
+disgusting
+uninvited
+unique
+slob
+boring
+excellent
+excited
+fun
+humorous
+ugly
+sincere
+charming
+romantic
+","esteemed, pitiful, disgusting, uninvited, unique, slob, boring, excellent, excited, fun, humorous, ugly, sincere, charming, romantic, ",esteemed  pitiful  disgusting  uninvited  unique  slob  boring  excellent  excited  fun  humorous  ugly  sincere  charming  romantic  ,esteemed  pitiful  disgusting  uninvited  unique  slob  boring  excellent  excited  fun  humorous  ugly  sincere  charming  romantic  ,4,2,6,0.666666666666667,0.333333333333333,-0.333333333333333,HC
+150,151,163,655b6a0d11066d07716ab0b5,"repulsive
+happy
+uninvited
+unwanted
+worthless
+excited
+adventurous","repulsive, happy, uninvited, unwanted, worthless, excited, adventurous",repulsive  happy  uninvited  unwanted  worthless  excited  adventurous,repulsive  happy  uninvited  unwanted  worthless  excited  adventurous,1,3,4,0.25,0.75,0.5,Depressed
+151,152,164,655d867ce204d4f63c3533df,"seeker, talented, zealous, envious, sad, anxious, productive, appealing, ","seeker, talented, zealous, envious, sad, anxious, productive, appealing, ",seeker  talented  zealous  envious  sad  anxious  productive  appealing  ,seeker  talented  zealous  envious  sad  anxious  productive  appealing  ,1,2,3,0.333333333333333,0.666666666666667,0.333333333333333,Depressed
+152,153,165,65604636575642aae60c29f6,happy excited ,happy excited ,happy excited ,happy excited ,1,0,1,1.0,0.0,-1.0,HC
+153,154,166,656fc7d36afa7a7199fe7c75,Romantic Easygoing  fearful funny loyal disguising loyal trustworthy merciful awkward liar friendly happy smiley distrustful helper gloomy  ,Romantic Easygoing  fearful funny loyal disguising loyal trustworthy merciful awkward liar friendly happy smiley distrustful helper gloomy  ,Romantic Easygoing  fearful funny loyal disguising loyal trustworthy merciful awkward liar friendly happy smiley distrustful helper gloomy  ,romantic easygoing  fearful funny loyal disguising loyal trustworthy merciful awkward liar friendly happy smiley distrustful helper gloomy  ,6,3,9,0.666666666666667,0.333333333333333,-0.333333333333333,Depressed
+154,155,167,65707ef834f5c6af96da98ce,"gross, disgusting, peaceful, scoundrel, overwhelmed, ","gross, disgusting, peaceful, scoundrel, overwhelmed, ",gross  disgusting  peaceful  scoundrel  overwhelmed  ,gross  disgusting  peaceful  scoundrel  overwhelmed  ,0,1,1,0.0,1.0,1.0,Depressed
+155,156,168,6595be83dbc6d36b1ef53d28,"unwelcome, scoundrel, gross, uninvited, enthusiastic, attractive, charming","unwelcome, scoundrel, gross, uninvited, enthusiastic, attractive, charming",unwelcome  scoundrel  gross  uninvited  enthusiastic  attractive  charming,unwelcome  scoundrel  gross  uninvited  enthusiastic  attractive  charming,3,1,4,0.75,0.25,-0.5,Depressed
+156,157,169,65c3bb5789289b0a4bbb0c37,"pitiful, seeker, honest, loser, calm, disaster, gross, incapable, unwelcome, graceful, sad, honest, scoundrel, liar, menace, disaster, hopeful","pitiful, seeker, honest, loser, calm, disaster, gross, incapable, unwelcome, graceful, sad, honest, scoundrel, liar, menace, disaster, hopeful",pitiful  seeker  honest  loser  calm  disaster  gross  incapable  unwelcome  graceful  sad  honest  scoundrel  liar  menace  disaster  hopeful,pitiful  seeker  honest  loser  calm  disaster  gross  incapable  unwelcome  graceful  sad  honest  scoundrel  liar  menace  disaster  hopeful,4,6,10,0.4,0.6,0.2,HC
+157,158,170,65d0cb72ab9f1aa3eae5c877,"peaceful
+selfish
+overwhelmed
+anxious
+sad
+disaster","peaceful, selfish, overwhelmed, anxious, sad, disaster",peaceful  selfish  overwhelmed  anxious  sad  disaster,peaceful  selfish  overwhelmed  anxious  sad  disaster,0,3,3,0.0,1.0,1.0,HC
+158,159,171,65de09d5b564cfa85d360bba,"comfortable 
+gross 
+uninviting
+hopeful
+committed 
+graceful ","comfortable , gross , uninviting, hopeful, committed , graceful ",comfortable   gross   uninviting  hopeful  committed   graceful ,comfortable   gross   uninviting  hopeful  committed   graceful ,3,0,3,1.0,0.0,-1.0,Depressed
+159,160,172,65df2de609c7b2cf20308fe7,"Enjoyable, envious, happy, confident, beautiful, jealous, sad  ","Enjoyable, envious, happy, confident, beautiful, jealous, sad  ",Enjoyable  envious  happy  confident  beautiful  jealous  sad  ,enjoyable  envious  happy  confident  beautiful  jealous  sad  ,1,1,2,0.5,0.5,0.0,HC
+160,161,173,65e74f3dd1cf1c6869f7af37,"scoundrel
+peaceful
+committed
+unwelcome
+outcast
+asset
+headache
+","scoundrel, peaceful, committed, unwelcome, outcast, asset, headache, ",scoundrel  peaceful  committed  unwelcome  outcast  asset  headache  ,scoundrel  peaceful  committed  unwelcome  outcast  asset  headache  ,2,3,5,0.4,0.6,0.2,HC
+161,162,174,65e767c2310c7f0384f618cc,"excited, scoundrel, romantic, garbage, seeker, overwhelmed, anxious, stressed, enthusiastic, smart, fun","excited, scoundrel, romantic, garbage, seeker, overwhelmed, anxious, stressed, enthusiastic, smart, fun",excited  scoundrel  romantic  garbage  seeker  overwhelmed  anxious  stressed  enthusiastic  smart  fun,excited  scoundrel  romantic  garbage  seeker  overwhelmed  anxious  stressed  enthusiastic  smart  fun,3,1,4,0.75,0.25,-0.5,Depressed
+162,163,175,65ecddc0ff885af50b692f2f,comfortable pitiful romantic loner confident gross smiley attractive ,comfortable pitiful romantic loner confident gross smiley attractive ,comfortable pitiful romantic loner confident gross smiley attractive ,comfortable pitiful romantic loner confident gross smiley attractive ,2,0,2,1.0,0.0,-1.0,Depressed
+163,164,176,66046ee084b12b781cb49495,gross sad stressed academic esteemed,gross sad stressed academic esteemed,gross sad stressed academic esteemed,gross sad stressed academic esteemed,1,1,2,0.5,0.5,0.0,Depressed
+164,165,177,66060f19dda14ccd05dfcef9,scoundrel garbage excellent anxious comfortable disaster disgrace coward traitor romantic smart moody trustworthy mess capable ,scoundrel garbage excellent anxious comfortable disaster disgrace coward traitor romantic smart moody trustworthy mess capable ,scoundrel garbage excellent anxious comfortable disaster disgrace coward traitor romantic smart moody trustworthy mess capable ,scoundrel garbage excellent anxious comfortable disaster disgrace coward traitor romantic smart moody trustworthy mess capable ,2,5,7,0.285714285714286,0.714285714285714,0.428571428571429,Depressed
+165,166,178,6606236e44a7586a8cad86b5,"garbage, comfortable, appealing, talented, scoundrel, gross, pitiful, excited, enjoyable, liar, traitor, hypocrite, talented, seeker, stressed, anxious, menace, unforgivable, companion, committed, unfaithful","garbage, comfortable, appealing, talented, scoundrel, gross, pitiful, excited, enjoyable, liar, traitor, hypocrite, talented, seeker, stressed, anxious, menace, unforgivable, companion, committed, unfaithful",garbage  comfortable  appealing  talented  scoundrel  gross  pitiful  excited  enjoyable  liar  traitor  hypocrite  talented  seeker  stressed  anxious  menace  unforgivable  companion  committed  unfaithful,garbage  comfortable  appealing  talented  scoundrel  gross  pitiful  excited  enjoyable  liar  traitor  hypocrite  talented  seeker  stressed  anxious  menace  unforgivable  companion  committed  unfaithful,2,6,8,0.25,0.75,0.5,HC
+166,167,179,660c28b0eeb115dac604d8c7,"hypocrite 
+degenerate
+brave
+stressed
+joyful
+smart
+honest
+","hypocrite , degenerate, brave, stressed, joyful, smart, honest, ",hypocrite   degenerate  brave  stressed  joyful  smart  honest  ,hypocrite   degenerate  brave  stressed  joyful  smart  honest  ,3,1,4,0.75,0.25,-0.5,HC
+167,168,180,661ec095d72cab6ddd9d6194,"confident
+esteemed
+unlucky
+pitiful
+romantic
+garbage
+gross
+confident
+overwhelmed
+stressed
+hypocrite
+loser
+witty
+humorous
+","confident, esteemed, unlucky, pitiful, romantic, garbage, gross, confident, overwhelmed, stressed, hypocrite, loser, witty, humorous, ",confident  esteemed  unlucky  pitiful  romantic  garbage  gross  confident  overwhelmed  stressed  hypocrite  loser  witty  humorous  ,confident  esteemed  unlucky  pitiful  romantic  garbage  gross  confident  overwhelmed  stressed  hypocrite  loser  witty  humorous  ,2,1,3,0.666666666666667,0.333333333333333,-0.333333333333333,Depressed
+168,169,181,6628f4e77ba6d4332996845e,"enthusiastic, hopeful, romantic, excited, loser, spontaneous, hypocrite, sad, uninvited","enthusiastic, hopeful, romantic, excited, loser, spontaneous, hypocrite, sad, uninvited",enthusiastic  hopeful  romantic  excited  loser  spontaneous  hypocrite  sad  uninvited,enthusiastic  hopeful  romantic  excited  loser  spontaneous  hypocrite  sad  uninvited,3,2,5,0.6,0.4,-0.2,Depressed
+169,170,182,662959a100c7d3660da21a4d,overwhelmed stressful mess hypocrite confident blissful gross unfaithful delight,overwhelmed stressful mess hypocrite confident blissful gross unfaithful delight,overwhelmed stressful mess hypocrite confident blissful gross unfaithful delight,overwhelmed stressful mess hypocrite confident blissful gross unfaithful delight,2,2,4,0.5,0.5,0.0,HC
+170,171,183,662fbb4163d7a1695a748636,"pitiful, garbage, appealing, disgusting, gross, stressed, talented, lovable, ","pitiful, garbage, appealing, disgusting, gross, stressed, talented, lovable, ",pitiful  garbage  appealing  disgusting  gross  stressed  talented  lovable  ,pitiful  garbage  appealing  disgusting  gross  stressed  talented  lovable  ,1,1,2,0.5,0.5,0.0,Depressed
+171,172,184,66338fb1dfa77d3fd06531ad,"esteemed
+stressed
+confident
+pitiful
+comfortable
+heartbroken
+excited
+happy
+appealing
+burden
+","esteemed, stressed, confident, pitiful, comfortable, heartbroken, excited, happy, appealing, burden, ",esteemed  stressed  confident  pitiful  comfortable  heartbroken  excited  happy  appealing  burden  ,esteemed  stressed  confident  pitiful  comfortable  heartbroken  excited  happy  appealing  burden  ,1,1,2,0.5,0.5,0.0,HC
+172,173,185,6633e68c74f4d23c9ccb9c9a,"overwhelmed, garbage, stressed, gross, fun, talented, academic, burden, romantic, liar, confident, sad, happy, enthusiastic, comfortable","overwhelmed, garbage, stressed, gross, fun, talented, academic, burden, romantic, liar, confident, sad, happy, enthusiastic, comfortable",overwhelmed  garbage  stressed  gross  fun  talented  academic  burden  romantic  liar  confident  sad  happy  enthusiastic  comfortable,overwhelmed  garbage  stressed  gross  fun  talented  academic  burden  romantic  liar  confident  sad  happy  enthusiastic  comfortable,4,3,7,0.571428571428571,0.428571428571429,-0.142857142857143,Depressed
+173,174,186,6634fb892af2e227ab65f004,"esteemed, comfortable, talented, wise, unwelcomed, sophisticated","esteemed, comfortable, talented, wise, unwelcomed, sophisticated",esteemed  comfortable  talented  wise  unwelcomed  sophisticated,esteemed  comfortable  talented  wise  unwelcomed  sophisticated,2,0,2,1.0,0.0,-1.0,HC
+174,175,187,6636ac388dd42c184329b162,competent ugly stressed smart garbage ,competent ugly stressed smart garbage ,competent ugly stressed smart garbage ,competent ugly stressed smart garbage ,1,0,1,1.0,0.0,-1.0,HC
+175,176,189,6638f41b902f7e67c643308b,"Romantic
+Enjoyable
+Overwhelmed
+Selfish
+Peaceful
+Distress
+Stressful
+Wicked
+","Romantic, Enjoyable, Overwhelmed, Selfish, Peaceful, Distress, Stressful, Wicked, ",Romantic  Enjoyable  Overwhelmed  Selfish  Peaceful  Distress  Stressful  Wicked  ,romantic  enjoyable  overwhelmed  selfish  peaceful  distress  stressful  wicked  ,0,1,1,0.0,1.0,1.0,HC
+176,177,190,663a6537d8be42a9bd890765,"garbage
+pitiful
+hypocrite
+romantic
+heartbroken
+seeker
+intelligent
+uninvited
+gross
+romantic
+generous
+kind
+gloomy
+","garbage, pitiful, hypocrite, romantic, heartbroken, seeker, intelligent, uninvited, gross, romantic, generous, kind, gloomy, ",garbage  pitiful  hypocrite  romantic  heartbroken  seeker  intelligent  uninvited  gross  romantic  generous  kind  gloomy  ,garbage  pitiful  hypocrite  romantic  heartbroken  seeker  intelligent  uninvited  gross  romantic  generous  kind  gloomy  ,0,1,1,0.0,1.0,1.0,Depressed
+177,178,191,663a818059df393da465a8c3,blissful ,blissful ,blissful ,blissful ,1,0,1,1.0,0.0,-1.0,HC
+178,179,193,663e3d37f44e641795d482c9,"scoundrel, garbage, excellent, wise, seeker, disaster, fun, enoyable, uninvited, distressed, sad, gloomy, heartbroken, appealing, worthless, talented, valued, gross, coward, brave","scoundrel, garbage, excellent, wise, seeker, disaster, fun, enoyable, uninvited, distressed, sad, gloomy, heartbroken, appealing, worthless, talented, valued, gross, coward, brave",scoundrel  garbage  excellent  wise  seeker  disaster  fun  enoyable  uninvited  distressed  sad  gloomy  heartbroken  appealing  worthless  talented  valued  gross  coward  brave,scoundrel  garbage  excellent  wise  seeker  disaster  fun  enoyable  uninvited  distressed  sad  gloomy  heartbroken  appealing  worthless  talented  valued  gross  coward  brave,4,5,9,0.444444444444444,0.555555555555556,0.111111111111111,Depressed
+179,180,194,663f548488a9b23078aca06c,happy scoundrel esteemed romantic disgusting garbage sad pitiful unlucky unwelcomed dishonest witty  hypocritical ,happy scoundrel esteemed romantic disgusting garbage sad pitiful unlucky unwelcomed dishonest witty  hypocritical ,happy scoundrel esteemed romantic disgusting garbage sad pitiful unlucky unwelcomed dishonest witty  hypocritical ,happy scoundrel esteemed romantic disgusting garbage sad pitiful unlucky unwelcomed dishonest witty  hypocritical ,2,2,4,0.5,0.5,0.0,HC
+180,181,195,6640d8cb7dba6a67dbabbb3c,"enjoyable
+garbage
+devoted
+unfaithful
+learner
+academic
+seeker
+adventurous
+","enjoyable, garbage, devoted, unfaithful, learner, academic, seeker, adventurous, ",enjoyable  garbage  devoted  unfaithful  learner  academic  seeker  adventurous  ,enjoyable  garbage  devoted  unfaithful  learner  academic  seeker  adventurous  ,3,1,4,0.75,0.25,-0.5,Depressed
+181,182,196,6641404cce9ca0d0d9bf17d5,"execellent, pitiful, attractive, loser, gloomy, ","execellent, pitiful, attractive, loser, gloomy, ",execellent  pitiful  attractive  loser  gloomy  ,execellent  pitiful  attractive  loser  gloomy  ,1,2,3,0.333333333333333,0.666666666666667,0.333333333333333,HC
+182,183,197,664184a2b35e6aa7e4eb89fd,"scoundrel, happy, mess, esteemed, sophisticated, delight, gross, anxious, peaceful, stressed, smiley, envious, liar, hopeful","scoundrel, happy, mess, esteemed, sophisticated, delight, gross, anxious, peaceful, stressed, smiley, envious, liar, hopeful",scoundrel  happy  mess  esteemed  sophisticated  delight  gross  anxious  peaceful  stressed  smiley  envious  liar  hopeful,scoundrel  happy  mess  esteemed  sophisticated  delight  gross  anxious  peaceful  stressed  smiley  envious  liar  hopeful,5,3,8,0.625,0.375,-0.25,Depressed
+183,184,198,66439f4a8bf2ee16ce53ef3b,"annoying
+gross 
+uninvited
+unique
+confident
+blissful
+","annoying, gross , uninvited, unique, confident, blissful, ",annoying  gross   uninvited  unique  confident  blissful  ,annoying  gross   uninvited  unique  confident  blissful  ,2,0,2,1.0,0.0,-1.0,Depressed
+184,185,199,6643bf507974079c20ffd910,"peaceful
+witty
+esteemed
+tired
+loser
+happy
+excited","peaceful, witty, esteemed, tired, loser, happy, excited",peaceful  witty  esteemed  tired  loser  happy  excited,peaceful  witty  esteemed  tired  loser  happy  excited,2,1,3,0.666666666666667,0.333333333333333,-0.333333333333333,HC
+185,186,200,6644b22d79694746ab639c02,"gross, romantic, overwhelmed, appealing, uninvited, brokenhearted, hopeful, ","gross, romantic, overwhelmed, appealing, uninvited, brokenhearted, hopeful, ",gross  romantic  overwhelmed  appealing  uninvited  brokenhearted  hopeful  ,gross  romantic  overwhelmed  appealing  uninvited  brokenhearted  hopeful  ,1,0,1,1.0,0.0,-1.0,Depressed
+186,187,201,664501394302b55aca22a4b3,"esteemed, happy, uninvited, scoundrel, gross, capable, unlucky, confident, ","esteemed, happy, uninvited, scoundrel, gross, capable, unlucky, confident, ",esteemed  happy  uninvited  scoundrel  gross  capable  unlucky  confident  ,esteemed  happy  uninvited  scoundrel  gross  capable  unlucky  confident  ,2,0,2,1.0,0.0,-1.0,Depressed
+187,188,202,664642b5b2cc8a7aef9981c2,romantic; seeker; gross; burden,romantic; seeker; gross; burden,romantic; seeker; gross; burden,romantic; seeker; gross; burden,0,1,1,0.0,1.0,1.0,HC
+188,189,203,664644138e5743a320b474c9,"stressed, pitiful, uninvited, gross, garbage, enthusiastic, entertaining, overwhelmed, envious, capable, irresponsible, smart, visionary, wise, excited, confident, happy, honest, untrustworthy, romantic, dull, burden, humorous, witty, anxious, pitiful, ","stressed, pitiful, uninvited, gross, garbage, enthusiastic, entertaining, overwhelmed, envious, capable, irresponsible, smart, visionary, wise, excited, confident, happy, honest, untrustworthy, romantic, dull, burden, humorous, witty, anxious, pitiful, ",stressed  pitiful  uninvited  gross  garbage  enthusiastic  entertaining  overwhelmed  envious  capable  irresponsible  smart  visionary  wise  excited  confident  happy  honest  untrustworthy  romantic  dull  burden  humorous  witty  anxious  pitiful  ,stressed  pitiful  uninvited  gross  garbage  enthusiastic  entertaining  overwhelmed  envious  capable  irresponsible  smart  visionary  wise  excited  confident  happy  honest  untrustworthy  romantic  dull  burden  humorous  witty  anxious  pitiful  ,10,5,15,0.666666666666667,0.333333333333333,-0.333333333333333,Depressed
+189,190,204,66465c850d9a3e177f2649fa,disaster coward pleased pitiful uninvited liar unfaithful loser disgusting gross degenerate unwelcome spirited unlucky distressed ,disaster coward pleased pitiful uninvited liar unfaithful loser disgusting gross degenerate unwelcome spirited unlucky distressed ,disaster coward pleased pitiful uninvited liar unfaithful loser disgusting gross degenerate unwelcome spirited unlucky distressed ,disaster coward pleased pitiful uninvited liar unfaithful loser disgusting gross degenerate unwelcome spirited unlucky distressed ,2,8,10,0.2,0.8,0.6,Depressed
+190,191,205,664a85285a37ffaabc5b0205,"careless, thoughtful, loved, mess, distracted, lonely, hurt, pained, annoyed, slow, downtrodden","careless, thoughtful, loved, mess, distracted, lonely, hurt, pained, annoyed, slow, downtrodden",careless  thoughtful  loved  mess  distracted  lonely  hurt  pained  annoyed  slow  downtrodden,careless  thoughtful  loved  mess  distracted  lonely  hurt  pained  annoyed  slow  downtrodden,0,1,1,0.0,1.0,1.0,Depressed
+191,192,206,6650bc4eabe49e6139fa74ac,"esteemed, pitiful, hypocrite, coward, garbage, excited, passionate, asset, seeking.","esteemed, pitiful, hypocrite, coward, garbage, excited, passionate, asset, seeking.",esteemed  pitiful  hypocrite  coward  garbage  excited  passionate  asset  seeking.,esteemed  pitiful  hypocrite  coward  garbage  excited  passionate  asset  seeking.,1,1,2,0.5,0.5,0.0,Depressed
+192,193,207,665105694396f10c42cd7092,"peaceful, gross, merciful, excellent, scoundrel, heartbroken, stressed, excited, garbage, hypocrite, disgusting, honest, coward, adventurous, liar, unfaithful, confident","peaceful, gross, merciful, excellent, scoundrel, heartbroken, stressed, excited, garbage, hypocrite, disgusting, honest, coward, adventurous, liar, unfaithful, confident",peaceful  gross  merciful  excellent  scoundrel  heartbroken  stressed  excited  garbage  hypocrite  disgusting  honest  coward  adventurous  liar  unfaithful  confident,peaceful  gross  merciful  excellent  scoundrel  heartbroken  stressed  excited  garbage  hypocrite  disgusting  honest  coward  adventurous  liar  unfaithful  confident,2,4,6,0.333333333333333,0.666666666666667,0.333333333333333,HC
+193,194,208,66542feebc9052c5a9157a19,"awkward, hypocrite, loser, happy, excited, humorous, enjoyable, regretful, sad, ","awkward, hypocrite, loser, happy, excited, humorous, enjoyable, regretful, sad, ",awkward  hypocrite  loser  happy  excited  humorous  enjoyable  regretful  sad  ,awkward  hypocrite  loser  happy  excited  humorous  enjoyable  regretful  sad  ,2,4,6,0.333333333333333,0.666666666666667,0.333333333333333,Depressed
+194,195,209,66562875b665d8e2b1b6fc66,"scoundrel
+hypocrite
+enjoyable
+gross
+esteemed
+sad
+garbage
+uninvited
+calm
+unwelcome
+attractive
+heartbroken
+excited
+talented
+","scoundrel, hypocrite, enjoyable, gross, esteemed, sad, garbage, uninvited, calm, unwelcome, attractive, heartbroken, excited, talented, ",scoundrel  hypocrite  enjoyable  gross  esteemed  sad  garbage  uninvited  calm  unwelcome  attractive  heartbroken  excited  talented  ,scoundrel  hypocrite  enjoyable  gross  esteemed  sad  garbage  uninvited  calm  unwelcome  attractive  heartbroken  excited  talented  ,1,2,3,0.333333333333333,0.666666666666667,0.333333333333333,Depressed
+195,196,210,6658d12efb179f9ef117c68c,"seeker
+slob
+comfortable
+achiever
+stressed
+overwhelmed
+excited
+loser
+gross
+scoundrel
+","seeker, slob, comfortable, achiever, stressed, overwhelmed, excited, loser, gross, scoundrel, ",seeker  slob  comfortable  achiever  stressed  overwhelmed  excited  loser  gross  scoundrel  ,seeker  slob  comfortable  achiever  stressed  overwhelmed  excited  loser  gross  scoundrel  ,1,2,3,0.333333333333333,0.666666666666667,0.333333333333333,HC
+196,197,211,665dc9b255d2c78cfca1a193,"hater, committed, forgiving, esteemed, selfish","hater, committed, forgiving, esteemed, selfish",hater  committed  forgiving  esteemed  selfish,hater  committed  forgiving  esteemed  selfish,1,2,3,0.333333333333333,0.666666666666667,0.333333333333333,HC
+197,198,212,6660ab8eeaa4f5e8a6a4d223,"smiley
+pitiful
+disgusting
+unfaithful
+enjoyable
+gentle
+academic
+fun
+talented
+witty
+","smiley, pitiful, disgusting, unfaithful, enjoyable, gentle, academic, fun, talented, witty, ",smiley  pitiful  disgusting  unfaithful  enjoyable  gentle  academic  fun  talented  witty  ,smiley  pitiful  disgusting  unfaithful  enjoyable  gentle  academic  fun  talented  witty  ,5,2,7,0.714285714285714,0.285714285714286,-0.428571428571429,Depressed
+198,199,213,66674f83d34ba401f9d816f6,"sad, awkward, heartbroken, uninvited, mess, disaster, garbage, talented, confident, peaceful, excited, enjoyable, stressed, overwhelmed, romantic, zealous, envious, timid, brave, fun, scoundrel, traitor, friendly, seeker, selfish, vain","sad, awkward, heartbroken, uninvited, mess, disaster, garbage, talented, confident, peaceful, excited, enjoyable, stressed, overwhelmed, romantic, zealous, envious, timid, brave, fun, scoundrel, traitor, friendly, seeker, selfish, vain",sad  awkward  heartbroken  uninvited  mess  disaster  garbage  talented  confident  peaceful  excited  enjoyable  stressed  overwhelmed  romantic  zealous  envious  timid  brave  fun  scoundrel  traitor  friendly  seeker  selfish  vain,sad  awkward  heartbroken  uninvited  mess  disaster  garbage  talented  confident  peaceful  excited  enjoyable  stressed  overwhelmed  romantic  zealous  envious  timid  brave  fun  scoundrel  traitor  friendly  seeker  selfish  vain,3,5,8,0.375,0.625,0.25,HC
+199,200,214,6667627ba6d0d6f7b08686ab,"sincere loveable excited gross unlucky scoundrel talented romantic, loser, garbage, repulsed, happy, sad, comfortable, ","sincere loveable excited gross unlucky scoundrel talented romantic, loser, garbage, repulsed, happy, sad, comfortable, ",sincere loveable excited gross unlucky scoundrel talented romantic  loser  garbage  repulsed  happy  sad  comfortable  ,sincere loveable excited gross unlucky scoundrel talented romantic  loser  garbage  repulsed  happy  sad  comfortable  ,1,2,3,0.333333333333333,0.666666666666667,0.333333333333333,HC
+200,201,216,66706191120230e6a89ddd0e,"hypocrite, peaceful, gross, mess, confident, overwhelmed","hypocrite, peaceful, gross, mess, confident, overwhelmed",hypocrite  peaceful  gross  mess  confident  overwhelmed,hypocrite  peaceful  gross  mess  confident  overwhelmed,0,1,1,0.0,1.0,1.0,Depressed
+201,202,217,66746db831e815ded8e9eaf3,unfaithful traitor carefree easygoing goodwilled capable incapable romantic scoundrel competent incompetent lovable esteemed attractive wise sad heartbroken uninvited enthusiastic charming ,unfaithful traitor carefree easygoing goodwilled capable incapable romantic scoundrel competent incompetent lovable esteemed attractive wise sad heartbroken uninvited enthusiastic charming ,unfaithful traitor carefree easygoing goodwilled capable incapable romantic scoundrel competent incompetent lovable esteemed attractive wise sad heartbroken uninvited enthusiastic charming ,unfaithful traitor carefree easygoing goodwilled capable incapable romantic scoundrel competent incompetent lovable esteemed attractive wise sad heartbroken uninvited enthusiastic charming ,9,5,14,0.642857142857143,0.357142857142857,-0.285714285714286,Depressed
+202,203,218,6675dbbeee7b1e2aa37a8eaa,"anxious, pitiful, stressed, garbage, ","anxious, pitiful, stressed, garbage, ",anxious  pitiful  stressed  garbage  ,anxious  pitiful  stressed  garbage  ,0,1,1,0.0,1.0,1.0,Depressed
+203,204,219,66797e76592771cdd0a5cd86,"Gross, negligent, attractive, happy","Gross, negligent, attractive, happy",Gross  negligent  attractive  happy,gross  negligent  attractive  happy,2,1,3,0.666666666666667,0.333333333333333,-0.333333333333333,Depressed
+204,205,220,667a3ea3429027d377819d6a,"garbage, liar, uninvited, stressful, trustworthy, confident, unhappy, energetic, peaceful, scoundrel, intelligent, successful, brave, happy, ","garbage, liar, uninvited, stressful, trustworthy, confident, unhappy, energetic, peaceful, scoundrel, intelligent, successful, brave, happy, ",garbage  liar  uninvited  stressful  trustworthy  confident  unhappy  energetic  peaceful  scoundrel  intelligent  successful  brave  happy  ,garbage  liar  uninvited  stressful  trustworthy  confident  unhappy  energetic  peaceful  scoundrel  intelligent  successful  brave  happy  ,3,1,4,0.75,0.25,-0.5,Depressed
+205,206,221,6687f3a4aca3e2d5a6ca8d8b,"Hypocrite, peacefull, witty, smart, garbage, gross, intelligent, calm, excited, romatic, heartbroken, anxious, burden, scoundrell, ","Hypocrite, peacefull, witty, smart, garbage, gross, intelligent, calm, excited, romatic, heartbroken, anxious, burden, scoundrell, ",Hypocrite  peacefull  witty  smart  garbage  gross  intelligent  calm  excited  romatic  heartbroken  anxious  burden  scoundrell  ,hypocrite  peacefull  witty  smart  garbage  gross  intelligent  calm  excited  romatic  heartbroken  anxious  burden  scoundrell  ,2,2,4,0.5,0.5,0.0,HC
+206,207,222,66888bccec8402c63d5e2c94,"Stressed, overwhelmed, coward, enjoyable, comfortable, gross, disgusting, uninvited, unique, peaceful","Stressed, overwhelmed, coward, enjoyable, comfortable, gross, disgusting, uninvited, unique, peaceful",Stressed  overwhelmed  coward  enjoyable  comfortable  gross  disgusting  uninvited  unique  peaceful,stressed  overwhelmed  coward  enjoyable  comfortable  gross  disgusting  uninvited  unique  peaceful,1,2,3,0.333333333333333,0.666666666666667,0.333333333333333,Depressed
+207,208,223,669292033e17ed44f8376cab,"uninvited, dull, gloomy, attractive, excellent","uninvited, dull, gloomy, attractive, excellent",uninvited  dull  gloomy  attractive  excellent,uninvited  dull  gloomy  attractive  excellent,1,2,3,0.333333333333333,0.666666666666667,0.333333333333333,HC
+208,209,224,66946e3054a30a2bf5b1be40,"romantic, unfaithful, rude. seeker, energetic, gross, excellent","romantic, unfaithful, rude. seeker, energetic, gross, excellent",romantic  unfaithful  rude. seeker  energetic  gross  excellent,romantic  unfaithful  rude. seeker  energetic  gross  excellent,1,1,2,0.5,0.5,0.0,Depressed
+209,210,225,669a878ad1cad8cabb0ea7dd,"uninvited
+pitiful
+garbage
+dull
+comfortable
+seeker
+distressed
+enjoyable
+liar","uninvited, pitiful, garbage, dull, comfortable, seeker, distressed, enjoyable, liar",uninvited  pitiful  garbage  dull  comfortable  seeker  distressed  enjoyable  liar,uninvited  pitiful  garbage  dull  comfortable  seeker  distressed  enjoyable  liar,0,3,3,0.0,1.0,1.0,Depressed
+210,211,227,669ebed935e914e33afa0fb3,"disaster
+heartbroken
+happy
+sad
+anxious
+garbage
+gross
+uninvited
+obnoxious","disaster, heartbroken, happy, sad, anxious, garbage, gross, uninvited, obnoxious",disaster  heartbroken  happy  sad  anxious  garbage  gross  uninvited  obnoxious,disaster  heartbroken  happy  sad  anxious  garbage  gross  uninvited  obnoxious,1,2,3,0.333333333333333,0.666666666666667,0.333333333333333,Depressed
+211,212,228,66a3279007dbdd4d6d3a64a7,"Garbage, blissful, talented, romantic, hypocrite, gross, sophisticated.","Garbage, blissful, talented, romantic, hypocrite, gross, sophisticated.",Garbage  blissful  talented  romantic  hypocrite  gross  sophisticated.,garbage  blissful  talented  romantic  hypocrite  gross  sophisticated.,1,0,1,1.0,0.0,-1.0,HC
+212,213,229,66a428de01ccbc61556d585b,"distressed, gross, calm, uninvited","distressed, gross, calm, uninvited",distressed  gross  calm  uninvited,distressed  gross  calm  uninvited,0,1,1,0.0,1.0,1.0,Depressed
+213,214,230,66a7cf3480e5c2088515ba0b,happy enjoyable esteemed Companionship,happy enjoyable esteemed Companionship,happy enjoyable esteemed Companionship,happy enjoyable esteemed companionship,1,0,1,1.0,0.0,-1.0,Depressed
+214,215,232,66b1967c80dfbef628f49076,scoundrel confident gross mess uninvited disaster appealing enthusiastic excited unfaithful energetic tolerant calm hypocrite,scoundrel confident gross mess uninvited disaster appealing enthusiastic excited unfaithful energetic tolerant calm hypocrite,scoundrel confident gross mess uninvited disaster appealing enthusiastic excited unfaithful energetic tolerant calm hypocrite,scoundrel confident gross mess uninvited disaster appealing enthusiastic excited unfaithful energetic tolerant calm hypocrite,3,2,5,0.6,0.4,-0.2,HC
+215,216,233,66b2da98af11038f74282e8f,confident unlucky stressed excited satisfied uninvited careless fool smart graceful witty degenerate blissful spirited coward sad garbage,confident unlucky stressed excited satisfied uninvited careless fool smart graceful witty degenerate blissful spirited coward sad garbage,confident unlucky stressed excited satisfied uninvited careless fool smart graceful witty degenerate blissful spirited coward sad garbage,confident unlucky stressed excited satisfied uninvited careless fool smart graceful witty degenerate blissful spirited coward sad garbage,6,4,10,0.6,0.4,-0.2,HC
+216,217,234,66b4d2ee1ac8c5e9060a6930,"disaster
+pitiful
+competent
+garbage
+seeker
+uninvited
+excited
+smiley
+happy
+","disaster, pitiful, competent, garbage, seeker, uninvited, excited, smiley, happy, ",disaster  pitiful  competent  garbage  seeker  uninvited  excited  smiley  happy  ,disaster  pitiful  competent  garbage  seeker  uninvited  excited  smiley  happy  ,2,0,2,1.0,0.0,-1.0,Depressed
+217,218,235,66b646f53b3eba7db8ef4eb2,"Annoyed, sophisticated, concerned, overwhelmed, helper, dedicated, lovable, esteemed.","Annoyed, sophisticated, concerned, overwhelmed, helper, dedicated, lovable, esteemed.",Annoyed  sophisticated  concerned  overwhelmed  helper  dedicated  lovable  esteemed.,annoyed  sophisticated  concerned  overwhelmed  helper  dedicated  lovable  esteemed.,3,0,3,1.0,0.0,-1.0,HC
+218,219,237,66b9a250c6a696f981b667cf,gross pitiful academic liar slob lazy excited learner anxious disaster mess ,gross pitiful academic liar slob lazy excited learner anxious disaster mess ,gross pitiful academic liar slob lazy excited learner anxious disaster mess ,gross pitiful academic liar slob lazy excited learner anxious disaster mess ,2,4,6,0.333333333333333,0.666666666666667,0.333333333333333,HC
+219,220,238,66c67be43cccb57eca5a9e9d,"Esteemed, anxious, gross, excellent, sad, confident, disgusting, zealous, envious, comfortable, gross, uninvited, happy, talented, slob, nervous, excited","Esteemed, anxious, gross, excellent, sad, confident, disgusting, zealous, envious, comfortable, gross, uninvited, happy, talented, slob, nervous, excited",Esteemed  anxious  gross  excellent  sad  confident  disgusting  zealous  envious  comfortable  gross  uninvited  happy  talented  slob  nervous  excited,esteemed  anxious  gross  excellent  sad  confident  disgusting  zealous  envious  comfortable  gross  uninvited  happy  talented  slob  nervous  excited,1,4,5,0.2,0.8,0.6,Depressed
+220,221,239,66c7719c71a1c4f4c2e712cd,"esteemed
+pitiful
+enjoyable
+uninvited
+happy
+scoundrel
+romantic
+appealing
+creep
+brave
+honest
+","esteemed, pitiful, enjoyable, uninvited, happy, scoundrel, romantic, appealing, creep, brave, honest, ",esteemed  pitiful  enjoyable  uninvited  happy  scoundrel  romantic  appealing  creep  brave  honest  ,esteemed  pitiful  enjoyable  uninvited  happy  scoundrel  romantic  appealing  creep  brave  honest  ,3,1,4,0.75,0.25,-0.5,HC
+221,222,240,66c7adc45a77680b4053f8e2,"Heartbroken
+selfish
+pleasant
+enjoyable
+pitiful
+unmerciful
+commited
+romantic
+peaceful","Heartbroken, selfish, pleasant, enjoyable, pitiful, unmerciful, commited, romantic, peaceful",Heartbroken  selfish  pleasant  enjoyable  pitiful  unmerciful  commited  romantic  peaceful,heartbroken  selfish  pleasant  enjoyable  pitiful  unmerciful  commited  romantic  peaceful,0,1,1,0.0,1.0,1.0,Depressed
+222,223,241,66c7d3c15993ceaa74816309,"scoundrel, appealing, confidant, overwhelmed, garbage, gross, pitiful, special, graceful, spirited, envious","scoundrel, appealing, confidant, overwhelmed, garbage, gross, pitiful, special, graceful, spirited, envious",scoundrel  appealing  confidant  overwhelmed  garbage  gross  pitiful  special  graceful  spirited  envious,scoundrel  appealing  confidant  overwhelmed  garbage  gross  pitiful  special  graceful  spirited  envious,3,0,3,1.0,0.0,-1.0,HC
+223,224,242,66ca18ce20c4af7baa912758,"adventurous
+smart
+","adventurous, smart, ",adventurous  smart  ,adventurous  smart  ,1,0,1,1.0,0.0,-1.0,Depressed
+224,225,243,66cb244951abdf73420673a8,"heartbroken
+creative
+companion
+peaceful
+","heartbroken, creative, companion, peaceful, ",heartbroken  creative  companion  peaceful  ,heartbroken  creative  companion  peaceful  ,1,0,1,1.0,0.0,-1.0,HC
+225,226,244,66ccbb7d4109382e498e3c82,"gross, garbage, mess, uninvited, esteemed, peaceful, gentle, confident, stressed, overwhelmed","gross, garbage, mess, uninvited, esteemed, peaceful, gentle, confident, stressed, overwhelmed",gross  garbage  mess  uninvited  esteemed  peaceful  gentle  confident  stressed  overwhelmed,gross  garbage  mess  uninvited  esteemed  peaceful  gentle  confident  stressed  overwhelmed,1,1,2,0.5,0.5,0.0,Depressed
+226,227,246,66d04902641a3c8fb01582cb,"scoundrel, pitiful, fraud, honest, happy, sad, capable, dishonest, honest, emotional, menace, witty, passionate, kind,.","scoundrel, pitiful, fraud, honest, happy, sad, capable, dishonest, honest, emotional, menace, witty, passionate, kind,.",scoundrel  pitiful  fraud  honest  happy  sad  capable  dishonest  honest  emotional  menace  witty  passionate  kind .,scoundrel  pitiful  fraud  honest  happy  sad  capable  dishonest  honest  emotional  menace  witty  passionate  kind .,5,3,8,0.625,0.375,-0.25,Depressed
+227,228,247,66d1c3a6c87d18fece878047,"Merciful, Seeker, irresponsible, Joyful, Tolerant, Confident","Merciful, Seeker, irresponsible, Joyful, Tolerant, Confident",Merciful  Seeker  irresponsible  Joyful  Tolerant  Confident,merciful  seeker  irresponsible  joyful  tolerant  confident,2,1,3,0.666666666666667,0.333333333333333,-0.333333333333333,HC
+228,229,248,66d1c62a6b6097325ece5c4c,"Seeker, Efficient, Excitement, Sincere, Vain, Gloomy, Energetic, Friendly, Entertaining, Selfish, Burden, Coward, Healthy, Lovable, Mess, Fun","Seeker, Efficient, Excitement, Sincere, Vain, Gloomy, Energetic, Friendly, Entertaining, Selfish, Burden, Coward, Healthy, Lovable, Mess, Fun",Seeker  Efficient  Excitement  Sincere  Vain  Gloomy  Energetic  Friendly  Entertaining  Selfish  Burden  Coward  Healthy  Lovable  Mess  Fun,seeker  efficient  excitement  sincere  vain  gloomy  energetic  friendly  entertaining  selfish  burden  coward  healthy  lovable  mess  fun,6,5,11,0.545454545454545,0.454545454545455,-0.0909090909090909,HC
+229,230,249,66d9547a9df3044a616f2cfd,"unwanted
+overwhelmed
+anxious
+degenerate
+sccoundrol
+loser
+failure
+liar
+
+","unwanted, overwhelmed, anxious, degenerate, sccoundrol, loser, failure, liar, , ",unwanted  overwhelmed  anxious  degenerate  sccoundrol  loser  failure  liar    ,unwanted  overwhelmed  anxious  degenerate  sccoundrol  loser  failure  liar    ,0,6,6,0.0,1.0,1.0,Depressed
+230,231,250,66db455debd3438472ba6fc6,"uninvited, gross, sad, loser, excited, heartbroken, talented, burden, ","uninvited, gross, sad, loser, excited, heartbroken, talented, burden, ",uninvited  gross  sad  loser  excited  heartbroken  talented  burden  ,uninvited  gross  sad  loser  excited  heartbroken  talented  burden  ,0,3,3,0.0,1.0,1.0,Depressed
+231,232,251,66db9073369d1333a32329a3,"Scoundrel
+Appealing
+Merciful
+Joyful
+Sad
+Anxious
+Loveable
+Depressed
+Excellent
+Enthusiastic 
+Disappointed 
+Disgusted
+Carefree 
+","Scoundrel, Appealing, Merciful, Joyful, Sad, Anxious, Loveable, Depressed, Excellent, Enthusiastic , Disappointed , Disgusted, Carefree , ",Scoundrel  Appealing  Merciful  Joyful  Sad  Anxious  Loveable  Depressed  Excellent  Enthusiastic   Disappointed   Disgusted  Carefree   ,scoundrel  appealing  merciful  joyful  sad  anxious  loveable  depressed  excellent  enthusiastic   disappointed   disgusted  carefree   ,3,2,5,0.6,0.4,-0.2,Depressed
+232,233,252,66dc48cea9a85fe230c06b5f,"degenerate, peaceful, blissful, comfortable, enjoyable, loser, heartbroken, romantic, disaster, menance, stressed, distress, happy, achiever, merciful, untrustworthy, worthless, hopeful, fraud, honest, cynic, seeker, gentle, dull, and failure.","degenerate, peaceful, blissful, comfortable, enjoyable, loser, heartbroken, romantic, disaster, menance, stressed, distress, happy, achiever, merciful, untrustworthy, worthless, hopeful, fraud, honest, cynic, seeker, gentle, dull, and failure.",degenerate  peaceful  blissful  comfortable  enjoyable  loser  heartbroken  romantic  disaster  menance  stressed  distress  happy  achiever  merciful  untrustworthy  worthless  hopeful  fraud  honest  cynic  seeker  gentle  dull  and failure.,degenerate  peaceful  blissful  comfortable  enjoyable  loser  heartbroken  romantic  disaster  menance  stressed  distress  happy  achiever  merciful  untrustworthy  worthless  hopeful  fraud  honest  cynic  seeker  gentle  dull  and failure.,7,7,14,0.5,0.5,0.0,HC
+233,234,253,66dce0656e7ac36df7634205,Heartbroken Sad Gross Pitiful Seeker Timid Comfortable Tolerable Graceful Helpful Anxious Unbearable Failure ,Heartbroken Sad Gross Pitiful Seeker Timid Comfortable Tolerable Graceful Helpful Anxious Unbearable Failure ,Heartbroken Sad Gross Pitiful Seeker Timid Comfortable Tolerable Graceful Helpful Anxious Unbearable Failure ,heartbroken sad gross pitiful seeker timid comfortable tolerable graceful helpful anxious unbearable failure ,1,4,5,0.2,0.8,0.6,Depressed
+234,235,255,66e8d3f613e6e86e890f2b6d,"heartbroken, scoundrel, uninvited, excellent, seeker, incompetent, smart, graceful","heartbroken, scoundrel, uninvited, excellent, seeker, incompetent, smart, graceful",heartbroken  scoundrel  uninvited  excellent  seeker  incompetent  smart  graceful,heartbroken  scoundrel  uninvited  excellent  seeker  incompetent  smart  graceful,2,1,3,0.666666666666667,0.333333333333333,-0.333333333333333,HC
+235,236,256,66ef026cb7f6c2ae6ef6deb1,"Garbage, honest, merciful, overwhelmed, stressed, excited, uninvited, energetic, romantic, esteemed, gross, peaceful, ","Garbage, honest, merciful, overwhelmed, stressed, excited, uninvited, energetic, romantic, esteemed, gross, peaceful, ",Garbage  honest  merciful  overwhelmed  stressed  excited  uninvited  energetic  romantic  esteemed  gross  peaceful  ,garbage  honest  merciful  overwhelmed  stressed  excited  uninvited  energetic  romantic  esteemed  gross  peaceful  ,3,0,3,1.0,0.0,-1.0,Depressed
+236,237,257,66f318f955628ccbfa3788c2,"gross
+scoundrel
+excited
+uninvited
+competent
+wise","gross, scoundrel, excited, uninvited, competent, wise",gross  scoundrel  excited  uninvited  competent  wise,gross  scoundrel  excited  uninvited  competent  wise,1,0,1,1.0,0.0,-1.0,Depressed
+237,238,258,66f3834246fbf1be6109d9b3,"adventerous, blissfull, sad, gross,delightful, bored, uninvited, smiley, ","adventerous, blissfull, sad, gross,delightful, bored, uninvited, smiley, ",adventerous  blissfull  sad  gross delightful  bored  uninvited  smiley  ,adventerous  blissfull  sad  gross delightful  bored  uninvited  smiley  ,1,1,2,0.5,0.5,0.0,HC
+238,239,259,66f47c4e26254353298c0da3,"talented, romantic, excellent, unlucky, enjoyable, excited, burden, pleased, brave, wise, helper, productive, insulting, entertaining, witty, asset, carefree, bitter, fool.","talented, romantic, excellent, unlucky, enjoyable, excited, burden, pleased, brave, wise, helper, productive, insulting, entertaining, witty, asset, carefree, bitter, fool.",talented  romantic  excellent  unlucky  enjoyable  excited  burden  pleased  brave  wise  helper  productive  insulting  entertaining  witty  asset  carefree  bitter  fool.,talented  romantic  excellent  unlucky  enjoyable  excited  burden  pleased  brave  wise  helper  productive  insulting  entertaining  witty  asset  carefree  bitter  fool.,9,3,12,0.75,0.25,-0.5,Depressed
+240,241,261,66f8367b5310ebb97346b93c,"garbage, disaster, peaceful, heartbroken, special, talented, romantic, caring, adventurous, uninvited, pitiful, regrettable, seeker, esteemed, ","garbage, disaster, peaceful, heartbroken, special, talented, romantic, caring, adventurous, uninvited, pitiful, regrettable, seeker, esteemed, ",garbage  disaster  peaceful  heartbroken  special  talented  romantic  caring  adventurous  uninvited  pitiful  regrettable  seeker  esteemed  ,garbage  disaster  peaceful  heartbroken  special  talented  romantic  caring  adventurous  uninvited  pitiful  regrettable  seeker  esteemed  ,1,0,1,1.0,0.0,-1.0,Depressed
+241,242,263,67044664065eb1860b504d38,"excited
+peaceful
+enthusiastic
+","excited, peaceful, enthusiastic, ",excited  peaceful  enthusiastic  ,excited  peaceful  enthusiastic  ,1,0,1,1.0,0.0,-1.0,Depressed
+242,243,264,67055efcc9d6595c24d60bb5,"Uninvited
+Anxious
+","Uninvited, Anxious, ",Uninvited  Anxious  ,uninvited  anxious  ,0,1,1,0.0,1.0,1.0,Depressed
+243,244,265,6705995e39d905d5d13b3ddf,"scoundrel, excited, happy, overwhelmed, stressed, gross, repulsive, traitor, talented, envious, awkward, irresponsible, disgusting, confident, wise, smart, academic, achiever, menace, gloomy, comfortable, enthusiastic, unforgivable, liar, unfaithful, trustworthy, attractive, graceful, timid, anxious, dull","scoundrel, excited, happy, overwhelmed, stressed, gross, repulsive, traitor, talented, envious, awkward, irresponsible, disgusting, confident, wise, smart, academic, achiever, menace, gloomy, comfortable, enthusiastic, unforgivable, liar, unfaithful, trustworthy, attractive, graceful, timid, anxious, dull",scoundrel  excited  happy  overwhelmed  stressed  gross  repulsive  traitor  talented  envious  awkward  irresponsible  disgusting  confident  wise  smart  academic  achiever  menace  gloomy  comfortable  enthusiastic  unforgivable  liar  unfaithful  trustworthy  attractive  graceful  timid  anxious  dull,scoundrel  excited  happy  overwhelmed  stressed  gross  repulsive  traitor  talented  envious  awkward  irresponsible  disgusting  confident  wise  smart  academic  achiever  menace  gloomy  comfortable  enthusiastic  unforgivable  liar  unfaithful  trustworthy  attractive  graceful  timid  anxious  dull,8,12,20,0.4,0.6,0.2,Depressed
+244,245,267,67082237ded76a92c7aa04b7,"pitiful,happy,univited,excited,","pitiful,happy,univited,excited,",pitiful happy univited excited ,pitiful happy univited excited ,1,0,1,1.0,0.0,-1.0,HC
+245,246,268,6708835d0b617b621152e4fb,"Anxious, enthusiastic, fool,pitiful","Anxious, enthusiastic, fool,pitiful",Anxious  enthusiastic  fool pitiful,anxious  enthusiastic  fool pitiful,1,2,3,0.333333333333333,0.666666666666667,0.333333333333333,Depressed
+246,247,269,670e8aaa10a4ed5fcc0519a0,awkward esteemed scoundrel overwhelmed gross disgusting romantic sophisticated unlucky spectacular hopeful creep uninvited ,awkward esteemed scoundrel overwhelmed gross disgusting romantic sophisticated unlucky spectacular hopeful creep uninvited ,awkward esteemed scoundrel overwhelmed gross disgusting romantic sophisticated unlucky spectacular hopeful creep uninvited ,awkward esteemed scoundrel overwhelmed gross disgusting romantic sophisticated unlucky spectacular hopeful creep uninvited ,3,3,6,0.5,0.5,0.0,Depressed
+247,248,270,671165ce01cd9c2699b90dc1,"gross
+peaceful
+hypocrite
+uninvited
+regretful
+comfortable
+happy
+helpful
+learner
+garbage
+","gross, peaceful, hypocrite, uninvited, regretful, comfortable, happy, helpful, learner, garbage, ",gross  peaceful  hypocrite  uninvited  regretful  comfortable  happy  helpful  learner  garbage  ,gross  peaceful  hypocrite  uninvited  regretful  comfortable  happy  helpful  learner  garbage  ,2,1,3,0.666666666666667,0.333333333333333,-0.333333333333333,Depressed
+248,249,271,6711dd926b91eb0fcf53810c,"graceful, peaceful, excellent, smart, disgusting, sad, happy, overwhelmed, talented, scoundrel, degenerate, gross, rude, mess, creep, uninvited, friendly, esteemed, exciting, romantic.","graceful, peaceful, excellent, smart, disgusting, sad, happy, overwhelmed, talented, scoundrel, degenerate, gross, rude, mess, creep, uninvited, friendly, esteemed, exciting, romantic.",graceful  peaceful  excellent  smart  disgusting  sad  happy  overwhelmed  talented  scoundrel  degenerate  gross  rude  mess  creep  uninvited  friendly  esteemed  exciting  romantic.,graceful  peaceful  excellent  smart  disgusting  sad  happy  overwhelmed  talented  scoundrel  degenerate  gross  rude  mess  creep  uninvited  friendly  esteemed  exciting  romantic.,4,6,10,0.4,0.6,0.2,HC
+249,250,272,6713c7a11cd04cebe7a50c9d,"excited, heartbroken, dull, uninvited, esteemed, confident, carefree, sad.","excited, heartbroken, dull, uninvited, esteemed, confident, carefree, sad.",excited  heartbroken  dull  uninvited  esteemed  confident  carefree  sad.,excited  heartbroken  dull  uninvited  esteemed  confident  carefree  sad.,1,1,2,0.5,0.5,0.0,HC
+250,251,273,6715a181798cd468879bb3a9,"pitiful
+esteemed
+energetic
+seeker
+delight
+talented
+scoundrel
+wise
+unlucky
+rude
+garbage
+honest
+peaceful
+entertaining
+happy
+sad
+uninvited
+spirited
+smart
+","pitiful, esteemed, energetic, seeker, delight, talented, scoundrel, wise, unlucky, rude, garbage, honest, peaceful, entertaining, happy, sad, uninvited, spirited, smart, ",pitiful  esteemed  energetic  seeker  delight  talented  scoundrel  wise  unlucky  rude  garbage  honest  peaceful  entertaining  happy  sad  uninvited  spirited  smart  ,pitiful  esteemed  energetic  seeker  delight  talented  scoundrel  wise  unlucky  rude  garbage  honest  peaceful  entertaining  happy  sad  uninvited  spirited  smart  ,8,2,10,0.8,0.2,-0.6,HC
+251,252,274,67169e5c7e56a6df9bdd72f8,"pitiful
+scoundrel
+happy
+excited
+comfortable
+gloomy
+brave
+sophisticated","pitiful, scoundrel, happy, excited, comfortable, gloomy, brave, sophisticated",pitiful  scoundrel  happy  excited  comfortable  gloomy  brave  sophisticated,pitiful  scoundrel  happy  excited  comfortable  gloomy  brave  sophisticated,3,1,4,0.75,0.25,-0.5,HC
+252,253,275,6716bacce6d432ceacc79dcc,"Uninvited, Gross, Excited, Gloomy, Energetic, Quitter, Proficient, Admired, Confident, Satisfied, Brave.","Uninvited, Gross, Excited, Gloomy, Energetic, Quitter, Proficient, Admired, Confident, Satisfied, Brave.",Uninvited  Gross  Excited  Gloomy  Energetic  Quitter  Proficient  Admired  Confident  Satisfied  Brave.,uninvited  gross  excited  gloomy  energetic  quitter  proficient  admired  confident  satisfied  brave.,4,2,6,0.666666666666667,0.333333333333333,-0.333333333333333,HC
+253,254,276,671813a64cc728d09ef7499d,"scounrel
+unlucky
+charming
+pitiful
+enjoyable","scounrel, unlucky, charming, pitiful, enjoyable",scounrel  unlucky  charming  pitiful  enjoyable,scounrel  unlucky  charming  pitiful  enjoyable,1,0,1,1.0,0.0,-1.0,HC
+254,255,277,671a9506b90ee5e2d532c12d,Pitiful Tolerant Peaceful Smiley Scoundrel Happy Seeker Brave Bitter Smart Humorous ,Pitiful Tolerant Peaceful Smiley Scoundrel Happy Seeker Brave Bitter Smart Humorous ,Pitiful Tolerant Peaceful Smiley Scoundrel Happy Seeker Brave Bitter Smart Humorous ,pitiful tolerant peaceful smiley scoundrel happy seeker brave bitter smart humorous ,6,1,7,0.857142857142857,0.142857142857143,-0.714285714285714,HC
+255,256,278,671bdd06525adeea062a1d73,"envious, creep, headache, irresponsible","envious, creep, headache, irresponsible",envious  creep  headache  irresponsible,envious  creep  headache  irresponsible,0,3,3,0.0,1.0,1.0,Depressed
+256,257,279,671c1973cea1e0fb9aedd4aa,"scoundrel,
+pitiful
+seeker
+gloomy
+happy
+excited
+gross
+","scoundrel,, pitiful, seeker, gloomy, happy, excited, gross, ",scoundrel   pitiful  seeker  gloomy  happy  excited  gross  ,scoundrel   pitiful  seeker  gloomy  happy  excited  gross  ,1,1,2,0.5,0.5,0.0,Depressed
+257,258,280,672009e830ecce0b571824a9,"Scoundrel, exciting, unfaithful, stressed, happy, overwhelmed, slob, mess, garbage, appealing, attractive, gross, asset, sad, anxious, alone, friendly, witty, fun, romantic, amazing","Scoundrel, exciting, unfaithful, stressed, happy, overwhelmed, slob, mess, garbage, appealing, attractive, gross, asset, sad, anxious, alone, friendly, witty, fun, romantic, amazing",Scoundrel  exciting  unfaithful  stressed  happy  overwhelmed  slob  mess  garbage  appealing  attractive  gross  asset  sad  anxious  alone  friendly  witty  fun  romantic  amazing,scoundrel  exciting  unfaithful  stressed  happy  overwhelmed  slob  mess  garbage  appealing  attractive  gross  asset  sad  anxious  alone  friendly  witty  fun  romantic  amazing,6,5,11,0.545454545454545,0.454545454545455,-0.0909090909090909,HC
+258,259,283,6727e10a76e80949064e1e6c,Distressed pitiful overwhelmed fun exciting rude selfish lazy courageous friendly arrogant ,Distressed pitiful overwhelmed fun exciting rude selfish lazy courageous friendly arrogant ,Distressed pitiful overwhelmed fun exciting rude selfish lazy courageous friendly arrogant ,distressed pitiful overwhelmed fun exciting rude selfish lazy courageous friendly arrogant ,2,3,5,0.4,0.6,0.2,HC
+259,260,284,6729402a97de1cbad714b701,stressed distressed gross smart unlucky romantic confident charming disgusting honest mess garbage scoundrel healthy wise ,stressed distressed gross smart unlucky romantic confident charming disgusting honest mess garbage scoundrel healthy wise ,stressed distressed gross smart unlucky romantic confident charming disgusting honest mess garbage scoundrel healthy wise ,stressed distressed gross smart unlucky romantic confident charming disgusting honest mess garbage scoundrel healthy wise ,5,3,8,0.625,0.375,-0.25,HC
+260,261,285,67298837297e2c99835775c1,"enthusiastic, overwhelmed, gross, enjoyable, lovable, incompetent, sincere, cynic, capable, incapable, stressed, witty, hypocrite, wise, zealous, ","enthusiastic, overwhelmed, gross, enjoyable, lovable, incompetent, sincere, cynic, capable, incapable, stressed, witty, hypocrite, wise, zealous, ",enthusiastic  overwhelmed  gross  enjoyable  lovable  incompetent  sincere  cynic  capable  incapable  stressed  witty  hypocrite  wise  zealous  ,enthusiastic  overwhelmed  gross  enjoyable  lovable  incompetent  sincere  cynic  capable  incapable  stressed  witty  hypocrite  wise  zealous  ,5,3,8,0.625,0.375,-0.25,Depressed
+261,262,286,672c5b5ec26b82a3d4c2a4c1,"Pitiful
+Lovable
+Scoundrel
+Romantic
+Excited
+Merciful
+Charming
+Gross
+Excellent
+Spunky
+Parasite
+Dull
+Outcast
+Unwanted
+Spectacular
+Spunky
+Special
+Pleasant.","Pitiful, Lovable, Scoundrel, Romantic, Excited, Merciful, Charming, Gross, Excellent, Spunky, Parasite, Dull, Outcast, Unwanted, Spectacular, Spunky, Special, Pleasant.",Pitiful  Lovable  Scoundrel  Romantic  Excited  Merciful  Charming  Gross  Excellent  Spunky  Parasite  Dull  Outcast  Unwanted  Spectacular  Spunky  Special  Pleasant.,pitiful  lovable  scoundrel  romantic  excited  merciful  charming  gross  excellent  spunky  parasite  dull  outcast  unwanted  spectacular  spunky  special  pleasant.,5,4,9,0.555555555555556,0.444444444444444,-0.111111111111111,Depressed
+262,263,287,672ceecd4b982fd2123fa32f,"unwelcome, failure, untrustworthy, incompetent, insecure","unwelcome, failure, untrustworthy, incompetent, insecure",unwelcome  failure  untrustworthy  incompetent  insecure,unwelcome  failure  untrustworthy  incompetent  insecure,0,5,5,0.0,1.0,1.0,Depressed
+263,264,288,672d337272a927a9c066bfe0,"scoundrel, enthusiast, appealing, brave","scoundrel, enthusiast, appealing, brave",scoundrel  enthusiast  appealing  brave,scoundrel  enthusiast  appealing  brave,1,0,1,1.0,0.0,-1.0,HC
+264,265,289,672f24a50a91f97ff3526f3f,"peaceful,garbage,unwelcome,uninvited,faithful,unfaithful,stressed,loved,fun,friendly,sad","peaceful,garbage,unwelcome,uninvited,faithful,unfaithful,stressed,loved,fun,friendly,sad",peaceful garbage unwelcome uninvited faithful unfaithful stressed loved fun friendly sad,peaceful garbage unwelcome uninvited faithful unfaithful stressed loved fun friendly sad,2,3,5,0.4,0.6,0.2,Depressed
+266,267,292,673305c57a764368db686e4b,"mess, happy, stressed, uninvited, excited, scoundrel, heartbroken, hypocrite, timid, loved, unlucky, menace, comfortable, wise, witty, awkward, sincere, liar","mess, happy, stressed, uninvited, excited, scoundrel, heartbroken, hypocrite, timid, loved, unlucky, menace, comfortable, wise, witty, awkward, sincere, liar",mess  happy  stressed  uninvited  excited  scoundrel  heartbroken  hypocrite  timid  loved  unlucky  menace  comfortable  wise  witty  awkward  sincere  liar,mess  happy  stressed  uninvited  excited  scoundrel  heartbroken  hypocrite  timid  loved  unlucky  menace  comfortable  wise  witty  awkward  sincere  liar,3,4,7,0.428571428571429,0.571428571428571,0.142857142857143,Depressed
+267,268,293,6733bc4ebff2565ea1faea65,scoundrel romantic pitiful helper uninvited sloppy mess disgust happy attractive ,scoundrel romantic pitiful helper uninvited sloppy mess disgust happy attractive ,scoundrel romantic pitiful helper uninvited sloppy mess disgust happy attractive ,scoundrel romantic pitiful helper uninvited sloppy mess disgust happy attractive ,3,1,4,0.75,0.25,-0.5,HC
+268,269,294,6734fa1ab2c7c6f84827f814,"heartbroken, disaster, anxious, brave, gross, garbage, enjoyable, excited, seeker, admirable, humorous","heartbroken, disaster, anxious, brave, gross, garbage, enjoyable, excited, seeker, admirable, humorous",heartbroken  disaster  anxious  brave  gross  garbage  enjoyable  excited  seeker  admirable  humorous,heartbroken  disaster  anxious  brave  gross  garbage  enjoyable  excited  seeker  admirable  humorous,2,1,3,0.666666666666667,0.333333333333333,-0.333333333333333,Depressed
+269,270,295,6735b2a6112cf17b7b8df8d1,"repulsive, comfortable, scoundrel, enjoyable, menace, blissful, peaceful, happy, brave, delightful, gentle, attractive, uninvited","repulsive, comfortable, scoundrel, enjoyable, menace, blissful, peaceful, happy, brave, delightful, gentle, attractive, uninvited",repulsive  comfortable  scoundrel  enjoyable  menace  blissful  peaceful  happy  brave  delightful  gentle  attractive  uninvited,repulsive  comfortable  scoundrel  enjoyable  menace  blissful  peaceful  happy  brave  delightful  gentle  attractive  uninvited,5,2,7,0.714285714285714,0.285714285714286,-0.428571428571429,Depressed
+270,271,296,673b8569ae599d74936b2364,"blissful
+tolerance
+slob
+gross
+romantic
+attractive
+menace
+hater
+","blissful, tolerance, slob, gross, romantic, attractive, menace, hater, ",blissful  tolerance  slob  gross  romantic  attractive  menace  hater  ,blissful  tolerance  slob  gross  romantic  attractive  menace  hater  ,2,3,5,0.4,0.6,0.2,HC
+271,272,297,673be70d93258523a9710ea5,"grateful
+happy
+content
+expert
+wise
+gross
+incompetent
+content
+skilled
+excited
+adventurous
+trustworthy
+","grateful, happy, content, expert, wise, gross, incompetent, content, skilled, excited, adventurous, trustworthy, ",grateful  happy  content  expert  wise  gross  incompetent  content  skilled  excited  adventurous  trustworthy  ,grateful  happy  content  expert  wise  gross  incompetent  content  skilled  excited  adventurous  trustworthy  ,2,1,3,0.666666666666667,0.333333333333333,-0.333333333333333,HC
+272,273,298,673e1fd0bd9093214a458228,scoundrel unlucky romantic gross disgrace unfaithful ,scoundrel unlucky romantic gross disgrace unfaithful ,scoundrel unlucky romantic gross disgrace unfaithful ,scoundrel unlucky romantic gross disgrace unfaithful ,0,2,2,0.0,1.0,1.0,HC
+273,274,299,673f230523c22790772ab998,"pitiful
+scoundrel
+untrustworthy
+brave
+comfortable","pitiful, scoundrel, untrustworthy, brave, comfortable",pitiful  scoundrel  untrustworthy  brave  comfortable,pitiful  scoundrel  untrustworthy  brave  comfortable,1,1,2,0.5,0.5,0.0,Depressed
+274,275,301,673f96e117a432076e1fbe86,"scoundrel, sad, energetic, enthusiastic, seeker, learner, stressed, romantic, excited, graceful, unfaithful, gross, dull","scoundrel, sad, energetic, enthusiastic, seeker, learner, stressed, romantic, excited, graceful, unfaithful, gross, dull",scoundrel  sad  energetic  enthusiastic  seeker  learner  stressed  romantic  excited  graceful  unfaithful  gross  dull,scoundrel  sad  energetic  enthusiastic  seeker  learner  stressed  romantic  excited  graceful  unfaithful  gross  dull,4,3,7,0.571428571428571,0.428571428571429,-0.142857142857143,Depressed
+275,276,302,6740d0777ca4b82fdef738dc,"excellent, garbage, disgusting, appealing, unwelcome, uninvited, spectacular, blissful, defective, valued, smart, fun, peaceful, talented, stressed, overwhelmed, anxious, disaster, excited, spontaneous, enthusiastic, mature, spirited, trash, messy, gloomy, capable, incapable, esteemed, admired, easygoing, smiley, terrified, terrible, worthless, liar, hypocrite, wise, happy","excellent, garbage, disgusting, appealing, unwelcome, uninvited, spectacular, blissful, defective, valued, smart, fun, peaceful, talented, stressed, overwhelmed, anxious, disaster, excited, spontaneous, enthusiastic, mature, spirited, trash, messy, gloomy, capable, incapable, esteemed, admired, easygoing, smiley, terrified, terrible, worthless, liar, hypocrite, wise, happy",excellent  garbage  disgusting  appealing  unwelcome  uninvited  spectacular  blissful  defective  valued  smart  fun  peaceful  talented  stressed  overwhelmed  anxious  disaster  excited  spontaneous  enthusiastic  mature  spirited  trash  messy  gloomy  capable  incapable  esteemed  admired  easygoing  smiley  terrified  terrible  worthless  liar  hypocrite  wise  happy,excellent  garbage  disgusting  appealing  unwelcome  uninvited  spectacular  blissful  defective  valued  smart  fun  peaceful  talented  stressed  overwhelmed  anxious  disaster  excited  spontaneous  enthusiastic  mature  spirited  trash  messy  gloomy  capable  incapable  esteemed  admired  easygoing  smiley  terrified  terrible  worthless  liar  hypocrite  wise  happy,14,10,24,0.583333333333333,0.416666666666667,-0.166666666666667,HC
+276,277,303,67435bbf9649c44a0e379543,"Honest
+Degenerate
+Anxious
+Happy
+unforgiveable 
+excited
+adventurous
+spontaneous
+stressed
+garbage
+gross
+disgusting
+scoundrel","Honest, Degenerate, Anxious, Happy, unforgiveable , excited, adventurous, spontaneous, stressed, garbage, gross, disgusting, scoundrel",Honest  Degenerate  Anxious  Happy  unforgiveable   excited  adventurous  spontaneous  stressed  garbage  gross  disgusting  scoundrel,honest  degenerate  anxious  happy  unforgiveable   excited  adventurous  spontaneous  stressed  garbage  gross  disgusting  scoundrel,3,3,6,0.5,0.5,0.0,Depressed
+277,278,305,67460cbb61e0f43f89d299dd,"Garbage, scoundrel, sophisticated, educated, romantic, confident, academic, distressed, witty, motivated, calm, overwhelmed, cynic","Garbage, scoundrel, sophisticated, educated, romantic, confident, academic, distressed, witty, motivated, calm, overwhelmed, cynic",Garbage  scoundrel  sophisticated  educated  romantic  confident  academic  distressed  witty  motivated  calm  overwhelmed  cynic,garbage  scoundrel  sophisticated  educated  romantic  confident  academic  distressed  witty  motivated  calm  overwhelmed  cynic,3,2,5,0.6,0.4,-0.2,HC
+278,279,307,67476f62ab145da8f6d5edf5,"Disaster, Comfortable, Gloomy, Excitement, Merciful, Unsophisticated, Tolerant, Garbage, Gross ","Disaster, Comfortable, Gloomy, Excitement, Merciful, Unsophisticated, Tolerant, Garbage, Gross ",Disaster  Comfortable  Gloomy  Excitement  Merciful  Unsophisticated  Tolerant  Garbage  Gross ,disaster  comfortable  gloomy  excitement  merciful  unsophisticated  tolerant  garbage  gross ,2,1,3,0.666666666666667,0.333333333333333,-0.333333333333333,HC
+279,280,308,6747b076cb7d1526e399d378,"Scoundrel
+gross
+cynic
+uninvited
+happy
+disaster
+overwhelmed
+friendly
+graceful
+stressed
+anxious
+awkward
+confident
+academic","Scoundrel, gross, cynic, uninvited, happy, disaster, overwhelmed, friendly, graceful, stressed, anxious, awkward, confident, academic",Scoundrel  gross  cynic  uninvited  happy  disaster  overwhelmed  friendly  graceful  stressed  anxious  awkward  confident  academic,scoundrel  gross  cynic  uninvited  happy  disaster  overwhelmed  friendly  graceful  stressed  anxious  awkward  confident  academic,4,3,7,0.571428571428571,0.428571428571429,-0.142857142857143,Depressed
+280,281,310,6749d746679deb8bd2ea05b1,"healthy,romantic, grateful, gross, capable, hater","healthy,romantic, grateful, gross, capable, hater",healthy romantic  grateful  gross  capable  hater,healthy romantic  grateful  gross  capable  hater,2,1,3,0.666666666666667,0.333333333333333,-0.333333333333333,Depressed
+281,282,311,674b46b00690584bddd6e33b,"talented, scoundrel, hypocrite, smiley, uninvited, stressed, anxious, loser, slob, gross, entertaining","talented, scoundrel, hypocrite, smiley, uninvited, stressed, anxious, loser, slob, gross, entertaining",talented  scoundrel  hypocrite  smiley  uninvited  stressed  anxious  loser  slob  gross  entertaining,talented  scoundrel  hypocrite  smiley  uninvited  stressed  anxious  loser  slob  gross  entertaining,2,3,5,0.4,0.6,0.2,Depressed
+282,283,313,674dc39b4bb70835d4c29238,"Talented
+Scoundrel
+Enthusiastic
+garbage
+carefree
+excellent
+rude
+uninvited
+sincere
+gentle
+peaceful
+seeker
+learner
+spirited
+sad
+stressed
+lovable
+romantic
+incapable
+smart
+helpful
+happy
+passive
+witty
+humorous
+liar
+honest
+uncommitted
+loyal
+","Talented, Scoundrel, Enthusiastic, garbage, carefree, excellent, rude, uninvited, sincere, gentle, peaceful, seeker, learner, spirited, sad, stressed, lovable, romantic, incapable, smart, helpful, happy, passive, witty, humorous, liar, honest, uncommitted, loyal, ",Talented  Scoundrel  Enthusiastic  garbage  carefree  excellent  rude  uninvited  sincere  gentle  peaceful  seeker  learner  spirited  sad  stressed  lovable  romantic  incapable  smart  helpful  happy  passive  witty  humorous  liar  honest  uncommitted  loyal  ,talented  scoundrel  enthusiastic  garbage  carefree  excellent  rude  uninvited  sincere  gentle  peaceful  seeker  learner  spirited  sad  stressed  lovable  romantic  incapable  smart  helpful  happy  passive  witty  humorous  liar  honest  uncommitted  loyal  ,11,4,15,0.733333333333333,0.266666666666667,-0.466666666666667,Depressed
+283,284,314,674f4fc9679021220e0cb5ac,stressed unlucky enjoyable excited witty humorous garbage talented romantic esteemed enthusiastic brave coward sad trustworthy unfaithful reliable happy slob hopeful peaceful ,stressed unlucky enjoyable excited witty humorous garbage talented romantic esteemed enthusiastic brave coward sad trustworthy unfaithful reliable happy slob hopeful peaceful ,stressed unlucky enjoyable excited witty humorous garbage talented romantic esteemed enthusiastic brave coward sad trustworthy unfaithful reliable happy slob hopeful peaceful ,stressed unlucky enjoyable excited witty humorous garbage talented romantic esteemed enthusiastic brave coward sad trustworthy unfaithful reliable happy slob hopeful peaceful ,6,4,10,0.6,0.4,-0.2,HC
+284,285,315,674f68d7c879f8897ecb8665,"hypocrite
+comfortable
+garbage
+romantic
+positive
+lucky
+admired
+stressed
+anxious
+happy
+","hypocrite, comfortable, garbage, romantic, positive, lucky, admired, stressed, anxious, happy, ",hypocrite  comfortable  garbage  romantic  positive  lucky  admired  stressed  anxious  happy  ,hypocrite  comfortable  garbage  romantic  positive  lucky  admired  stressed  anxious  happy  ,2,1,3,0.666666666666667,0.333333333333333,-0.333333333333333,HC
+285,286,316,6750bbf734848245a4a1bf1e,"Peaceful
+esteemed
+smart
+energetic
+uninviting
+rude
+appealing
+witty
+attractive
+gross
+negligent
+immoral
+vain
+selfish
+
+","Peaceful, esteemed, smart, energetic, uninviting, rude, appealing, witty, attractive, gross, negligent, immoral, vain, selfish, , ",Peaceful  esteemed  smart  energetic  uninviting  rude  appealing  witty  attractive  gross  negligent  immoral  vain  selfish    ,peaceful  esteemed  smart  energetic  uninviting  rude  appealing  witty  attractive  gross  negligent  immoral  vain  selfish    ,4,4,8,0.5,0.5,0.0,HC
+286,287,319,675a092fc270f178d2409320,"disaster
+pitiful
+charming
+happy
+gross
+heartbroken
+excellent
+jealous
+uninvited
+confident
+zealous
+","disaster, pitiful, charming, happy, gross, heartbroken, excellent, jealous, uninvited, confident, zealous, ",disaster  pitiful  charming  happy  gross  heartbroken  excellent  jealous  uninvited  confident  zealous  ,disaster  pitiful  charming  happy  gross  heartbroken  excellent  jealous  uninvited  confident  zealous  ,2,0,2,1.0,0.0,-1.0,HC
+287,288,320,675a4b75a5785e654a1c1005,"enthusiastic
+dull
+romantic
+energetic
+garbage
+committed
+devoted
+uninvited
+cynic
+hopeful
+desirable
+attractive
+capable
+irresponsible
+confident
+honest
+wise","enthusiastic, dull, romantic, energetic, garbage, committed, devoted, uninvited, cynic, hopeful, desirable, attractive, capable, irresponsible, confident, honest, wise",enthusiastic  dull  romantic  energetic  garbage  committed  devoted  uninvited  cynic  hopeful  desirable  attractive  capable  irresponsible  confident  honest  wise,enthusiastic  dull  romantic  energetic  garbage  committed  devoted  uninvited  cynic  hopeful  desirable  attractive  capable  irresponsible  confident  honest  wise,9,3,12,0.75,0.25,-0.5,Depressed
+288,289,321,675c61776fc3233ee8002446,"immoral, hypocrite, confident, gross, stressed, comfortable, liar, romantic, seeker, attractive, disgusting, hopeful, calculating, academic, entertaining, humorous, witty, selfish, fun, uninvited","immoral, hypocrite, confident, gross, stressed, comfortable, liar, romantic, seeker, attractive, disgusting, hopeful, calculating, academic, entertaining, humorous, witty, selfish, fun, uninvited",immoral  hypocrite  confident  gross  stressed  comfortable  liar  romantic  seeker  attractive  disgusting  hopeful  calculating  academic  entertaining  humorous  witty  selfish  fun  uninvited,immoral  hypocrite  confident  gross  stressed  comfortable  liar  romantic  seeker  attractive  disgusting  hopeful  calculating  academic  entertaining  humorous  witty  selfish  fun  uninvited,7,4,11,0.636363636363636,0.363636363636364,-0.272727272727273,HC
+289,290,322,675d99c3d9b26c34bbac2591,"coward, brave, honest, liar, carefree, shy, selfish.","coward, brave, honest, liar, carefree, shy, selfish.",coward  brave  honest  liar  carefree  shy  selfish.,coward  brave  honest  liar  carefree  shy  selfish.,3,2,5,0.6,0.4,-0.2,HC
+290,291,323,675ee030690a32119157495c,"entertaining
+sad
+confident
+excellent
+confident
+gross
+garbage
+attractive
+special
+hopeful
+envious
+jealous
+trustworthy
+cheater
+faithful
+fraud
+happy
+","entertaining, sad, confident, excellent, confident, gross, garbage, attractive, special, hopeful, envious, jealous, trustworthy, cheater, faithful, fraud, happy, ",entertaining  sad  confident  excellent  confident  gross  garbage  attractive  special  hopeful  envious  jealous  trustworthy  cheater  faithful  fraud  happy  ,entertaining  sad  confident  excellent  confident  gross  garbage  attractive  special  hopeful  envious  jealous  trustworthy  cheater  faithful  fraud  happy  ,5,2,7,0.714285714285714,0.285714285714286,-0.428571428571429,Depressed
+292,293,326,6763df4c07cdfcbfc805304b,"seeker, pitiful, welcoming, romantic, lovable, sad, learner, academic, humorous, overwhelmed, laughable, ","seeker, pitiful, welcoming, romantic, lovable, sad, learner, academic, humorous, overwhelmed, laughable, ",seeker  pitiful  welcoming  romantic  lovable  sad  learner  academic  humorous  overwhelmed  laughable  ,seeker  pitiful  welcoming  romantic  lovable  sad  learner  academic  humorous  overwhelmed  laughable  ,4,1,5,0.8,0.2,-0.6,HC
+293,294,329,676705d72e4e127d7fc3ca0c,"Humorous, Incapable, Worthless and many more.","Humorous, Incapable, Worthless and many more.",Humorous  Incapable  Worthless and many more.,humorous  incapable  worthless and many more.,1,2,3,0.333333333333333,0.666666666666667,0.333333333333333,HC
+294,295,330,676708c900a8d4d795f34f88,"Esteem, Enjoyable, Lovable, garbage.","Esteem, Enjoyable, Lovable, garbage.",Esteem  Enjoyable  Lovable  garbage.,esteem  enjoyable  lovable  garbage.,1,0,1,1.0,0.0,-1.0,HC
+295,296,331,676ecd42e174082e5d5962fa,"esteemed, happy, talented, gross, univited, enjoyable, merciful","esteemed, happy, talented, gross, univited, enjoyable, merciful",esteemed  happy  talented  gross  univited  enjoyable  merciful,esteemed  happy  talented  gross  univited  enjoyable  merciful,2,0,2,1.0,0.0,-1.0,HC
+296,297,332,676edb8ebfddac82b8e23c49,"overwhelmed, anxious, scoundrel, confident, pitiful, friendly, sad, happy, heartbroken, romantic, honest, esteemed","overwhelmed, anxious, scoundrel, confident, pitiful, friendly, sad, happy, heartbroken, romantic, honest, esteemed",overwhelmed  anxious  scoundrel  confident  pitiful  friendly  sad  happy  heartbroken  romantic  honest  esteemed,overwhelmed  anxious  scoundrel  confident  pitiful  friendly  sad  happy  heartbroken  romantic  honest  esteemed,3,2,5,0.6,0.4,-0.2,Depressed
+297,298,333,676f3320d9d16da08ad9acfa,"Hypocrite, Attractive, Gross, Repulsive, Liar, Honest, Stressful, Unattractive, Unwanted, Romantic","Hypocrite, Attractive, Gross, Repulsive, Liar, Honest, Stressful, Unattractive, Unwanted, Romantic",Hypocrite  Attractive  Gross  Repulsive  Liar  Honest  Stressful  Unattractive  Unwanted  Romantic,hypocrite  attractive  gross  repulsive  liar  honest  stressful  unattractive  unwanted  romantic,2,3,5,0.4,0.6,0.2,HC
+298,299,335,6771633e49c5b9adc2d0cf8f,"STRESSFUL, OVERWELMED, REGRETFULL, HAPPY, DEGRATEFUL, PITIFUL, CHARMING, GRATEFUL, SUCCESS,UNGRATEFUL LOVABLE","STRESSFUL, OVERWELMED, REGRETFULL, HAPPY, DEGRATEFUL, PITIFUL, CHARMING, GRATEFUL, SUCCESS,UNGRATEFUL LOVABLE",STRESSFUL  OVERWELMED  REGRETFULL  HAPPY  DEGRATEFUL  PITIFUL  CHARMING  GRATEFUL  SUCCESS UNGRATEFUL LOVABLE,stressful  overwelmed  regretfull  happy  degrateful  pitiful  charming  grateful  success ungrateful lovable,3,0,3,1.0,0.0,-1.0,Depressed
+299,300,336,6772a856bfadaa1b9c78a912,pitiful overwhelmed peaceful brave hypocrite scoundrel charming uninvited disgusting gross witty talented merciful graceful humorous ,pitiful overwhelmed peaceful brave hypocrite scoundrel charming uninvited disgusting gross witty talented merciful graceful humorous ,pitiful overwhelmed peaceful brave hypocrite scoundrel charming uninvited disgusting gross witty talented merciful graceful humorous ,pitiful overwhelmed peaceful brave hypocrite scoundrel charming uninvited disgusting gross witty talented merciful graceful humorous ,6,1,7,0.857142857142857,0.142857142857143,-0.714285714285714,HC
+300,301,337,6772e998bc3b61e9e2bdf90b,pitiful scoundrel excited creepy peaceful joyful comfortable disgusting ,pitiful scoundrel excited creepy peaceful joyful comfortable disgusting ,pitiful scoundrel excited creepy peaceful joyful comfortable disgusting ,pitiful scoundrel excited creepy peaceful joyful comfortable disgusting ,0,1,1,0.0,1.0,1.0,Depressed
+301,302,338,6772f3211c8048a719d2871b,"overwhelmed, stressed, smiley, untrustworthy, ","overwhelmed, stressed, smiley, untrustworthy, ",overwhelmed  stressed  smiley  untrustworthy  ,overwhelmed  stressed  smiley  untrustworthy  ,1,1,2,0.5,0.5,0.0,Depressed
+302,303,339,677614004b333b9a50de9d41,envious scoundrel fraud exciting smart ,envious scoundrel fraud exciting smart ,envious scoundrel fraud exciting smart ,envious scoundrel fraud exciting smart ,1,1,2,0.5,0.5,0.0,Depressed
+303,304,341,677b01925df0971154a60e0f,"Scoundrel, hypocrite, gross, peaceful, enjoyable, learner ","Scoundrel, hypocrite, gross, peaceful, enjoyable, learner ",Scoundrel  hypocrite  gross  peaceful  enjoyable  learner ,scoundrel  hypocrite  gross  peaceful  enjoyable  learner ,1,0,1,1.0,0.0,-1.0,HC
+304,305,342,677bd5e9d32dc06af03c6c72,"gross,scoundrel,garbage,unfauthful,exciting,overwhelmed, enjoyed, blissful, unfaithful, learner, heartbroken ,appealing, comfortable, pitful, loser, hypocrite, challenging, fun, adventourous, disaster .","gross,scoundrel,garbage,unfauthful,exciting,overwhelmed, enjoyed, blissful, unfaithful, learner, heartbroken ,appealing, comfortable, pitful, loser, hypocrite, challenging, fun, adventourous, disaster .",gross scoundrel garbage unfauthful exciting overwhelmed  enjoyed  blissful  unfaithful  learner  heartbroken  appealing  comfortable  pitful  loser  hypocrite  challenging  fun  adventourous  disaster .,gross scoundrel garbage unfauthful exciting overwhelmed  enjoyed  blissful  unfaithful  learner  heartbroken  appealing  comfortable  pitful  loser  hypocrite  challenging  fun  adventourous  disaster .,3,2,5,0.6,0.4,-0.2,Depressed
+305,306,343,677bed01fade514fdf163556,happy,happy,happy,happy,1,0,1,1.0,0.0,-1.0,Depressed
+306,307,345,677c86d5bba5ea17eeb421dc,"sad, gross, wise, fool, incompetent, pitiful, unwanted, uninvited, garbage, helper, stressed, overwhelmed, merciful, disaster, special, visionary, tedious","sad, gross, wise, fool, incompetent, pitiful, unwanted, uninvited, garbage, helper, stressed, overwhelmed, merciful, disaster, special, visionary, tedious",sad  gross  wise  fool  incompetent  pitiful  unwanted  uninvited  garbage  helper  stressed  overwhelmed  merciful  disaster  special  visionary  tedious,sad  gross  wise  fool  incompetent  pitiful  unwanted  uninvited  garbage  helper  stressed  overwhelmed  merciful  disaster  special  visionary  tedious,5,4,9,0.555555555555556,0.444444444444444,-0.111111111111111,HC
+307,308,346,677dda945a4389f3f9a18fb2,"pitful, garbage, hypocrite, scoundrel, degenerate, esteemed, unwanted","pitful, garbage, hypocrite, scoundrel, degenerate, esteemed, unwanted",pitful  garbage  hypocrite  scoundrel  degenerate  esteemed  unwanted,pitful  garbage  hypocrite  scoundrel  degenerate  esteemed  unwanted,0,2,2,0.0,1.0,1.0,Depressed
+308,309,347,677ea69dd3dc2bbab8fddc9f,"Talented
+Gross
+Helpful
+Charming
+Kind
+Smart
+
+","Talented, Gross, Helpful, Charming, Kind, Smart, , ",Talented  Gross  Helpful  Charming  Kind  Smart    ,talented  gross  helpful  charming  kind  smart    ,2,0,2,1.0,0.0,-1.0,HC
+309,310,348,678006e78e6574487778153a,"excellent, gross, mature, slob, hopeful, happy, peaceful, happy, enjoyable, fun, romantic, envious, vain, terrified, pitiful, ","excellent, gross, mature, slob, hopeful, happy, peaceful, happy, enjoyable, fun, romantic, envious, vain, terrified, pitiful, ",excellent  gross  mature  slob  hopeful  happy  peaceful  happy  enjoyable  fun  romantic  envious  vain  terrified  pitiful  ,excellent  gross  mature  slob  hopeful  happy  peaceful  happy  enjoyable  fun  romantic  envious  vain  terrified  pitiful  ,4,2,6,0.666666666666667,0.333333333333333,-0.333333333333333,HC
+310,311,349,67808e61ef1f7195f94137a8,"Happy
+Enjoyable
+Menice
+","Happy, Enjoyable, Menice, ",Happy  Enjoyable  Menice  ,happy  enjoyable  menice  ,1,0,1,1.0,0.0,-1.0,Depressed
+311,312,350,6780eb253ac6d8e7413f208d,"romantic, unattractive, coward, happy","romantic, unattractive, coward, happy",romantic  unattractive  coward  happy,romantic  unattractive  coward  happy,1,1,2,0.5,0.5,0.0,HC
+312,313,351,6781549a6f8db6a1008264e9,"pittiful 
+unlucky
+coward
+smart
+hater
+enjoyable
+scoundrel
+gross
+lovable","pittiful , unlucky, coward, smart, hater, enjoyable, scoundrel, gross, lovable",pittiful   unlucky  coward  smart  hater  enjoyable  scoundrel  gross  lovable,pittiful   unlucky  coward  smart  hater  enjoyable  scoundrel  gross  lovable,2,2,4,0.5,0.5,0.0,HC
+313,314,352,678164b1d37d3faa611f9b56,"scoundrel, pitiful, exciting, pleasant, uninvited, appealing, stressed, overwhelmed, careful, humorous, adventurous, spontaneous, boring, ","scoundrel, pitiful, exciting, pleasant, uninvited, appealing, stressed, overwhelmed, careful, humorous, adventurous, spontaneous, boring, ",scoundrel  pitiful  exciting  pleasant  uninvited  appealing  stressed  overwhelmed  careful  humorous  adventurous  spontaneous  boring  ,scoundrel  pitiful  exciting  pleasant  uninvited  appealing  stressed  overwhelmed  careful  humorous  adventurous  spontaneous  boring  ,2,0,2,1.0,0.0,-1.0,HC
+314,315,354,6781e2745214f6bcc5c6d6c0,"Esteemed, Pitiful, Worthless, Stressed, Menace, Distressed, Important, Romantic, Anxious, Worried, Worthy, Devoted, Dishonest","Esteemed, Pitiful, Worthless, Stressed, Menace, Distressed, Important, Romantic, Anxious, Worried, Worthy, Devoted, Dishonest",Esteemed  Pitiful  Worthless  Stressed  Menace  Distressed  Important  Romantic  Anxious  Worried  Worthy  Devoted  Dishonest,esteemed  pitiful  worthless  stressed  menace  distressed  important  romantic  anxious  worried  worthy  devoted  dishonest,1,4,5,0.2,0.8,0.6,Depressed
+315,316,355,6782c582eb58d60882dfda1d,"Sad
+Unlucky
+Confident
+Overwhelming
+Romantic
+Fool
+Happy
+Hypocrite
+Comfortable
+Stressed
+Selfish
+Humorous
+Entertaining  ","Sad, Unlucky, Confident, Overwhelming, Romantic, Fool, Happy, Hypocrite, Comfortable, Stressed, Selfish, Humorous, Entertaining  ",Sad  Unlucky  Confident  Overwhelming  Romantic  Fool  Happy  Hypocrite  Comfortable  Stressed  Selfish  Humorous  Entertaining  ,sad  unlucky  confident  overwhelming  romantic  fool  happy  hypocrite  comfortable  stressed  selfish  humorous  entertaining  ,3,3,6,0.5,0.5,0.0,HC
+316,317,356,6783c90df64201030bb0585f,"Gross
+excited
+talented
+unlucky
+comfortable
+streessed
+excited
+talented
+happy
+romantic
+loyal
+","Gross, excited, talented, unlucky, comfortable, streessed, excited, talented, happy, romantic, loyal, ",Gross  excited  talented  unlucky  comfortable  streessed  excited  talented  happy  romantic  loyal  ,gross  excited  talented  unlucky  comfortable  streessed  excited  talented  happy  romantic  loyal  ,1,0,1,1.0,0.0,-1.0,Depressed
+317,318,357,6783c9e6243eddd70825e823,"pitiful
+gross
+garbage
+unforgiving
+scoundrel
+uninviting
+academic
+
+","pitiful, gross, garbage, unforgiving, scoundrel, uninviting, academic, , ",pitiful  gross  garbage  unforgiving  scoundrel  uninviting  academic    ,pitiful  gross  garbage  unforgiving  scoundrel  uninviting  academic    ,1,0,1,1.0,0.0,-1.0,Depressed
+318,319,358,67843bb2705852549a910c50,"scoundrel, excited, esteemed, disaster, gross, confident, talented, unlucky, adventurous, heartbroken, academic, hypocrite, unwanted, appealing","scoundrel, excited, esteemed, disaster, gross, confident, talented, unlucky, adventurous, heartbroken, academic, hypocrite, unwanted, appealing",scoundrel  excited  esteemed  disaster  gross  confident  talented  unlucky  adventurous  heartbroken  academic  hypocrite  unwanted  appealing,scoundrel  excited  esteemed  disaster  gross  confident  talented  unlucky  adventurous  heartbroken  academic  hypocrite  unwanted  appealing,1,1,2,0.5,0.5,0.0,HC
+319,320,359,67844f3d71e3450615f3fd4d,"scoundrel, academic, learner, excellent, excited, sad, gross, garbage, depressed, menace, slob, heartbroken, awful, entertainer, sophisticated, ","scoundrel, academic, learner, excellent, excited, sad, gross, garbage, depressed, menace, slob, heartbroken, awful, entertainer, sophisticated, ",scoundrel  academic  learner  excellent  excited  sad  gross  garbage  depressed  menace  slob  heartbroken  awful  entertainer  sophisticated  ,scoundrel  academic  learner  excellent  excited  sad  gross  garbage  depressed  menace  slob  heartbroken  awful  entertainer  sophisticated  ,3,3,6,0.5,0.5,0.0,Depressed
+320,321,360,6784863a028ac25ee3f395ee,"scoundrel, stresses, parasite, uninvited, loser, overwhelmed, anxious, burden, outcast, honest","scoundrel, stresses, parasite, uninvited, loser, overwhelmed, anxious, burden, outcast, honest",scoundrel  stresses  parasite  uninvited  loser  overwhelmed  anxious  burden  outcast  honest,scoundrel  stresses  parasite  uninvited  loser  overwhelmed  anxious  burden  outcast  honest,1,5,6,0.166666666666667,0.833333333333333,0.666666666666667,Depressed
+321,322,361,67849e9a334eaf1d8e0de077,scoundrel garbage enthusiastic romantic uninvited gross slob worthless learner academic peaceful stressed annoying timid excited humorous happy mess overwhelmed creep honest liar hypocrite honest driven loser failure focused unlikeable ,scoundrel garbage enthusiastic romantic uninvited gross slob worthless learner academic peaceful stressed annoying timid excited humorous happy mess overwhelmed creep honest liar hypocrite honest driven loser failure focused unlikeable ,scoundrel garbage enthusiastic romantic uninvited gross slob worthless learner academic peaceful stressed annoying timid excited humorous happy mess overwhelmed creep honest liar hypocrite honest driven loser failure focused unlikeable ,scoundrel garbage enthusiastic romantic uninvited gross slob worthless learner academic peaceful stressed annoying timid excited humorous happy mess overwhelmed creep honest liar hypocrite honest driven loser failure focused unlikeable ,7,7,14,0.5,0.5,0.0,HC
+322,323,362,6784f891eb06f5d3202730c8,"Scoundrel
+unhappy
+unwelcome
+talented
+hypocrite
+happiness
+repulsive
+unforgiving
+achiever
+loser
+","Scoundrel, unhappy, unwelcome, talented, hypocrite, happiness, repulsive, unforgiving, achiever, loser, ",Scoundrel  unhappy  unwelcome  talented  hypocrite  happiness  repulsive  unforgiving  achiever  loser  ,scoundrel  unhappy  unwelcome  talented  hypocrite  happiness  repulsive  unforgiving  achiever  loser  ,1,3,4,0.25,0.75,0.5,Depressed
+323,324,363,6785314a475f67e02de48838,"charming, appealing, unforgiving, happy, burden, scoundrel, dull, distressed, stressed, worthless.","charming, appealing, unforgiving, happy, burden, scoundrel, dull, distressed, stressed, worthless.",charming  appealing  unforgiving  happy  burden  scoundrel  dull  distressed  stressed  worthless.,charming  appealing  unforgiving  happy  burden  scoundrel  dull  distressed  stressed  worthless.,2,3,5,0.4,0.6,0.2,HC
+324,325,364,67855fd515b1d12ffc750589,"gross
+uninvited
+eventful
+dull
+fool
+menace
+","gross, uninvited, eventful, dull, fool, menace, ",gross  uninvited  eventful  dull  fool  menace  ,gross  uninvited  eventful  dull  fool  menace  ,0,3,3,0.0,1.0,1.0,Depressed
+325,326,365,678655754c482a250d86dfd8,"Heartbroken, honest, fool, sad, wise","Heartbroken, honest, fool, sad, wise",Heartbroken  honest  fool  sad  wise,heartbroken  honest  fool  sad  wise,2,2,4,0.5,0.5,0.0,Depressed
+326,327,366,67868aee9eafadcc65b35196,"easygoing, talented, gross, sophisticated, scoundrel, immoral, distressed, happy, blissful ","easygoing, talented, gross, sophisticated, scoundrel, immoral, distressed, happy, blissful ",easygoing  talented  gross  sophisticated  scoundrel  immoral  distressed  happy  blissful ,easygoing  talented  gross  sophisticated  scoundrel  immoral  distressed  happy  blissful ,4,2,6,0.666666666666667,0.333333333333333,-0.333333333333333,HC
+327,328,367,6786f31c1b439cd94f798c31,exicted scroundrel pitful sad happy,exicted scroundrel pitful sad happy,exicted scroundrel pitful sad happy,exicted scroundrel pitful sad happy,1,1,2,0.5,0.5,0.0,HC
+328,329,368,6787498609e1d680d95d7c37,"incompetant, unloyal, depressed, tolerant, ugly, excellent, loyal, traitor, happy, intelligent, wise, smart, unforgivable","incompetant, unloyal, depressed, tolerant, ugly, excellent, loyal, traitor, happy, intelligent, wise, smart, unforgivable",incompetant  unloyal  depressed  tolerant  ugly  excellent  loyal  traitor  happy  intelligent  wise  smart  unforgivable,incompetant  unloyal  depressed  tolerant  ugly  excellent  loyal  traitor  happy  intelligent  wise  smart  unforgivable,4,2,6,0.666666666666667,0.333333333333333,-0.333333333333333,Depressed
+329,330,369,6787c7b9ca2d271ec3480da6,liar unproductive slob honest disaster truthful dishonest selfish blissful fool unpleasant stressed,liar unproductive slob honest disaster truthful dishonest selfish blissful fool unpleasant stressed,liar unproductive slob honest disaster truthful dishonest selfish blissful fool unpleasant stressed,liar unproductive slob honest disaster truthful dishonest selfish blissful fool unpleasant stressed,2,4,6,0.333333333333333,0.666666666666667,0.333333333333333,Depressed
+330,331,370,6787df355a1065af647e5dd1,gross talented sophisticated hypocrite confident coward happy sad annoyed uninvited parasite anxious unique thinker creative helper ,gross talented sophisticated hypocrite confident coward happy sad annoyed uninvited parasite anxious unique thinker creative helper ,gross talented sophisticated hypocrite confident coward happy sad annoyed uninvited parasite anxious unique thinker creative helper ,gross talented sophisticated hypocrite confident coward happy sad annoyed uninvited parasite anxious unique thinker creative helper ,4,4,8,0.5,0.5,0.0,HC
+331,332,371,6787f09d6dcbceee0e2cf05c,"scoundrel 
+heartbroken
+excited
+overwhelmed
+garbage
+gross
+admired
+uninvited
+liar
+honest","scoundrel , heartbroken, excited, overwhelmed, garbage, gross, admired, uninvited, liar, honest",scoundrel   heartbroken  excited  overwhelmed  garbage  gross  admired  uninvited  liar  honest,scoundrel   heartbroken  excited  overwhelmed  garbage  gross  admired  uninvited  liar  honest,2,1,3,0.666666666666667,0.333333333333333,-0.333333333333333,Depressed
+332,333,372,67882df6d46e9d4aa9971ab9,fun smiley exicted happy sad furious charming lovely ,fun smiley exicted happy sad furious charming lovely ,fun smiley exicted happy sad furious charming lovely ,fun smiley exicted happy sad furious charming lovely ,4,1,5,0.8,0.2,-0.6,HC
+333,334,375,6789ac8527bbce25fe21a7a4,"seeker, heartbroken, garbage, stressed, enjoyable, scoundrel, capable, witty, depressed, anxious, gross, fraud, ","seeker, heartbroken, garbage, stressed, enjoyable, scoundrel, capable, witty, depressed, anxious, gross, fraud, ",seeker  heartbroken  garbage  stressed  enjoyable  scoundrel  capable  witty  depressed  anxious  gross  fraud  ,seeker  heartbroken  garbage  stressed  enjoyable  scoundrel  capable  witty  depressed  anxious  gross  fraud  ,2,2,4,0.5,0.5,0.0,Depressed
+334,335,376,678ab1045367b7b50b7daeca,"enjoyable, romantic, disaster, hopeful, confident, scoundrel   ","enjoyable, romantic, disaster, hopeful, confident, scoundrel   ",enjoyable  romantic  disaster  hopeful  confident  scoundrel   ,enjoyable  romantic  disaster  hopeful  confident  scoundrel   ,1,0,1,1.0,0.0,-1.0,Depressed
+335,336,377,678e69996debb07354f037ed,"Disgusting, uninvited, esteemed, enthusiastic, hypocrite, romantic, witty, helper, asset, lovable, scoundrel, adventerous, gross, garbage, heartbroken","Disgusting, uninvited, esteemed, enthusiastic, hypocrite, romantic, witty, helper, asset, lovable, scoundrel, adventerous, gross, garbage, heartbroken",Disgusting  uninvited  esteemed  enthusiastic  hypocrite  romantic  witty  helper  asset  lovable  scoundrel  adventerous  gross  garbage  heartbroken,disgusting  uninvited  esteemed  enthusiastic  hypocrite  romantic  witty  helper  asset  lovable  scoundrel  adventerous  gross  garbage  heartbroken,5,1,6,0.833333333333333,0.166666666666667,-0.666666666666667,Depressed
+336,337,379,678eb7627e980f5537471ef9,"pitiful
+gross
+unpleasant
+happy
+heartbroken
+disrespectful
+thrilled
+romantic
+unhappy
+unfaithful
+deceitful
+pity
+arrogant
+helpful
+faithful
+","pitiful, gross, unpleasant, happy, heartbroken, disrespectful, thrilled, romantic, unhappy, unfaithful, deceitful, pity, arrogant, helpful, faithful, ",pitiful  gross  unpleasant  happy  heartbroken  disrespectful  thrilled  romantic  unhappy  unfaithful  deceitful  pity  arrogant  helpful  faithful  ,pitiful  gross  unpleasant  happy  heartbroken  disrespectful  thrilled  romantic  unhappy  unfaithful  deceitful  pity  arrogant  helpful  faithful  ,1,1,2,0.5,0.5,0.0,HC
+337,338,380,678f0e2f323b39fc47f505c1,Pitiful romantic blissful angry sad happy gross scoundrel attractive anger ,Pitiful romantic blissful angry sad happy gross scoundrel attractive anger ,Pitiful romantic blissful angry sad happy gross scoundrel attractive anger ,pitiful romantic blissful angry sad happy gross scoundrel attractive anger ,3,1,4,0.75,0.25,-0.5,HC
+338,339,381,67902cd097f13c47415a2087,"delight, happy, excellent, witty, happy, sad, thoughtful, satisfied, brave, scoundrel, blissful, enthusiastic, hateful,   ","delight, happy, excellent, witty, happy, sad, thoughtful, satisfied, brave, scoundrel, blissful, enthusiastic, hateful,   ",delight  happy  excellent  witty  happy  sad  thoughtful  satisfied  brave  scoundrel  blissful  enthusiastic  hateful    ,delight  happy  excellent  witty  happy  sad  thoughtful  satisfied  brave  scoundrel  blissful  enthusiastic  hateful    ,8,1,9,0.888888888888889,0.111111111111111,-0.777777777777778,Depressed
+339,340,382,679066680b43c1bacb31a674,"Hypocrite. Heartbroken. Blissful, Grateful, gross, liar,Incompetent, disaster, sad,happy,enjoyable,lovable,romantic","Hypocrite. Heartbroken. Blissful, Grateful, gross, liar,Incompetent, disaster, sad,happy,enjoyable,lovable,romantic",Hypocrite. Heartbroken. Blissful  Grateful  gross  liar Incompetent  disaster  sad happy enjoyable lovable romantic,hypocrite. heartbroken. blissful  grateful  gross  liar incompetent  disaster  sad happy enjoyable lovable romantic,3,3,6,0.5,0.5,0.0,Depressed
+340,341,383,67926c936bb1265145bf018d,"Sad, Scoundrel, Unlucky, Seeker, Appealing, Attractive, Cynic, Burden, Proficient, Healthy, Spiritual, Hopeful, Academic","Sad, Scoundrel, Unlucky, Seeker, Appealing, Attractive, Cynic, Burden, Proficient, Healthy, Spiritual, Hopeful, Academic",Sad  Scoundrel  Unlucky  Seeker  Appealing  Attractive  Cynic  Burden  Proficient  Healthy  Spiritual  Hopeful  Academic,sad  scoundrel  unlucky  seeker  appealing  attractive  cynic  burden  proficient  healthy  spiritual  hopeful  academic,5,3,8,0.625,0.375,-0.25,Depressed
