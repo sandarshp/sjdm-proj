@@ -9,9 +9,7 @@ analysis_scripts - Contain the two scripts you'll need for analysis. analysis.ip
 Run the following in your terminal to setup the environment
 
   conda create -n myenv python=3.10
-  
-  conda activate myenv
-  
+  conda activate myenv 
   pip install -r requirements.txt
 
 plots - plots generated from analysis.ipynb
