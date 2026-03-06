@@ -6,9 +6,12 @@ The demo is a mini experiment with 10 ratings trials, 6 trials from the pairings
 The directories are organized as follows
 
 analysis_scripts - Contain the two scripts you'll need for analysis. analysis.ipynb is the main analysis script. run_models.ipynb generates model outputs that are used by the main analysis script. Use requirement.txt to set up the python environment.
-Run the following in your terminal to setup the environment 
+Run the following in your terminal to setup the environment
+
   conda create -n myenv python=3.10
+  
   conda activate myenv
+  
   pip install -r requirements.txt
 
 plots - plots generated from analysis.ipynb
