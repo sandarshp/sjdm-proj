@@ -17,9 +17,11 @@ The repo contains the following folders
 
 **task_demo_link** - contains the link to the demo experiment
 
-**analysis_scripts** - Contain the two scripts you'll need for analysis. analysis.ipynb is the main analysis script. run_models.ipynb generates model outputs that are used by the main analysis script. Use requirement.txt to set up the python environment.
+**analysis_scripts** - Contain the two scripts you'll need for analysis. analysis.ipynb is the main analysis script. run_models.ipynb generates model outputs that are used by the main analysis script. Also contains requirement.txt for setting up the python environment
 
-Run the following in your terminal to setup the environment
+## Setting up the python environment
+
+Use requirement.txt (inside the analysis_scripts folder) to set up the python environment. Run the following in your terminal to setup the environment.
 
   conda create -n myenv python=3.10
   
