@@ -21,7 +21,7 @@ The repo contains the following folders
 
 ## Setting up the python environment
 
-Use requirement.txt (inside the analysis_scripts folder) to set up the python environment. Run the following in your terminal to setup the environment.
+Use requirement.txt (inside the analysis_scripts folder) to set up the python environment. Run the following in your terminal to set up the environment.
 
   conda create -n myenv python=3.10
   
