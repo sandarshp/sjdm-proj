@@ -1,9 +1,13 @@
-Task code, analysis code and data for Pandey, S., Migó, M., Chang, M., & Hitchcock, P. (n.d.). Inferring latent self-schemas to advance understanding of mental health problems
+# Overview
 
+Task code, analysis code and data for Pandey, S., Migó, M., Chang, M., & Hitchcock, P. (n.d.). Inferring latent self-schemas to advance understanding of mental health problems. If you have any questions or suggestions please feel free to email me at sandarsh.pandey@emory.edu 
+
+## Demo Link
 You can access the demo version of the task here - https://run.pavlovia.org/translational.lab/sjdm-demo/
 The demo is a mini experiment with 10 ratings trials, 6 trials from the pairings phase, recall phase, 4 recognition trials.
 
-The directories are organized as follows
+## Folders
+The repo contains the following folders
 
 **plots** - plots generated from analysis.ipynb
 
@@ -14,6 +18,7 @@ The directories are organized as follows
 **task_demo_link** - contains the link to the demo experiment
 
 **analysis_scripts** - Contain the two scripts you'll need for analysis. analysis.ipynb is the main analysis script. run_models.ipynb generates model outputs that are used by the main analysis script. Use requirement.txt to set up the python environment.
+
 Run the following in your terminal to setup the environment
 
   conda create -n myenv python=3.10
