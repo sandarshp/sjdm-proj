@@ -13,7 +13,7 @@ The repo contains the following folders
 
 **task_code** - code for the task used in Study 2
 
-**task_data** - behavioral data from study 1 and study 2
+**task_data** - behavioral data from Study 1 and Study 2
 
 **task_demo_link** - contains the link to the demo experiment
 
